@@ -1,0 +1,995 @@
+{
+  "ebook": "The Ultimate Fitness Recipe Vault - Edición España",
+  "idioma": "es-ES",
+  "parte1": {
+    "titulo": "Whole Food Power (Sin Suplementos)",
+    "recetas": [
+      {
+        "id": 1,
+        "capitulo": "Desayunos y Meriendas Fit",
+        "titulo": "Tortitas de Avena y Plátano con Canela",
+        "frase_efecto": "Simples, deliciosas y perfectas para nutrir tu masa muscular sin azúcares añadidos ❤️",
+        "tiempo": "10 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍌 1 plátano maduro (100 g)",
+          "🥚 2 huevos grandes",
+          "🥣 1/2 taza de avena en copos (40 g)",
+          "🧂 1 cucharadita de canela en polvo (5 g)",
+          "🫒 1 cucharadita de aceite de oliva virgen extra para la sartén (5 ml)"
+        ],
+        "foto_arquivo": "receta_P1_C1_01_es.jpg",
+        "foto_prompt": "Professional editorial food photography of a stack of fluffy banana oat pancakes topped with fresh banana slices and a light drizzle of honey, served on a modern ceramic plate, soft natural window light, soft-focus warm cream background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un bol mediano, aplasta el plátano maduro con un tenedor hasta obtener un puré suave.",
+          "Añade los dos huevos enteros y bate vigorosamente hasta integrarlos con el plátano.",
+          "Incorpora la avena en copos y la canela en polvo, mezclando hasta formar una masa homogénea.",
+          "Calienta una sartén antiadherente a fuego medio-bajo con unas gotas de aceite de oliva.",
+          "Vierte pequeñas porciones de la masa para formar las tortitas.",
+          "Cocina durante 2 o 3 minutos hasta que aparezcan burbujas en la superficie y los bordes estén firmes.",
+          "Dale la vuelta con cuidado y cocina 1 o 2 minutos más por el otro lado hasta que estén doradas.",
+          "Sirve de inmediato con unas rodajas de plátano fresco por encima."
+        ],
+        "frase_lateral": "Ideal para un desayuno energético o una merienda pre-entrenamiento 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Combina carbohidratos complejos de la avena con la proteína de alto valor biológico del huevo para energía sostenida sin picos de insulina.",
+        "macros": {
+          "calorias": "380 kcal",
+          "proteinas": "18 g",
+          "carbohidratos": "51 g",
+          "grasas": "13 g",
+          "fibra": "6 g"
+        },
+        "variaciones": [
+          "🌱 Añade 1 scoop de proteína Whey sabor vainilla a la masa y un pelín de agua para aumentar 24 g extra de proteína",
+          "🌱 Sustituye un huevo entero por dos claras de huevo para reducir 50 kcal y bajar la grasa total"
+        ]
+      },
+      {
+        "id": 2,
+        "capitulo": "Desayunos y Meriendas Fit",
+        "titulo": "Porridge de Avena y Arándanos con Claras y Almendras",
+        "frase_efecto": "Un bol cremoso y reconfortante repleto de antioxidantes y proteína limpia ❤️",
+        "tiempo": "10 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 1/2 taza de avena en copos (40 g)",
+          "🥛 1 taza de leche desnatada o vegetal sin azúcar (240 ml)",
+          "🥚 3 claras de huevo líquidas (90 ml)",
+          "🫐 1/2 taza de arándanos frescos (75 g)",
+          "🥜 1/2 oz de almendras laminadas (14 g)",
+          "🧂 1 pizca de canela en polvo"
+        ],
+        "foto_arquivo": "receta_P1_C1_02_es.jpg",
+        "foto_prompt": "Professional editorial food photography of a bowl of warm creamy oat porridge topped with fresh plump blueberries and sliced almonds, served on a clean ceramic bowl, soft natural window light, soft-focus warm cream background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un cazo pequeño, mezcla la avena en copos con la leche desnatada y la pizca de canela.",
+          "Lleva a fuego medio y cocina removiendo constantemente durante unos 4 minutos hasta que espese.",
+          "Baja el fuego al mínimo e incorpora las claras de huevo líquidas poco a poco, removiendo sin parar con unas varillas para que se integren de forma cremosa sin cuajarse.",
+          "Cocina durante 2 minutos más hasta obtener un porridge voluminoso y suave.",
+          "Retira del fuego y vierte el contenido en un bol profundo.",
+          "Decora la superficie con los arándanos frescos y las almendras laminadas."
+        ],
+        "frase_lateral": "Perfecto para empezar el día con máxima saciedad y control del apetito 🌸",
+        "objetivo_titulo": "Pérdida de Grasa y Saciedad 💪",
+        "objetivo_descripcion": "Las fibras de los copos de avena junto con la albúmina de las claras prolongan la digestión y evitan antojos durante la mañana.",
+        "macros": {
+          "calorias": "403 kcal",
+          "proteinas": "27 g",
+          "carbohidratos": "53 g",
+          "grasas": "10 g",
+          "fibra": "8 g"
+        },
+        "variaciones": [
+          "🌱 Añade 1 cucharada de semillas de chía al cazo para sumar Omega-3 y textura extra",
+          "🌱 Sustituye los arándanos por fresas laminadas o frambuesas frescas según temporada"
+        ]
+      },
+      {
+        "id": 3,
+        "capitulo": "Desayunos y Meriendas Fit",
+        "titulo": "Tosta Integral de Queso Cottage, Aguacate y Tomates Cherry",
+        "frase_efecto": "Crujiente, fresca y con el equilibrio ideal de grasas saludables y proteína ❤️",
+        "tiempo": "5 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍞 2 rebanadas de pan integral de grano entero (60 g)",
+          "🧀 3/4 taza de queso cottage (165 g)",
+          "🥑 1/4 de aguacate cortado en láminas finas (50 g)",
+          "🍅 1/2 taza de tomates cherry cortados a la mitad (75 g)",
+          "🌿 Orégano seco, sal marina y pimienta negra al gusto"
+        ],
+        "foto_arquivo": "receta_P1_C1_03_es.jpg",
+        "foto_prompt": "Professional editorial food photography of two slices of toasted whole grain bread spread with creamy cottage cheese, topped with sliced avocado and halved cherry tomatoes, sprinkled with herbs, served on a rustic plate, soft natural window light, soft-focus warm cream background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Tuesta las rebanadas de pan integral en una tostadora o sartén hasta que estén doradas y crujientes.",
+          "Reparte el queso cottage de forma equitativa sobre ambas tostadas calientes.",
+          "Coloca las láminas finas de aguacate fresco sobre el queso cottage.",
+          "Añade los tomates cherry cortados a la mitad por encima.",
+          "Espolvorea con sal marina, pimienta negra recién molida y orégano seco al gusto.",
+          "Sirve de inmediato para disfrutar del contraste entre el pan crujiente y el queso fresco."
+        ],
+        "frase_lateral": "Ideal para un desayuno salado rápido o una merienda post-entrenamiento 🌸",
+        "objetivo_titulo": "Definición Muscular 💪",
+        "objetivo_descripcion": "El queso cottage aporta caseína de liberación progresiva mientras que el aguacate favorece un entorno hormonal óptimo para definir.",
+        "macros": {
+          "calorias": "388 kcal",
+          "proteinas": "27 g",
+          "carbohidratos": "40 g",
+          "grasas": "13 g",
+          "fibra": "7 g"
+        },
+        "variaciones": [
+          "🌱 Puedes cambiar el queso cottage por queso fresco batido 0% para reducir un poco las grasas totales",
+          "🌱 Añade unas gotas de zumo de limón fresco sobre el aguacate para realzar el sabor"
+        ]
+      },
+      {
+        "id": 4,
+        "capitulo": "Desayunos y Meriendas Fit",
+        "titulo": "Bol de Yogur Griego Natural con Fresas y Nueces",
+        "frase_efecto": "Un desayuno mediterráneo listo en un minuto con altísima densidad nutricional ❤️",
+        "tiempo": "3 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 1 taza de yogur griego natural sin azúcar (225 g)",
+          "🍓 1 taza de fresas frescas cortadas en rodajas (144 g)",
+          "🥜 1/2 oz de nueces peladas y troceadas (14 g)",
+          "🍯 1 cucharadita de miel de abeja pura (7 g)",
+          "🧂 1 pizca de canela en polvo (opcional)"
+        ],
+        "foto_arquivo": "receta_P1_C1_04_es.jpg",
+        "foto_prompt": "Professional editorial food photography of a bowl of creamy Greek yogurt topped with sliced fresh strawberries and crushed walnuts, drizzled lightly with honey, soft natural window light, soft-focus warm cream background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Vierte el yogur griego natural en un bol ancho y profundo.",
+          "Coloca las rodajas de fresa fresca de forma ordenada sobre la superficie del yogur.",
+          "Esparce las nueces troceadas para aportar un toque crujiente en cada cucharada.",
+          "Rocía la cucharadita de miel de forma fina por todo el bol.",
+          "Si lo deseas, termina con un toque sutil de canela en polvo espolvoreada."
+        ],
+        "frase_lateral": "Una opción saciante y ligera para desayunar o merendar sin complicaciones 🌸",
+        "objetivo_titulo": "Pérdida de Grasa y Salud Digestiva 💪",
+        "objetivo_descripcion": "El yogur griego natural es excelente para la flora intestinal y proporciona 22 g de proteína de absorción media y lenta.",
+        "macros": {
+          "calorias": "288 kcal",
+          "proteinas": "25 g",
+          "carbohidratos": "27 g",
+          "grasas": "10 g",
+          "fibra": "3 g"
+        },
+        "variaciones": [
+          "🌱 Mezcla medio scoop de proteína Whey de vainilla directamente en el yogur para superar los 35 g de proteína",
+          "🌱 Sustituye las nueces por almendras tostadas o semillas de calabaza crujientes"
+        ]
+      },
+      {
+        "id": 5,
+        "capitulo": "Desayunos y Meriendas Fit",
+        "titulo": "Tortilla Francesa Proteica con Espinacas, Champiñones y Feta",
+        "frase_efecto": "El desayuno salado por excelencia, repleto de volumen y sabor gourmet ❤️",
+        "tiempo": "10 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥚 2 huevos grandes enteros",
+          "🥚 3 claras de huevo líquidas (90 ml)",
+          "🥬 1 taza de espinacas frescas y champiñones laminados (60 g)",
+          "🧀 1/4 taza de queso feta desmenuzado (35 g)",
+          "🫒 1 cucharadita de aceite de oliva virgen extra (5 ml)",
+          "🧂 Sal marina, ajo en polvo y pimienta negra al gusto"
+        ],
+        "foto_arquivo": "receta_P1_C1_05_es.jpg",
+        "foto_prompt": "Professional editorial food photography of a golden folded protein omelette stuffed with sautéed spinach, sliced mushrooms and crumbled feta cheese, served on a warm ceramic plate, soft natural window light, soft-focus warm cream background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En una sartén mediana, calienta el aceite de oliva a fuego medio y saltea los champiñones durante 2 minutos.",
+          "Añade las espinacas frescas a la sartén y rehoga 1 minuto hasta que reduzcan su volumen. Retira los vegetales a un plato.",
+          "En un bol, bate los 2 huevos enteros junto con las 3 claras de huevo, sal, ajo en polvo y pimienta.",
+          "Vierte los huevos batidos en la misma sartén a fuego medio-bajo.",
+          "Cuando la base de la tortilla empiece a cuajar, distribuye las espinacas, los champiñones y el queso feta en una mitad.",
+          "Dobla la otra mitad de la tortilla sobre el relleno con ayuda de una espátula.",
+          "Cocina un minuto más por lado hasta que el queso feta esté ligeramente fundido y sirve caliente."
+        ],
+        "frase_lateral": "Ideal para desayunar los fines de semana o como cena ligera alta en proteínas 🌸",
+        "objetivo_titulo": "Definición y Control Calórico 💪",
+        "objetivo_descripcion": "Al combinar huevos enteros con claras extras logras 29 g de proteína pura con muy bajo aporte de carbohidratos.",
+        "macros": {
+          "calorias": "336 kcal",
+          "proteinas": "29 g",
+          "carbohidratos": "3 g",
+          "grasas": "21 g",
+          "fibra": "2 g"
+        },
+        "variaciones": [
+          "🌱 Puedes añadir 50 g de pechuga de pavo braseada o pollo desmenuzado en el relleno para elevar la proteína",
+          "🌱 Si prefieres menos grasa total, utiliza 1 solo huevo entero y 4 claras líquidas"
+        ]
+      },
+      {
+        "id": 6,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Merluza al Horno con Verduras y Gambas",
+        "frase_efecto": "Un plato marinero ligero, fácil de hornear y de altísimo valor proteico ❤️",
+        "tiempo": "25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🐟 1 filete grande de merluza fresca o descongelada (150 g)",
+          "🦐 1/2 taza de gambas peladas y limpias (60 g)",
+          "🥔 1 patata mediana cortada en rodajas finas (150 g)",
+          "🥒 1 taza de calabacín y cebolla en rodajas (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🍋 Zumo de medio limón y perejil fresco picado",
+          "🧂 Sal marina y pimienta negra al gusto"
+        ],
+        "foto_arquivo": "receta_P1_C2_06_es.jpg",
+        "foto_prompt": "Professional editorial food photography of a tender baked hake fillet served over roasted sliced potatoes, zucchini, and garlic prawns, garnished with fresh parsley and lemon wedges, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Precalienta el horno a 200°C.",
+          "En una fuente de horno, extiende las rodajas de patata y cebolla como base, salpimenta y hornea durante 10 minutos para que empiecen a cocinarse.",
+          "Coloca el filete de merluza y las gambas peladas sobre la cama de patatas y verduras.",
+          "Rocía con la cucharada de aceite de oliva virgen extra, el zumo de limón y perejil picado.",
+          "Hornea durante 12 a 15 minutos adicionales hasta que el pescado esté en su punto y se desmigue fácilmente con un tenedor.",
+          "Sirve caliente recogiendo todos los jugos del horneado por encima."
+        ],
+        "frase_lateral": "Ideal como cena ligera o comida reconfortante para días de recuperación 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "La combinación de merluza blanca y gambas proporciona una proteína magra excepcional con un aporte calórico muy controlado.",
+        "macros": {
+          "calorias": "462 kcal",
+          "proteinas": "43 g",
+          "carbohidratos": "35 g",
+          "grasas": "16 g",
+          "fibra": "4 g"
+        },
+        "variaciones": [
+          "🌱 Puedes sustituir la merluza por filete de bacalao fresco o dorada sin alterar los macros",
+          "🌱 Si necesitas bajar más los carbohidratos, sustituye la patata por flores de coliflor al horno"
+        ]
+      },
+      {
+        "id": 7,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Salmón a la Plancha con Espárragos y Quinoa",
+        "frase_efecto": "El clásico rey de los ácidos grasos Omega-3 acompañado de superalimentos ❤️",
+        "tiempo": "20 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🐟 1 filete de salmón fresco sin espinas (120 g)",
+          "🌾 3/4 taza de quinoa cocida (135 g)",
+          "🥬 1 manojo de espárragos verdes frescos (100 g)",
+          "🫒 1 cucharadita de aceite de oliva virgen extra (5 ml)",
+          "🍋 Zumo de limón fresco, sal marina y pimienta negra"
+        ],
+        "foto_arquivo": "receta_P1_C2_07_es.jpg",
+        "foto_prompt": "Professional editorial food photography of a perfectly grilled salmon fillet with a crispy golden skin, served alongside seasoned quinoa and roasted green asparagus spears, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Salpimenta el filete de salmón por ambos lados y rocíalo con unas gotas de zumo de limón.",
+          "Calienta una sartén o plancha antiadherente a fuego medio-alto con la cucharadita de aceite de oliva.",
+          "Cocina el salmón primero por el lado de la piel durante 4 o 5 minutos hasta que esté crujiente, dale la vuelta y cocina 2 o 3 minutos más.",
+          "En la misma plancha, asa los espárragos verdes hasta que queden tiernos pero al dente.",
+          "Sirve el salmón dorado sobre una porción caliente de quinoa cocida y acompaña con los espárragos."
+        ],
+        "frase_lateral": "Excelente elección para un almuerzo completo que potencia la salud cardiovascular 🌸",
+        "objetivo_titulo": "Salud Muscular y Quema de Grasa 💪",
+        "objetivo_descripcion": "Las grasas saludables del salmón reducen la inflamación post-entreno y ayudan a optimizar el metabolismo lipídico.",
+        "macros": {
+          "calorias": "475 kcal",
+          "proteinas": "32 g",
+          "carbohidratos": "33 g",
+          "grasas": "22 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes utilizar arroz integral en lugar de quinoa si lo prefieres",
+          "🌱 Añade una pizca de eneldo fresco troceado sobre el salmón justo al servir"
+        ]
+      },
+      {
+        "id": 8,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Pechuga de Pollo al Ajillo Fit con Arroz Integral",
+        "frase_efecto": "Tradición española reinventada sin excesos de aceite pero con el máximo sabor ❤️",
+        "tiempo": "20 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍗 1 pechuga de pollo magra en filetes o dados (150 g en crudo / aprox 120 g cocida)",
+          "🍚 3/4 taza de arroz integral cocido (150 g)",
+          "🥦 1 taza de brócoli fresco en floretes (90 g)",
+          "🫒 1 cucharadita de aceite de oliva virgen extra (5 ml)",
+          "🌿 2 dientes de ajo picados, perejil fresco picado y zumo de limón",
+          "🧂 Sal y pimienta negra molida al gusto"
+        ],
+        "foto_arquivo": "receta_P1_C2_08_es.jpg",
+        "foto_prompt": "Professional editorial food photography of tender golden garlic chicken breast pieces tossed with fresh parsley, served over fluffy brown rice and steamed green broccoli florets, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Corta la pechuga de pollo en dados uniformes y salpimentálos al gusto.",
+          "Calienta la cucharadita de aceite de oliva virgen extra en una sartén antiadherente a fuego medio.",
+          "Añade los dados de pollo y dóralos durante unos 6 minutos removiendo para que se hagan por igual.",
+          "Incorpora el ajo muy picado y el perejil en el último minuto para que suelten aroma sin quemarse.",
+          "Apaga el fuego, rocía con el zumo de medio limón y mezcla bien.",
+          "Sirve el pollo al ajillo sobre una cama de arroz integral cocido junto con el brócoli al vapor."
+        ],
+        "frase_lateral": "La comida perfecta de tu día a día para construir músculo limpio y definido 🌸",
+        "objetivo_titulo": "Ganancia de Masa Muscular Magra 💪",
+        "objetivo_descripcion": "Aporta 43 gramos de proteína magra de pollo combinada con carbohidratos integrales de índice glucémico estable.",
+        "macros": {
+          "calorias": "443 kcal",
+          "proteinas": "43 g",
+          "carbohidratos": "40 g",
+          "grasas": "10 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes sustituir el brócoli por judías verdes hervidas o espárragos a la plancha",
+          "🌱 Para un toque más picante, añade media guindilla o cayena seca al sofreír el ajo"
+        ]
+      },
+      {
+        "id": 9,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Ensalada Tibia de Garbanzos con Atún y Pimientos",
+        "frase_efecto": "Una bomba de fibra, proteínas y sabor mediterráneo lista en tiempo récord ❤️",
+        "tiempo": "10 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🫘 1 taza de garbanzos cocidos en conserva, bien lavados y escurridos (160 g)",
+          "🥫 1 lata de atún al natural en agua, escurrido (110 g)",
+          "🍅 1 taza de pimientos rojos, verdes y cebolla en cubitos (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🍋 Zumo de limón fresco, perejil picado, sal y comino molido"
+        ],
+        "foto_arquivo": "receta_P1_C2_09_es.jpg",
+        "foto_prompt": "Professional editorial food photography of a colorful Mediterranean chickpea salad bowl mixed with flaked tuna, diced red and green bell peppers, red onion, and fresh parsley, drizzled with olive oil, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En una sartén, saltea ligeramente los pimientos y la cebolla con media cucharadita de aceite durante 3 minutos hasta que estén al dente.",
+          "Incorpora los garbanzos escurridos a la sartén durante 2 minutos más para que tomen temperatura.",
+          "Retira del fuego y vuelca la mezcla en un bol de ensalada profundo.",
+          "Añade el atún al natural desmigado por encima de los garbanzos tibios.",
+          "Aliña con el resto del aceite de oliva virgen extra, abundante zumo de limón, perejil fresco picado, sal y una pizca de comino."
+        ],
+        "frase_lateral": "Excelente comida completa para llevar al trabajo en un tupper o comer tras entrenar 🌸",
+        "objetivo_titulo": "Definición y Saciedad Prolongada 💪",
+        "objetivo_descripcion": "Los garbanzos aportan carbohidratos de liberación lenta y 11 gramos de fibra que mantienen a raya los niveles de azúcar.",
+        "macros": {
+          "calorias": "510 kcal",
+          "proteinas": "41 g",
+          "carbohidratos": "46 g",
+          "grasas": "18 g",
+          "fibra": "11 g"
+        },
+        "variaciones": [
+          "🌱 Puedes sustituir el atún por caballas en conserva o pollo cocido desmenuzado",
+          "🌱 Si la prefieres fría en verano, salta el paso del salteado y prepárala como ensalada fresca"
+        ]
+      },
+      {
+        "id": 10,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Paella Fitness de Mariscos con Arroz Integral",
+        "frase_efecto": "Todo el sabor marinero de una paella tradicional en una versión 100% fit ❤️",
+        "tiempo": "30 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍚 3/4 taza de arroz integral cocido (150 g)",
+          "🐟 3 oz de filete de merluza o rape en cubos (80 g)",
+          "🦐 3 oz de gambas peladas (80 g)",
+          "🐟 2 oz de carne de mejillón al vapor (50 g)",
+          "🍅 1/2 taza de pimiento rojo en tiras y guisantes tiernos (60 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🌿 Azafrán, ajo picado, caldo de pescado desgrasado y limón"
+        ],
+        "foto_arquivo": "receta_P1_C2_10_es.jpg",
+        "foto_prompt": "Professional editorial food photography of an authentic Spanish-style seafood fitness paella made with brown rice, tender hake pieces, prawns, mussels, red bell pepper strips, and green peas, garnished with lemon wedges, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En una paellera o sartén ancha, dora el ajo y las tiras de pimiento rojo con la cucharada de aceite de oliva.",
+          "Añade los cubos de merluza, las gambas y los mejillones, salteando durante 3 minutos.",
+          "Incorpora el arroz integral pre-cocido y los guisantes tiernos a la sartén.",
+          "Vierte medio vaso de caldo de pescado caliente infundido con unas hebras de azafrán.",
+          "Cocina a fuego medio durante 5 minutos para que el arroz absorba todos los sabores del marisco.",
+          "Deja reposar 2 minutos y sirve decorando con rodajas de limón fresco."
+        ],
+        "frase_lateral": "Un almuerzo espectacular para el fin de semana sin saltarte tus macros 🌸",
+        "objetivo_titulo": "Rendimiento Deportivo 💪",
+        "objetivo_descripcion": "Un plato completísimo con 41 gramos de proteína marina magra y energía duradera del arroz integral.",
+        "macros": {
+          "calorias": "510 kcal",
+          "proteinas": "41 g",
+          "carbohidratos": "41 g",
+          "grasas": "16 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes añadir unos aros de calamar o sepia limpia para aumentar aún más las proteínas",
+          "🌱 Sustituye el arroz integral por quinoa si prefieres un grano con mayor aporte proteico propio"
+        ]
+      },
+      {
+        "id": 11,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Bacalao a la Plancha con Patatas y Brócoli al Vapor",
+        "frase_efecto": "Proteína de pescado blanco de excelente calidad con carbohidratos saciantes ❤️",
+        "tiempo": "20 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🐟 1 lomo de bacalao fresco o desalado sin espinas (150 g)",
+          "🥔 1 patata mediana cocida y dorada en rodajas (150 g)",
+          "🥦 1 taza de floretes de brócoli fresco (90 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🍋 Zumo de limón, sal marina, ajo en polvo y perejil picado"
+        ],
+        "foto_arquivo": "receta_P1_C2_11_es.jpg",
+        "foto_prompt": "Professional editorial food photography of a golden grilled cod loin served over sliced roasted potatoes and vibrant green steamed broccoli florets, drizzled with olive oil and parsley, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Cocina los floretes de brócoli al vapor durante 5 minutos para que queden tiernos y verdes.",
+          "En una sartén antiadherente con media cucharada de aceite, dora las rodajas de patata pre-cocida hasta que estén crujientes por fuera.",
+          "En la misma sartén con el resto del aceite, cocina el lomo de bacalao a fuego medio durante 4 o 5 minutos por lado hasta que se deslamine fácilmente.",
+          "Emplata las patatas doradas y el brócoli como base o acompañamiento.",
+          "Coloca el lomo de bacalao encima y adereza todo con zumo de limón, ajo en polvo y perejil picado."
+        ],
+        "frase_lateral": "Una opción cena ideal por su ligereza digestiva y alto perfil de aminoácidos 🌸",
+        "objetivo_titulo": "Definición Muscular Extrema 💪",
+        "objetivo_descripcion": "El bacalao es uno de los pescados con menor contenido graso, ideal para ajustar macros en fases de corte calórico.",
+        "macros": {
+          "calorias": "405 kcal",
+          "proteinas": "33 g",
+          "carbohidratos": "36 g",
+          "grasas": "15 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes hornear el bacalao en papillote dentro de papel vegetal junto con las verduras para cocinar sin grasas extra",
+          "🌱 Cambia la patata por boniato si prefieres un sabor ligeramente más dulce"
+        ]
+      },
+      {
+        "id": 12,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Pechuga de Pollo Asada al Limón con Boniato",
+        "frase_efecto": "Sabor cítrico y un toque dulce natural en una cena equilibrada al milímetro ❤️",
+        "tiempo": "25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍗 1 pechuga de pollo magra (150 g en crudo / aprox 120 g cocida)",
+          "🍠 1 boniato mediano asado en bastones o rodajas (130 g)",
+          "🥬 1 taza de judías verdes frescas hervidas (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🍋 Zumo y ralladura de medio limón, tomillo seco, sal y pimienta"
+        ],
+        "foto_arquivo": "receta_P1_C2_12_es.jpg",
+        "foto_prompt": "Professional editorial food photography of a juicy lemon herb roasted chicken breast served with sweet potato wedges and steamed green beans, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Precalienta el horno o freidora de aire a 190°C.",
+          "Macera la pechuga de pollo con media cucharada de aceite de oliva, zumo de limón, ralladura, tomillo, sal y pimienta.",
+          "Coloca el pollo y los bastones de boniato en una bandeja para hornear.",
+          "Ásalos durante 18 a 20 minutos hasta que el pollo esté cocido por dentro y el boniato tierno y dorado.",
+          "Mientras tanto, cuece las judías verdes en agua hirviendo durante 5 minutos y escúrrelas.",
+          "Emplata el pollo asado con el boniato y las judías aderezadas con el resto del aceite."
+        ],
+        "frase_lateral": "Almuerzo o cena reconfortante y fácil de dejar preparada con antelación 🌸",
+        "objetivo_titulo": "Recuperación Muscular 💪",
+        "objetivo_descripcion": "El boniato reabastece las reservas de glucógeno muscular de forma sostenida tras entrenamientos intensos.",
+        "macros": {
+          "calorias": "465 kcal",
+          "proteinas": "41 g",
+          "carbohidratos": "33 g",
+          "grasas": "19 g",
+          "fibra": "6 g"
+        },
+        "variaciones": [
+          "🌱 Sustituye las judías verdes por espárragos verdes o brócoli al gusto",
+          "🌱 Utiliza pechuga de pavo si deseas una carne con un perfil aún más bajo en grasas saturadas"
+        ]
+      },
+      {
+        "id": 13,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Ensalada Mediterránea de Lentejas y Queso Feta",
+        "frase_efecto": "La fusión perfecta de legumbres tradicionales con proteína animal ligera ❤️",
+        "tiempo": "10 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🫘 1 taza de lentejas cocidas en conserva, bien lavadas (200 g)",
+          "🍗 2 oz de pechuga de pollo cocida en tacos o desmenuzada (60 g)",
+          "🧀 1/4 taza de queso feta desmenuzado (35 g)",
+          "🥒 1 taza de pepino y tomate en cubos pequeños (100 g)",
+          "🫒 1 cucharadita de aceite de oliva virgen extra (5 ml)",
+          "🍋 Zumo de limón, orégano seco, sal marina y pimienta negra"
+        ],
+        "foto_arquivo": "receta_P1_C2_13_es.jpg",
+        "foto_prompt": "Professional editorial food photography of a hearty Mediterranean lentil salad bowl mixed with diced chicken breast, crumbled feta cheese, crisp cucumber, and fresh tomato cubes, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Lava las lentejas cocidas bajo el grifo de agua fría en un colador y escúrrelas muy bien.",
+          "En un bol grande de ensalada, introduce las lentejas, el pepino en cubos y el tomate troceado.",
+          "Añade los tacos de pechuga de pollo cocida y el queso feta desmenuzado.",
+          "Prepara una vinagreta ligera mezclando el aceite de oliva, zumo de limón, orégano y una pizca de sal marina.",
+          "Rocía el aliño sobre la ensalada, remueve delicadamente para integrar los ingredientes y sirve fresca."
+        ],
+        "frase_lateral": "Ideal como almuerzo refrescante rico en hierro y fibra para días calurosos 🌸",
+        "objetivo_titulo": "Saciedad Total y Vitalidad 💪",
+        "objetivo_descripcion": "Esta receta ofrece 17 gramos de fibra dietética natural que mejora el tránsito intestinal y calma la ansiedad por comer.",
+        "macros": {
+          "calorias": "485 kcal",
+          "proteinas": "42 g",
+          "carbohidratos": "46 g",
+          "grasas": "13 g",
+          "fibra": "17 g"
+        },
+        "variaciones": [
+          "🌱 Puedes cambiar los tacos de pollo por media lata de atún al natural bien escurrida",
+          "🌱 Si deseas más frescura vegetal, añade unas hojas de menta o hierbabuena fresca picada"
+        ]
+      },
+      {
+        "id": 14,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Brochetas de Gambas y Calabacín al Ajillo con Quinoa",
+        "frase_efecto": "Divertidas brochetas a la plancha de marisco y verduras con grano ancestral ❤️",
+        "tiempo": "15 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🦐 4 oz de gambas peladas y limpias de buen tamaño (120 g)",
+          "🌾 3/4 taza de quinoa cocida (135 g)",
+          "🥒 1 calabacín mediano cortado en rodajas o dados gruesos (150 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🍋 2 dientes de ajo picados, zumo de limón fresco, sal y perejil"
+        ],
+        "foto_arquivo": "receta_P1_C2_14_es.jpg",
+        "foto_prompt": "Professional editorial food photography of grilled garlic prawn and zucchini skewers served over a bed of fluffy seasoned quinoa, garnished with fresh parsley and lemon slices, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Ensarta alternadamente las gambas peladas y los trozos de calabacín en dos o tres palillos de brocheta de madera o metal.",
+          "En un cuenco pequeño, mezcla el aceite de oliva con el ajo picado, el perejil y un toque de sal marina.",
+          "Pincela las brochetas con la mezcla de aceite y ajo por todos lados.",
+          "Calienta una plancha o sartén grande a fuego medio-alto y asa las brochetas durante 3 o 4 minutos por lado hasta que las gambas estén rosadas.",
+          "Sirve las brochetas calientes sobre la ración de quinoa cocida y termina con un chorrito de zumo de limón."
+        ],
+        "frase_lateral": "Una cena original, vistosa y súper rápida de preparar después de entrenar 🌸",
+        "objetivo_titulo": "Definición sin Pasar Hambre 💪",
+        "objetivo_descripcion": "Las gambas son pura proteína magra mientras que la quinoa suma aminoácidos esenciales adicionales y carbohidratos complejos.",
+        "macros": {
+          "calorias": "423 kcal",
+          "proteinas": "31 g",
+          "carbohidratos": "35 g",
+          "grasas": "18 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes alternar en la brocheta trozos de pimiento rojo y amarillo para un toque más colorido",
+          "🌱 Sustituye la quinoa por arroz integral o cuscús integral si lo prefieres"
+        ]
+      },
+      {
+        "id": 15,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Wok de Pollo con Edamame y Verduras Crujientes",
+        "frase_efecto": "Estilo asiático ligero y crujiente cargado de proteína animal y vegetal ❤️",
+        "tiempo": "15 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍗 3.5 oz de pechuga de pollo cortada en tiras finas (100 g)",
+          "🫘 1/2 taza de edamame desgranado y cocido (75 g)",
+          "🍚 1/2 taza de arroz integral cocido (100 g)",
+          "🥕 1 taza de zanahoria, pimiento rojo y brócoli en juliana (100 g)",
+          "🫒 1 cucharadita de aceite de oliva o aceite de sésamo puro (5 ml)",
+          "🌿 1 cucharada de salsa de soja baja en sodio, ajo picado y jengibre fresco"
+        ],
+        "foto_arquivo": "receta_P1_C2_15_es.jpg",
+        "foto_prompt": "Professional editorial food photography of a vibrant healthy chicken and edamame wok stir-fry with colorful bell pepper strips, carrots, and broccoli over brown rice, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Calienta el aceite en un wok o sartén amplia a fuego fuerte.",
+          "Añade las tiras de pollo salpimentadas junto con el ajo y jengibre picado, salteando durante 4 minutos hasta que se doren.",
+          "Incorpora la juliana de zanahoria, pimiento y brócoli, salteando con movimiento rápido durante 3 minutos para que queden al dente.",
+          "Añade el edamame cocido desgranado y la cucharada de salsa de soja baja en sodio.",
+          "Saltea todo junto durante 1 minuto más para mezclar los sabores.",
+          "Sirve el salteado de pollo y verduras crujientes directamente sobre el arroz integral caliente."
+        ],
+        "frase_lateral": "Almuerzo potente y lleno de texturas para días con gran gasto calórico 🌸",
+        "objetivo_titulo": "Ganancia de Fuerza y Masa Magra 💪",
+        "objetivo_descripcion": "El edamame aporta proteína vegetal completa que complementa las fibras musculares junto a la proteína de pollo magra.",
+        "macros": {
+          "calorias": "440 kcal",
+          "proteinas": "43 g",
+          "carbohidratos": "38 g",
+          "grasas": "13 g",
+          "fibra": "6 g"
+        },
+        "variaciones": [
+          "🌱 Puedes sustituir el pollo por gambas peladas o tacos de tofu firme para una versión plant-based",
+          "🌱 Si deseas más volumen sin carbohidratos extras, cambia el arroz integral por arroz de coliflor salteado"
+        ]
+      },
+      {
+        "id": 16,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Atún a la Plancha con Quinoa y Espárragos Verdes",
+        "frase_efecto": "Un filete jugoso de atún con ácidos grasos esenciales y granos ancestrales ❤️",
+        "tiempo": "15 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🐟 1 filete de atún fresco o descongelado (130 g)",
+          "🌾 3/4 taza de quinoa cocida (135 g)",
+          "🥬 1 manojo de espárragos verdes frescos (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🍋 Zumo de limón, sal marina, pimienta negra y ajo en polvo"
+        ],
+        "foto_arquivo": "receta_P1_C2_16_es.jpg",
+        "foto_prompt": "Professional editorial food photography of a seared tuna steak with a pink center, served alongside fluffy quinoa and grilled green asparagus spears, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Salpimenta el filete de atún fresco y adereza con unas gotas de zumo de limón y ajo en polvo.",
+          "Calienta una sartén o plancha antiadherente a fuego fuerte con media cucharada de aceite de oliva.",
+          "Sella el filete de atún durante 2 o 3 minutos por lado para que quede jugoso en el centro (o más tiempo si lo prefieres bien hecho).",
+          "En la misma sartén con el resto del aceite, asa los espárragos verdes hasta que estén al dente.",
+          "Emplata el atún a la plancha sobre la ración de quinoa caliente junto con los espárragos verdes."
+        ],
+        "frase_lateral": "Comida o cena rápida con proteína marina de la más alta calidad y digestibilidad 🌸",
+        "objetivo_titulo": "Definición y Rendimiento 💪",
+        "objetivo_descripcion": "El atún es excepcionalmente rico en proteínas magras que preservan tu masa muscular durante la pérdida de peso.",
+        "macros": {
+          "calorias": "460 kcal",
+          "proteinas": "38 g",
+          "carbohidratos": "33 g",
+          "grasas": "18 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes sustituir el atún fresco por pez espada o salmón según tu preferencia",
+          "🌱 Añade unas semillas de sésamo tostado por encima del atún al emplatar"
+        ]
+      },
+      {
+        "id": 17,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Pechuga de Pollo Rellena de Espinacas y Queso Feta",
+        "frase_efecto": "Una pechuga jugosa rellena al horno que parece de restaurante de alta cocina ❤️",
+        "tiempo": "30 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍗 1 pechuga de pollo magra grande (160 g en crudo / aprox 130 g cocida)",
+          "🥬 1 taza de espinacas frescas picadas (30 g)",
+          "🧀 1/4 taza de queso feta desmenuzado (35 g)",
+          "🍠 1 boniato pequeño asado en rodajas (100 g)",
+          "🫒 1 cucharadita de aceite de oliva virgen extra (5 ml)",
+          "🧂 Ajo picado, sal marina y pimienta negra al gusto"
+        ],
+        "foto_arquivo": "receta_P1_C2_17_es.jpg",
+        "foto_prompt": "Professional editorial food photography of a juicy baked chicken breast sliced open to reveal a filling of spinach and melted feta cheese, served with roasted sweet potato slices, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Precalienta el horno a 200°C.",
+          "Haz un corte lateral profundo en la pechuga de pollo con un cuchillo afilado para abrirla en forma de libro sin llegar a partirla.",
+          "En un bol, mezcla las espinacas picadas con el queso feta desmenuzado y el ajo picado.",
+          "Rellena el interior de la pechuga con la mezcla de espinacas y feta, y ciérrala con dos palillos.",
+          "Pincela la pechuga con el aceite de oliva, sal y pimienta por fuera.",
+          "Hornea en una fuente junto con las rodajas de boniato durante 20 a 22 minutos hasta que el pollo esté dorado y jugoso."
+        ],
+        "frase_lateral": "Cena de lujo para el fin de semana sin desviarte ni un gramo de tus objetivos 🌸",
+        "objetivo_titulo": "Ganancia de Masa Muscular Magra 💪",
+        "objetivo_descripcion": "Aporta 42 gramos de proteína completa y un relleno bajo en carbohidratos que aporta cremosidad sin salsas grasas.",
+        "macros": {
+          "calorias": "445 kcal",
+          "proteinas": "42 g",
+          "carbohidratos": "28 g",
+          "grasas": "17 g",
+          "fibra": "4 g"
+        },
+        "variaciones": [
+          "🌱 Puedes añadir unos champiñones picados al relleno junto con las espinacas",
+          "🌱 Sustituye el boniato por una ensalada verde fresca para un perfil de cena de baja carga glucémica"
+        ]
+      },
+      {
+        "id": 18,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Guiso Ligero de Lentejas con Pollo y Zanahoria",
+        "frase_efecto": "El cuchareo clásico español en una versión sin grasas y alta en proteína magra ❤️",
+        "tiempo": "25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🫘 1 taza de lentejas cocidas (200 g)",
+          "🍗 3.5 oz de pechuga de pollo en dados (100 g)",
+          "🥕 1 zanahoria grande en rodajas y 1/2 cebolla picada (100 g)",
+          "🍅 1/2 taza de tomate triturado natural (120 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🧂 Pimentón dulce de la Vera, laurel, ajo, sal y caldo vegetal"
+        ],
+        "foto_arquivo": "receta_P1_C2_18_es.jpg",
+        "foto_prompt": "Professional editorial food photography of a comforting Spanish-style healthy lentil stew with tender chicken cubes and sliced carrots in a rustic ceramic bowl, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En una olla mediana, sofríe la cebolla, el ajo y la zanahoria con la cucharada de aceite de oliva durante 4 minutos.",
+          "Añade los dados de pollo y dóralos junto con las verduras durante 3 minutos más.",
+          "Incorpora una cucharadita de pimentón dulce de la Vera y el tomate triturado natural, rehogando 2 minutos.",
+          "Añade las lentejas cocidas, una hoja de laurel y medio vaso de caldo vegetal caliente.",
+          "Deja cocer a fuego suave durante 10 minutos para que los sabores se integren perfectamente.",
+          "Sirve caliente en un bol hondo."
+        ],
+        "frase_lateral": "Plato de cuchara perfecto para recuperar fuerzas en días fríos o de alta carga física 🌸",
+        "objetivo_titulo": "Recuperación y Hierro Natural 💪",
+        "objetivo_descripcion": "La combinación de legumbre con pollo magro garantiza 43 gramos de proteína y un excelente aporte de hierro dietético.",
+        "macros": {
+          "calorias": "505 kcal",
+          "proteinas": "43 g",
+          "carbohidratos": "48 g",
+          "grasas": "14 g",
+          "fibra": "16 g"
+        },
+        "variaciones": [
+          "🌱 Puedes cambiar los dados de pollo por pavo o ternera magra troceada",
+          "🌱 Añade unas hojas de espinacas frescas al guiso en el último minuto de cocción para más fibra verde"
+        ]
+      },
+      {
+        "id": 19,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Dorada al Horno con Patatas Panaderas y Limón",
+        "frase_efecto": "Pescado blanco mediterráneo horneado con patatas tiernas al punto perfecto ❤️",
+        "tiempo": "30 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🐟 1 filete limpio de dorada o lubina fresca (150 g)",
+          "🥔 1 patata mediana en rodajas panaderas (150 g)",
+          "🍅 1 tomate en rodajas y 1/2 cebolla en juliana (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🍋 Rodajas de limón fresco, tomillo, sal marina y pimienta"
+        ],
+        "foto_arquivo": "receta_P1_C2_19_es.jpg",
+        "foto_prompt": "Professional editorial food photography of a baked sea bream fillet served over Mediterranean roasted sliced potatoes, tomatoes, and onions, garnished with lemon slices and thyme, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Precalienta el horno a 195°C.",
+          "En una fuente de horno, dispón las rodajas de patata, cebolla y tomate en el fondo como base.",
+          "Salpimenta las verduras, riégalas con media cucharada de aceite y hornéalas 12 minutos para ablandarlas.",
+          "Coloca el filete de dorada sobre la cama de patatas precocinadas.",
+          "Añade rodajas de limón, tomillo fresco y el resto del aceite de oliva sobre el pescado.",
+          "Hornea durante 12 a 14 minutos más hasta que la dorada esté blanca y jugosa.",
+          "Sirve caliente con todo el jugo aromático del horneado."
+        ],
+        "frase_lateral": "Cena ligera, digerible y repleta de nutrientes para optimizar tu descanso nocturno 🌸",
+        "objetivo_titulo": "Definición Muscular y Ligereza 💪",
+        "objetivo_descripcion": "La dorada aporta proteínas de alta calidad con un porcentaje graso muy equilibrado y fácil digestión.",
+        "macros": {
+          "calorias": "430 kcal",
+          "proteinas": "34 g",
+          "carbohidratos": "36 g",
+          "grasas": "16 g",
+          "fibra": "4 g"
+        },
+        "variaciones": [
+          "🌱 Puedes sustituir la dorada por lubina, merluza o bacalao según disponibilidad",
+          "🌱 Si prefieres menos carbohidratos, sustituye las patatas por rodajas de calabacín y berenjena"
+        ]
+      },
+      {
+        "id": 20,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Pollo al Curry Fit con Arroz Integral y Brócoli",
+        "frase_efecto": "Sabor oriental cremoso elaborado con especias antiinflamatorias y pollo magro ❤️",
+        "tiempo": "20 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍗 3.5 oz de pechuga de pollo en dados (100 g)",
+          "🍚 3/4 taza de arroz integral cocido (150 g)",
+          "🥦 1 taza de brócoli en floretes cocidos al vapor (90 g)",
+          "🥛 1/3 taza de leche de coco ligera o leche evaporada desnatada (80 ml)",
+          "🫒 1 cucharadita de aceite de oliva virgen extra (5 ml)",
+          "🌿 1 cucharadita de curry amarillo en polvo, ajo, sal y pimienta"
+        ],
+        "foto_arquivo": "receta_P1_C2_20_es.jpg",
+        "foto_prompt": "Professional editorial food photography of a creamy yellow fit chicken curry served over brown rice and steamed broccoli florets, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Calienta el aceite de oliva en una sartén antiadherente a fuego medio-alto.",
+          "Añade los dados de pollo salpimentados y el ajo picado, dorando durante 5 minutos.",
+          "Espolvorea el curry amarillo en polvo sobre el pollo y remueve para tostar las especias.",
+          "Vierte la leche de coco ligera (o leche evaporada desnatada) y baja el fuego al mínimo.",
+          "Deja cocer la salsa durante 3 o 4 minutos hasta que reduzca y espese con un tono amarillo dorado.",
+          "Sirve el pollo al curry sobre la ración de arroz integral caliente, acompañado de los floretes de brócoli."
+        ],
+        "frase_lateral": "Un almuerzo reconfortante que estimula el metabolismo gracias a la curcumina del curry 🌸",
+        "objetivo_titulo": "Ganancia de Masa Muscular 💪",
+        "objetivo_descripcion": "El pollo aporta proteínas completas mientras que el curry favorece la reducción de la inflamación muscular post-entrenamiento.",
+        "macros": {
+          "calorias": "448 kcal",
+          "proteinas": "37 g",
+          "carbohidratos": "43 g",
+          "grasas": "12 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes sustituir el pollo por colitas de gamba salteadas o dados de pavo",
+          "🌱 Para una textura aún más cremosa sin grasa extra, añade 1 colher de yogur griego al apagar el fuego"
+        ]
+      },
+      {
+        "id": 21,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Ensalada Mediterránea de Quinoa con Gambas y Aguacate",
+        "frase_efecto": "Fresca, colorida y completa con grasas cardiosaludables y marisco magro ❤️",
+        "tiempo": "15 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🦐 4 oz de gambas peladas cocidas o a la plancha (120 g)",
+          "🌾 3/4 taza de quinoa cocida y fría (135 g)",
+          "🥑 1/4 de aguacate en cubos (50 g)",
+          "🍅 1 taza de tomates cherry, pepino y cebolla morada (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🍋 Zumo de lima o limón fresco, sal marina y perejil picado"
+        ],
+        "foto_arquivo": "receta_P1_C2_21_es.jpg",
+        "foto_prompt": "Professional editorial food photography of a fresh Mediterranean quinoa salad bowl topped with grilled prawns, diced avocado, cherry tomatoes, cucumber, and red onion, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un bol grande de ensalada, dispón la quinoa cocida a temperatura ambiente o fría como base.",
+          "Añade los tomates cherry cortados a la mitad, el pepino en dados y la cebolla morada picada.",
+          "Incorpora los cubos de aguacate fresco y las gambas peladas (cocidas o marcadas a la plancha).",
+          "Prepara el aliño mezclando la cucharada de aceite de oliva, abundante zumo de lima o limón, sal y perejil.",
+          "Rocía el aliño sobre el bol y mezcla suavemente con dos cucharas para no romper el aguacate.",
+          "Sirve de inmediato en una fuente o llévatelo en tupper."
+        ],
+        "frase_lateral": "Opción refrescante y completa para almuerzos rápidos de primavera y verano 🌸",
+        "objetivo_titulo": "Definición y Salud Cardiovascular 💪",
+        "objetivo_descripcion": "Combina la proteína pura de las gambas con las grasas saludables del aguacate y carbohidratos de bajo índice glucémico.",
+        "macros": {
+          "calorias": "468 kcal",
+          "proteinas": "32 g",
+          "carbohidratos": "37 g",
+          "grasas": "21 g",
+          "fibra": "6 g"
+        },
+        "variaciones": [
+          "🌱 Puedes cambiar las gambas por pechuga de pollo braseada en tiras frías",
+          "🌱 Añade 1 cucharada de semillas de sésamo o lino tostado por encima al servir"
+        ]
+      },
+      {
+        "id": 22,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Hamburguesas Fit de Pavo y Calabacín con Boniato Asado",
+        "frase_efecto": "Hamburguesas caseras súper jugosas acompañadas de bastones de boniato al horno ❤️",
+        "tiempo": "25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🦃 4 oz de carne picada de pavo magra (120 g)",
+          "🍠 1 boniato mediano en bastones tipo patatas fritas (130 g)",
+          "🥒 1/2 taza de calabacín rallado y escurrido (60 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🥬 Hojas de lechuga fresca, rodajas de tomate y cebolla",
+          "🧂 Ajo en polvo, sal marina, orégano y pimienta negra"
+        ],
+        "foto_arquivo": "receta_P1_C2_22_es.jpg",
+        "foto_prompt": "Professional editorial food photography of a juicy homemade turkey zucchini fitness burger patty served over fresh lettuce and tomato slices with baked sweet potato fries on the side, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Precalienta el horno a 200°C y hornea los bastones de boniato salpimentados con media cucharada de aceite durante 20 minutos hasta que estén dorados.",
+          "En un bol, mezcla la carne picada de pavo con el calabacín rallado bien escurrido, ajo en polvo, sal y orégano.",
+          "Forma con las manos dos hamburguesas compactas de igual tamaño.",
+          "Calienta una sartén antiadherente con el resto del aceite a fuego medio y haz las hamburguesas durante 4 o 5 minutos por lado hasta que estén cocidas por dentro.",
+          "Sirve las hamburguesas sobre hojas de lechuga fresca y tomate fatiado, acompañadas de las fritas de boniato al horno."
+        ],
+        "frase_lateral": "Cena de fin de semana estilo 'cheat meal' que encaja perfectamente en tu plan fit 🌸",
+        "objetivo_titulo": "Ganancia Muscular y Saciedad 💪",
+        "objetivo_descripcion": "El calabacín rallado mantiene la hamburguesa de pavo súper jugosa sin necesidad de grasas saturadas añadidas.",
+        "macros": {
+          "calorias": "445 kcal",
+          "proteinas": "33 g",
+          "carbohidratos": "35 g",
+          "grasas": "19 g",
+          "fibra": "6 g"
+        },
+        "variaciones": [
+          "🌱 Puedes servir la hamburguesa dentro de un panecillo 100% integral si tu objetivo es mayor superávit calórico",
+          "🌱 Sustituye la carne de pavo por carne picada magra de ternera o de pollo"
+        ]
+      },
+      {
+        "id": 23,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Bacalao al Ajillo y Pimentón con Judías Verdes",
+        "frase_efecto": "Sabor tradicional de la costa española alto en proteína y extremadamente ligero ❤️",
+        "tiempo": "20 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🐟 1 lomo de bacalao fresco o desalado (150 g)",
+          "🥔 1 patata mediana cocida en rodajas (150 g)",
+          "🥬 1 taza de judías verdes frescas hervidas (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🌿 2 dientes de ajo en láminas, pimentón dulce de la Vera y vinagre de manzana"
+        ],
+        "foto_arquivo": "receta_P1_C2_23_es.jpg",
+        "foto_prompt": "Professional editorial food photography of a flaky white cod fillet drizzled with garlic paprika olive oil sauce, served with roasted potatoes and green beans, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Hierve las judías verdes y las rodajas de patata en agua salada hasta que estén tiernas, escurre y dispón en el plato.",
+          "Cocina el lomo de bacalao al vapor o en una sartén antiadherente con unas gotas de aceite durante 4 minutos por lado.",
+          "En una sartén pequeña, calienta la cucharada de aceite de oliva y dora las láminas de ajo a fuego suave sin que se quemen.",
+          "Retira la sartén del fuego, añade media cucharadita de pimentón dulce y unas gotas de vinagre de manzana.",
+          "Coloca el bacalao sobre la cama de patatas y judías verdes, y rocía todo con el refrito de ajillo y pimentón.",
+          "Sirve caliente al instante."
+        ],
+        "frase_lateral": "Cena perfecta para quienes buscan alta proteína magra con digestión rápida y ligera 🌸",
+        "objetivo_titulo": "Definición Muscular Extrema 💪",
+        "objetivo_descripcion": "El bacalao ofrece una de las tasas proteína/grasa más favorables del mundo marino, excelente para quemar grasa.",
+        "macros": {
+          "calorias": "415 kcal",
+          "proteinas": "33 g",
+          "carbohidratos": "37 g",
+          "grasas": "15 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes cambiar el bacalao por merluza, raya o gallo fresco según el mercado",
+          "🌱 Si prefieres menos carbohidratos, elimina la patata y aumenta la ración de judías verdes o espárragos"
+        ]
+      },
+      {
+        "id": 24,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Fajitas Fit de Pollo y Pimientos en Tortilla Integral",
+        "frase_efecto": "Toda la diversión Tex-Mex en una versión ligera, saludable y alta en proteína ❤️",
+        "tiempo": "15 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍗 3.5 oz de pechuga de pollo en tiras finas (100 g)",
+          "🌯 1 tortilla o wrap 100% integral grande (aprox 45 g)",
+          "🍅 1 taza de pimiento rojo, verde y cebolla en juliana (100 g)",
+          "🥑 1/4 de aguacate en láminas (50 g)",
+          "🫒 1 cucharadita de aceite de oliva virgen extra (5 ml)",
+          "🧂 Comino, pimentón, ajo en polvo, sal marina y zumo de lima"
+        ],
+        "foto_arquivo": "receta_P1_C2_24_es.jpg",
+        "foto_prompt": "Professional editorial food photography of a folded whole wheat tortilla filled with seasoned grilled chicken strips, sautéed red and green bell peppers, and fresh sliced avocado, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un cuenco, adereza las tiras de pollo con comino, pimentón, ajo en polvo, sal y unas gotas de zumo de lima.",
+          "Calienta la cucharadita de aceite de oliva en una sartén grande a fuego medio-alto.",
+          "Saltea las tiras de pollo aderezadas junto con la juliana de pimientos y cebolla durante 6 a 7 minutos hasta que estén dorados y tiernos.",
+          "Calienta la tortilla integral durante 10 segundos en una sartén seca para que quede flexible.",
+          "Rellena el centro de la tortilla con el salteado de pollo y pimientos.",
+          "Coloca las láminas de aguacate fresco por encima y dobla la tortilla para servir."
+        ],
+        "frase_lateral": "Opción divertida para cenar entre semana sin renunciar al estilo ni a tus macros 🌸",
+        "objetivo_titulo": "Control de Antojos y Masa Muscular 💪",
+        "objetivo_descripcion": "La tortilla integral aporta fibra saciante mientras que el pollo y el aguacate equilibran proteínas y grasas buenas.",
+        "macros": {
+          "calorias": "410 kcal",
+          "proteinas": "36 g",
+          "carbohidratos": "34 g",
+          "grasas": "15 g",
+          "fibra": "6 g"
+        },
+        "variaciones": [
+          "🌱 Puedes sustituir las tiras de pollo por tiras de ternera magra o gambas salteadas",
+          "🌱 Añade 1 cucharada de yogur griego natural sobre el relleno en lugar de salsa agria grasosa"
+        ]
+      },
+      {
+        "id": 25,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Lubina a la Plancha con Arroz Integral y Espárragos",
+        "frase_efecto": "Pescado mediterráneo de carne blanca y fina acompañado de guarnición completa ❤️",
+        "tiempo": "20 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🐟 1 filete limpio de lubina fresca (150 g)",
+          "🍚 3/4 taza de arroz integral cocido (150 g)",
+          "🥬 1 manojo de espárragos verdes frescos (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🍋 Zumo de limón fresco, ajo molido, sal marina y perejil picado"
+        ],
+        "foto_arquivo": "receta_P1_C2_25_es.jpg",
+        "foto_prompt": "Professional editorial food photography of a seared sea bass fillet with a crispy skin served alongside fluffy brown rice and grilled green asparagus spears, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Salpimenta el filete de lubina fresca por ambos lados con un toque de ajo molido.",
+          "Calienta una sartén o plancha antiadherente con media cucharada de aceite de oliva a fuego medio-alto.",
+          "Cocina la lubina empezando por el lado de la piel durante 4 minutos para que quede dorada y crujiente, dale la vuelta y cocina 2 minutos más.",
+          "En la misma plancha con el resto del aceite, asa los espárragos verdes con una pizca de sal marina hasta que estén al dente.",
+          "Sirve el filete de lubina sobre una porción de arroz integral cocido, acompañado por los espárragos asados.",
+          "Termina con un chorrito de zumo de limón fresco por encima del pescado."
+        ],
+        "frase_lateral": "Un plato exquisito de estilo restaurante apto para dietas de definición muscular 🌸",
+        "objetivo_titulo": "Salud General y Masa Magra 💪",
+        "objetivo_descripcion": "La lubina es un pescado magro de excelente digestión que aporta 34 g de proteína por porción.",
+        "macros": {
+          "calorias": "460 kcal",
+          "proteinas": "34 g",
+          "carbohidratos": "41 g",
+          "grasas": "17 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes cambiar la lubina por dorada, merluza o lenguado según la temporada",
+          "🌱 Sustituye el arroz integral por quinoa si prefieres una guarnición de grano con mayor proteína"
+        ]
+      }
+    ]
+  }
+}

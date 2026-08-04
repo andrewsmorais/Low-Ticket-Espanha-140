@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Receitas Premium</title>
+    <link href="https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Kalam:wght@400;700&family=Patrick+Hand&family=Nunito:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Editor Sidebar -->
+        <div class="editor-sidebar">
+            <h2>📝 Editar Receita</h2>
+            
+            <div class="form-group">
+                <label>Título da Receita</label>
+                <input type="text" id="input-title" value="Panquecas de Banana e Aveia">
+            </div>
+            
+            <div class="form-group">
+                <label>Subtítulo</label>
+                <input type="text" id="input-subtitle" value="Simples, saudável e deliciosa! 💖">
+            </div>
+
+            <div class="form-group row">
+                <div>
+                    <label>Tempo de Preparo</label>
+                    <input type="text" id="input-time" value="10 minutos">
+                </div>
+                <div>
+                    <label>Rendimento</label>
+                    <input type="text" id="input-yield" value="1 porção">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label>URL da Imagem do Prato</label>
+                <input type="text" id="input-image" value="https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=500&q=80">
+                <small style="color: #666; font-size: 0.8em;">Cole o link de uma imagem ou coloque o arquivo na pasta e digite o nome (ex: foto1.jpg)</small>
+            </div>
+
+            <div class="form-group">
+                <label>Ingredientes (um por linha)</label>
+                <textarea id="input-ingredients" rows="5">
+1 banana madura
+1 ovo
+2 colheres de sopa de aveia
+Canela a gosto (opcional)</textarea>
+            </div>
+
+            <div class="form-group">
+                <label>Modo de Preparo (um por linha)</label>
+                <textarea id="input-instructions" rows="6">
+Amasse bem a banana.
+Misture o ovo e a aveia até virar uma massa.
+Adicione canela se quiser.
+Aqueça uma frigideira antiaderente em fogo baixo.
+Coloque pequenas porções da massa.
+Quando formar bolhinhas e firmar embaixo, vire.
+Doure dos dois lados.
+Fica macia, docinha naturalmente e bem prática.</textarea>
+            </div>
+
+            <div class="form-group">
+                <label>Nota / Dica (Post-it)</label>
+                <textarea id="input-note" rows="3">Perfeita para o café da manhã ou lanche da tarde! 🌸</textarea>
+            </div>
+
+            <div class="form-group">
+                <label>Dicas de Variação (uma por linha)</label>
+                <textarea id="input-variations" rows="3">Add 1 scoop de whey protein (+ proteína)
+Substitua aveia por farinha de amêndoas</textarea>
+            </div>
+
+            <hr style="margin: 20px 0; border: 0; border-top: 1px solid #ddd;">
+            
+            <h3>🎯 Foco da Receita</h3>
+            <div class="form-group">
+                <label>Objetivo (ex: Ganho de Massa, Emagrecimento)</label>
+                <input type="text" id="input-target" value="Ganho de Massa Muscular 💪">
+            </div>
+            <div class="form-group">
+                <label>Pequeno Comentário</label>
+                <textarea id="input-target-comment" rows="3">Ótima opção, pois fornece energia rápida da banana e proteínas do ovo para os músculos.</textarea>
+            </div>
+
+            <hr style="margin: 20px 0; border: 0; border-top: 1px solid #ddd;">
+
+            <h3>Informação Nutricional</h3>
+            <div class="form-group row">
+                <div>
+                    <label>Calorias</label>
+                    <input type="text" id="input-cal" value="285 kcal">
+                </div>
+                <div>
+                    <label>Proteínas</label>
+                    <input type="text" id="input-prot" value="11 g">
+                </div>
+                <div>
+                    <label>Carboidratos</label>
+                    <input type="text" id="input-carb" value="44 g">
+                </div>
+                <div>
+                    <label>Gorduras</label>
+                    <input type="text" id="input-fat" value="7 g">
+                </div>
+                <div>
+                    <label>Fibras</label>
+                    <input type="text" id="input-fib" value="6 g">
+                </div>
+            </div>
+
+            <button class="btn-download" onclick="downloadImage()">⬇️ Baixar como Imagem</button>
+            <button class="btn-download pdf" onclick="downloadPDF()">📄 Baixar como PDF</button>
+        </div>
+
+        <!-- Recipe Preview -->
+        <div class="preview-container">
+            <div class="recipe-card" id="recipe-card">
+                <div class="header">
+                    <h1 id="preview-title">Panquecas de<br>Banana e Aveia</h1>
+                    <div class="subtitle-ribbon">
+                        <span id="preview-subtitle">Simples, saudável e deliciosa! 💖</span>
+                    </div>
+                    <div class="recipe-meta">
+                        <span>⏱️ <strong id="preview-time">10 minutos</strong></span>
+                        <span class="meta-divider">•</span>
+                        <span>🍽️ <strong id="preview-yield">1 porção</strong></span>
+                    </div>
+                </div>
+
+                <div class="main-content">
+                    <div class="left-col">
+                        <div class="box ingredients-box">
+                            <div class="box-title">
+                                <span>INGREDIENTES 🌿</span>
+                            </div>
+                            <ul id="preview-ingredients">
+                                <!-- Populated by JS -->
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="right-col">
+                        <div class="plate-image-container">
+                            <img id="preview-image" src="https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=500&q=80" alt="Prato principal" crossorigin="anonymous">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bottom-content">
+                    <div class="prep-col">
+                        <div class="box prep-box">
+                            <div class="box-title">
+                                <span>MODO DE PREPARO 👩‍🍳</span>
+                            </div>
+                            <ol id="preview-instructions">
+                                <!-- Populated by JS -->
+                            </ol>
+                        </div>
+
+                        <div class="box variations-box" style="margin-top: 25px;">
+                            <div class="box-title variations-title">
+                                <span>VARIAÇÕES 💡</span>
+                            </div>
+                            <ul id="preview-variations">
+                                <!-- Populated by JS -->
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="side-col">
+                        <div class="sticky-note">
+                            <div class="tape"></div>
+                            <p id="preview-note">Perfeita para o café da manhã ou lanche da tarde! 🌸</p>
+                        </div>
+
+                        <div class="box target-box">
+                            <div class="box-title target-title">
+                                <span>OBJETIVO 🎯</span>
+                            </div>
+                            <div class="target-content">
+                                <strong id="preview-target">Ganho de Massa Muscular 💪</strong>
+                                <p id="preview-target-comment">Ótima opção, pois fornece energia rápida da banana e proteínas do ovo para os músculos.</p>
+                            </div>
+                        </div>
+
+                        <div class="box nutrition-box">
+                            <div class="nutrition-header">
+                                INFORMAÇÃO NUTRICIONAL<br>
+                                <span>(TOTAL DA RECEITA)</span>
+                            </div>
+                            <div class="nutrition-table">
+                                <div class="nutri-row"><span>Calorias</span><span id="preview-cal">285 kcal</span></div>
+                                <div class="nutri-row"><span>Proteínas</span><span id="preview-prot">11 g</span></div>
+                                <div class="nutri-row"><span>Carboidratos</span><span id="preview-carb">44 g</span></div>
+                                <div class="nutri-row"><span>Gorduras</span><span id="preview-fat">7 g</span></div>
+                                <div class="nutri-row"><span>Fibras</span><span id="preview-fib">6 g</span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
