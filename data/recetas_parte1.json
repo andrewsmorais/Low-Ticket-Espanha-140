@@ -989,6 +989,396 @@
           "🌱 Puedes cambiar la lubina por dorada, merluza o lenguado según la temporada",
           "🌱 Sustituye el arroz integral por quinoa si prefieres una guarnición de grano con mayor proteína"
         ]
+      },
+      {
+        "id": 26,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Sepia a la Plancha con Ajo, Perejil y Patatas Asadas",
+        "frase_efecto": "Tradición marinera española con textura tierna y un contenido proteico extraordinario ❤️",
+        "tiempo": "20 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🦑 5 oz de sepia limpia cortada en trozos o tiras (150 g)",
+          "🥔 1 patata mediana en cubos asada al horno o freidora de aire (150 g)",
+          "🥬 1 taza de calabacín a la plancha en rodajas (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🌿 2 dientes de ajo muy picados, perejil fresco picado y zumo de limón",
+          "🧂 Sal marina al gusto"
+        ],
+        "foto_arquivo": "receta_P1_C2_26_es.jpg",
+        "foto_prompt": "Professional editorial food photography of tender grilled cuttlefish strips tossed with garlic, fresh parsley, and olive oil, served with golden roasted potato cubes and grilled zucchini, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Seca muy bien los trozos de sepia con papel de cocina para evitar que suelten agua en la sartén.",
+          "Calienta una plancha o sartén antiadherente a fuego muy fuerte con media cucharada de aceite de oliva.",
+          "Añade la sepia y cocínala rápido durante 3 o 4 minutos en total, removiendo para que quede dorada por fuera y tierna por dentro.",
+          "En el último minuto, incorpora el ajo muy picado y el perejil fresco, salteando sin dejar de remover.",
+          "Retira del fuego y añade un chorrito de zumo de limón fresco y sal marina.",
+          "Sirve la sepia caliente junto con los cubos de patata asada y las rodajas de calabacín a la plancha."
+        ],
+        "frase_lateral": "Cena exquisita y muy baja en grasas ideal para fases de máxima definición muscular 🌸",
+        "objetivo_titulo": "Definición Muscular Extrema 💪",
+        "objetivo_descripcion": "La sepia aporta una altísima concentración de proteínas magras con una cantidad de grasa prácticamente nula.",
+        "macros": {
+          "calorias": "415 kcal",
+          "proteinas": "34 g",
+          "carbohidratos": "35 g",
+          "grasas": "14 g",
+          "fibra": "4 g"
+        },
+        "variaciones": [
+          "🌱 Puedes sustituir la sepia por calamar limpio o rejo de pulpo cocido a la plancha",
+          "🌱 Si prefieres menos carbohidratos, elimina la patata y dobla la ración de calabacín y espárragos"
+        ]
+      },
+      {
+        "id": 27,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Filetes de Ternera Magra con Pimientos del Padrón y Arroz Integral",
+        "frase_efecto": "Sabor intenso a ternera española equilibrado con pimientos tiernos y fibra saludable ❤️",
+        "tiempo": "20 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥩 4.5 oz de filete de ternera magra sin grasa visible (130 g)",
+          "🍚 3/4 taza de arroz integral cocido (150 g)",
+          "🫑 10 pimientos del Padrón lavados y secos (80 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🧂 Sal en escamas, ajo en polvo y pimienta negra recién molida"
+        ],
+        "foto_arquivo": "receta_P1_C2_27_es.jpg",
+        "foto_prompt": "Professional editorial food photography of a seared lean beef steak sliced against the grain, served with blistered green Padrón peppers and a side of brown rice, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Calienta media cucharada de aceite de oliva en una sartén pequeña y saltea los pimientos del Padrón durante 4 minutos hasta que se doren y ablanden.",
+          "Salpimenta el filete de ternera magra con pimienta negra molida y un toque de ajo en polvo.",
+          "En una plancha caliente con el resto del aceite, sella la ternera a fuego fuerte 2 o 3 minutos por lado según el punto deseado.",
+          "Deja reposar la carne 2 minutos antes de cortarla en tiras para que retenga todos sus jugos.",
+          "Sirve las tiras de ternera magra con una pizca de sal en escamas, acompañadas del arroz integral y los pimientos del Padrón."
+        ],
+        "frase_lateral": "Comida de fuerza por excelencia rica en hierro heme, zinc y creatina natural 🌸",
+        "objetivo_titulo": "Fuerza y Síntesis Proteica 💪",
+        "objetivo_descripcion": "La ternera roja magra proporciona creatina biodisponível y aminoácidos que potencian la recuperación neuromuscular.",
+        "macros": {
+          "calorias": "480 kcal",
+          "proteinas": "38 g",
+          "carbohidratos": "37 g",
+          "grasas": "18 g",
+          "fibra": "4 g"
+        },
+        "variaciones": [
+          "🌱 Puedes sustituir la ternera por lomo de cerdo magro o solomillo ibérico desgrasado",
+          "🌱 Añade unos champiñones salteados junto con los pimientos del Padrón"
+        ]
+      },
+      {
+        "id": 28,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Pechuga de Pavo Asada a las Hierbas con Quinoa y Espárragos",
+        "frase_efecto": "Carne blanca ultra magra marinada al horno con hierbas provenzales y guarnición verde ❤️",
+        "tiempo": "25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🦃 5 oz de pechuga de pavo fresca en un trozo o filetes gruesos (140 g)",
+          "🌾 3/4 taza de quinoa cocida (135 g)",
+          "🥬 1 manojo de espárragos verdes frescos (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🌿 Tomillo, romero seco, zumo de limón, sal marina y pimienta"
+        ],
+        "foto_arquivo": "receta_P1_C2_28_es.jpg",
+        "foto_prompt": "Professional editorial food photography of sliced herb-roasted turkey breast served over seasoned quinoa and roasted green asparagus spears, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Precalienta el horno a 195°C.",
+          "Macera la pechuga de pavo con la cucharada de aceite de oliva, tomillo, romero, zumo de limón, sal y pimienta.",
+          "Coloca el pavo y los espárragos verdes en una fuente para hornear.",
+          "Hornea durante 18 a 20 minutos hasta que el pavo esté tierno pero cocido y los espárragos asados al dente.",
+          "Corta la pechuga de pavo en rodajas diagonales.",
+          "Emplata sobre una base de quinoa caliente, colocando las rodajas de pavo y los espárragos al lado."
+        ],
+        "frase_lateral": "Una cena limpia, digestiva y perfecta para quienes compiten o buscan máxima definición 🌸",
+        "objetivo_titulo": "Definición y Ligereza Muscular 💪",
+        "objetivo_descripcion": "La pechuga de pavo es una de las carnes con menor índice de grasa y mayor pureza en aminoácidos esenciales.",
+        "macros": {
+          "calorias": "460 kcal",
+          "proteinas": "41 g",
+          "carbohidratos": "34 g",
+          "grasas": "16 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes sustituir la pechuga de pavo por pechuga de pollo magra o conejo",
+          "🌱 Cambia la quinoa por arroz basmati integral según tu preferencia de grano"
+        ]
+      },
+      {
+        "id": 29,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Calamares en Su Tinta Fit con Arroz Blanco Integral",
+        "frase_efecto": "Receta emblemática española elaborada sin harinas ni espesantes artificiales ❤️",
+        "tiempo": "25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🦑 5 oz de anillas de calamar limpio (150 g)",
+          "🍚 3/4 taza de arroz integral cocido (150 g)",
+          "🍅 1/2 cebolla picada y 2 cucharadas de tomate triturado natural (80 g)",
+          "🖤 1 bolsita de tinta de calamar natural diluida en un dedo de agua",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🧂 Ajo picado, hoja de laurel y sal marina al gusto"
+        ],
+        "foto_arquivo": "receta_P1_C2_29_es.jpg",
+        "foto_prompt": "Professional editorial food photography of traditional Spanish squid rings cooked in natural black squid ink sauce, served alongside a neat mound of brown rice, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En una cazuela pequeña, sofríe la cebolla picada y el ajo con la cucharada de aceite durante 4 minutos a fuego medio.",
+          "Añade las anillas de calamar y saltea 3 minutos hasta que cambien de color.",
+          "Incorpora el tomate triturado natural y la hoja de laurel, cocinando durante 2 minutos más.",
+          "Vierte la bolsita de tinta de calamar diluida en un poco de agua y baja el fuego al mínimo.",
+          "Tapa la cazuela y deja guisar 12 minutos hasta que los calamares estén muy tiernos y la salsa negra espese de forma natural.",
+          "Sirve el guiso de calamares en su tinta acompañado del arroz integral para mojar la salsa."
+        ],
+        "frase_lateral": "Un plato gourmet lleno de antioxidantes marinos y alto valor proteico 🌸",
+        "objetivo_titulo": "Definición y Sabor Tradicional 💪",
+        "objetivo_descripcion": "Los calamares aportan proteína marina limpia sin las calorías vacías de las salsas espesadas con harina.",
+        "macros": {
+          "calorias": "440 kcal",
+          "proteinas": "33 g",
+          "carbohidratos": "40 g",
+          "grasas": "15 g",
+          "fibra": "4 g"
+        },
+        "variaciones": [
+          "🌱 Puedes añadir unos guisantes tiernos a la cazuela en los últimos 5 minutos de cocción",
+          "🌱 Sustituye el arroz integral por arroz de coliflor si buscas un plato casi cero carbohidratos"
+        ]
+      },
+      {
+        "id": 30,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Solomillo de Cerdo Magro al Tomillo con Puré de Boniato",
+        "frase_efecto": "Corte de carne sorprendentemente magro, jugoso y con un toque aromático irresistible ❤️",
+        "tiempo": "25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥩 4.5 oz de solomillo de cerdo magro limpio de grasa (130 g)",
+          "🍠 1 boniato mediano cocido y aplastado en puré casero (140 g)",
+          "🥬 1 taza de brócoli al vapor o judías verdes (90 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🌿 Tomillo fresco o seco, ajo molido, sal marina y pimienta negra"
+        ],
+        "foto_arquivo": "receta_P1_C2_30_es.jpg",
+        "foto_prompt": "Professional editorial food photography of juicy roasted pork tenderloin medallions seasoned with thyme, served over a bed of smooth sweet potato mash and steamed green broccoli, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Corta el solomillo de cerdo magro en medallones gruesos de unos 2 centímetros y salpimenta con tomillo y ajo molido.",
+          "Calienta media cucharada de aceite de oliva en una sartén antiadherente a fuego medio-alto.",
+          "Sella los medallones de cerdo durante 3 o 4 minutos por lado hasta que estén dorados por fuera y cocidos en su punto.",
+          "Para el puré, aplasta el boniato cocido con un tenedor, añadiendo una pizca de sal, pimienta y el resto del aceite de oliva para darle brillo.",
+          "Emplata una porción de puré de boniato, coloca los medallones de solomillo encima y acompaña con el brócoli al vapor."
+        ],
+        "frase_lateral": "El solomillo es el corte más magro del cerdo con vitaminas del grupo B esenciales para el atleta 🌸",
+        "objetivo_titulo": "Ganancia y Recuperación Muscular 💪",
+        "objetivo_descripcion": "Aporta vitamina B1 (tiamina) que optimiza el metabolismo de los carbohidratos para convertirlos en energía pura.",
+        "macros": {
+          "calorias": "465 kcal",
+          "proteinas": "37 g",
+          "carbohidratos": "35 g",
+          "grasas": "18 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes sustituir el solomillo de cerdo por lomo de ternera magra o pechuga de pollo",
+          "🌱 Añade un toque de nuez moscada rallada al puré de boniato para realzar el sabor dulce"
+        ]
+      },
+      {
+        "id": 31,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Pulpo a la Gallega Fit sobre Cama de Patata Cocida",
+        "frase_efecto": "El tributo gallego con pulpo tierno, pimentón de la Vera y patata al vapor ❤️",
+        "tiempo": "15 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🐙 4.5 oz de patas de pulpo cocido y cortado en rodajas (130 g)",
+          "🥔 1 patata mediana cocida con piel y cortada en rodajas gruesas (150 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🧂 Pimentón dulce y picante de la Vera al gusto",
+          "🧂 Sal marina en escamas (tipo Maldon)"
+        ],
+        "foto_arquivo": "receta_P1_C2_31_es.jpg",
+        "foto_prompt": "Professional editorial food photography of traditional Galician-style sliced cooked octopus tentacles served over boiled potato rounds, dusted with Spanish paprika and drizzled with olive oil, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Cuece la patata mediana en agua salada hasta que esté tierna al pincharla con un tenedor, pélala y córtala en rodajas gruesas de medio centímetro.",
+          "Dispón las rodajas de patata templada cubriendo el fondo de un plato de madera o cerámica.",
+          "Calienta las rodajas de pulpo cocido en agua caliente durante 1 minuto o a la plancha durante 2 minutos según tu gusto.",
+          "Coloca el pulpo en rodajas uniformes encima de la cama de patatas.",
+          "Rocía generosamente con la cucharada de aceite de oliva virgen extra.",
+          "Espolvorea con pimentón de la Vera (dulce o picante) y termina con sal en escamas."
+        ],
+        "frase_lateral": "Cena exquisita y muy limpia que te transporta al norte de España con macros ideales 🌸",
+        "objetivo_titulo": "Definición y Densidad Proteica 💪",
+        "objetivo_descripcion": "El pulpo es un manjar marino con más de 32 g de proteína magra y abundante zinc para la salud hormonal.",
+        "macros": {
+          "calorias": "410 kcal",
+          "proteinas": "34 g",
+          "carbohidratos": "32 g",
+          "grasas": "15 g",
+          "fibra": "3 g"
+        },
+        "variaciones": [
+          "🌱 Puedes sustituir la patata por rodajas de boniato cocido si prefieres un contraste dulce con el pimentón",
+          "🌱 Si necesitas más volumen verde, acompaña con una porción de grelos o espinacas salteadas"
+        ]
+      },
+      {
+        "id": 32,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Albóndigas de Pavo al Horno con Salsa de Tomate Natural",
+        "frase_efecto": "Albóndigas jugosas sin freír cubiertas de salsa de tomate casera albahaca ❤️",
+        "tiempo": "30 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🦃 4.5 oz de carne picada de pavo o pollo magra (130 g)",
+          "🌾 3/4 taza de quinoa cocida o arroz integral como guarnición (135 g)",
+          "🍅 3/4 taza de tomate triturado natural sin azúcar (150 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🌿 1 cucharada de avena en copos (para ligar), ajo, perejil y albahaca",
+          "🧂 Sal marina y pimienta negra"
+        ],
+        "foto_arquivo": "receta_P1_C2_32_es.jpg",
+        "foto_prompt": "Professional editorial food photography of tender baked turkey meatballs simmered in a rustic red tomato basil sauce, served over a bed of fluffy quinoa, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Precalienta el horno a 200°C.",
+          "En un bol, mezcla la carne picada de pavo con 1 cucharada de avena en copos, ajo picado, perejil, sal y pimienta.",
+          "Forma 5 o 6 albóndigas con las manos humedecidas y colócalas en una bandeja de horno.",
+          "Hornea las albóndigas durante 14 a 15 minutos hasta que estén doradas y cocidas en su interior.",
+          "Mientras tanto, calienta el tomate triturado natural en una sartén con media cucharada de aceite, albahaca y una pizca de sal durante 8 minutos.",
+          "Introduce las albóndigas horneadas en la salsa de tomate durante 2 minutos para que se impregnen del sabor.",
+          "Sirve las albóndigas con salsa sobre una ración de quinoa o arroz integral cocido, aderezando con el resto del aceite."
+        ],
+        "frase_lateral": "Plato casero que encanta a toda la familia en versión ligera y libre de frituras 🌸",
+        "objetivo_titulo": "Ganancia Magra y Sabor Casero 💪",
+        "objetivo_descripcion": "El horneado elimina la grasa del frito tradicional mientras la carne de pavo garantiza una proteína limpia de alto valor.",
+        "macros": {
+          "calorias": "465 kcal",
+          "proteinas": "37 g",
+          "carbohidratos": "41 g",
+          "grasas": "16 g",
+          "fibra": "6 g"
+        },
+        "variaciones": [
+          "🌱 Puedes sustituir la carne picada de pavo por carne magra de ternera",
+          "🌱 Para una versión baja en carbohidratos, sustituye la quinoa por espaguetis de calabacín al dente"
+        ]
+      },
+      {
+        "id": 33,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Langostinos al Ajillo con Quinoa y Calabacín Salteado",
+        "frase_efecto": "El clásico ajillo de langostinos españoles en un almuerzo completo y saciante ❤️",
+        "tiempo": "15 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🦐 4.5 oz de langostinos pelados y limpios (130 g)",
+          "🌾 3/4 taza de quinoa cocida (135 g)",
+          "🥒 1 taza de calabacín en dados o rodajas finas (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🌶️ 2 dientes de ajo laminados, 1 guindilla seca pequeña (opcional), perejil y limón"
+        ],
+        "foto_arquivo": "receta_P1_C2_33_es.jpg",
+        "foto_prompt": "Professional editorial food photography of succulent Spanish garlic prawns sautéed with chili and parsley, served over fluffy quinoa and tender diced zucchini, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Calienta la cucharada de aceite de oliva en una sartén mediana a fuego medio.",
+          "Añade los ajos laminados y el trocito de guindilla, cocinando un minuto sin dejar que el ajo se oscurezca.",
+          "Incorpora los dados de calabacín y saltea durante 3 minutos hasta que estén al dente.",
+          "Añade los langostinos pelados y cocínalos durante 2 o 3 minutos hasta que adquieran un color naranja brillante y estén tiernos.",
+          "Retira del fuego, espolvorea con perejil fresco picado y un chorrito de zumo de limón.",
+          "Emplata los langostinos al ajillo con calabacín directamente sobre la porción caliente de quinoa cocida."
+        ],
+        "frase_lateral": "Un almuerzo rápido con sabor intenso mediterráneo que se prepara en menos de cuarto de hora 🌸",
+        "objetivo_titulo": "Definición Muscular Extrema 💪",
+        "objetivo_descripcion": "Los langostinos son prácticamente pura proteína magra con un valor calórico muy ajustado y gran saciedad.",
+        "macros": {
+          "calorias": "440 kcal",
+          "proteinas": "33 g",
+          "carbohidratos": "36 g",
+          "grasas": "18 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes sustituir los langostinos por gambones o tiras de calamar",
+          "🌱 Cambia la quinoa por arroz basmati o cuscus integral según tu preferencia"
+        ]
+      },
+      {
+        "id": 34,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Brochetas de Ternera Magra, Tomate y Champiñones con Arroz",
+        "frase_efecto": "Pinchos morunos fit a la plancha repletos de textura y aminoácidos esenciales ❤️",
+        "tiempo": "20 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥩 4 oz de dados de ternera magra sin grasa (aprox 120 g)",
+          "🍚 3/4 taza de arroz integral cocido (150 g)",
+          "🍄 1 taza de champiñones enteros y tomates cherry (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🌿 Orégano, ajo molido, sal marina y unas gotas de limón"
+        ],
+        "foto_arquivo": "receta_P1_C2_34_es.jpg",
+        "foto_prompt": "Professional editorial food photography of grilled lean beef skewers alternated with whole cherry tomatoes and button mushrooms, served over brown rice, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Ensarta alternadamente los dados de ternera magra, los champiñones limpios y los tomates cherry en palillos de brocheta.",
+          "En un vaso, mezcla el aceite de oliva con el orégano, ajo molido, sal y limón.",
+          "Pincela las brochetas generosamente con el aliño por todos lados.",
+          "Calienta una plancha o sartén grande a fuego medio-alto y cocina las brochetas durante 3 o 4 minutos por lado hasta que la ternera esté dorada.",
+          "Sirve las brochetas calientes sobre el arroz integral cocido."
+        ],
+        "frase_lateral": "Cena divertida y con aspecto de barbacoa que puedes preparar en cualquier plancha de casa 🌸",
+        "objetivo_titulo": "Fuerza y Masa Muscular 💪",
+        "objetivo_descripcion": "La carne roja magra aporta zinc y creatina natural, indispensable para la contracción y volumen muscular.",
+        "macros": {
+          "calorias": "470 kcal",
+          "proteinas": "36 g",
+          "carbohidratos": "38 g",
+          "grasas": "18 g",
+          "fibra": "4 g"
+        },
+        "variaciones": [
+          "🌱 Puedes alternar trozos de pimiento verde y cebolla morada en la brocheta",
+          "🌱 Sustituye la ternera por dados de pechuga de pollo o solomillo de cerdo magro"
+        ]
+      },
+      {
+        "id": 35,
+        "capitulo": "Almuerzos y Cenas Fit",
+        "titulo": "Pechuga de Pavo en Tiras Salteadas con Berenjena y Pimiento",
+        "frase_efecto": "Un salteado mediterráneo de verduras tiernas con tiras de pavo doradas y jugosas ❤️",
+        "tiempo": "20 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🦃 4.5 oz de pechuga de pavo cortada en tiras finas (130 g)",
+          "🍚 3/4 taza de arroz integral o quinoa cocida (150 g)",
+          "🍆 1 taza de berenjena en cubos y pimiento rojo en tiras (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🌿 Tomillo, ajo picado, sal marina y pimienta negra molida"
+        ],
+        "foto_arquivo": "receta_P1_C2_35_es.jpg",
+        "foto_prompt": "Professional editorial food photography of sautéed turkey breast strips tossed with tender roasted eggplant cubes and red bell pepper strips, served over brown rice, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Corta la berenjena en dados pequeños y sálala ligeramente durante 5 minutos para que suelte el amargor; sécala con papel.",
+          "Calienta media cucharada de aceite de oliva en una sartén grande y saltea la berenjena y el pimiento durante 6 minutos hasta que estén tiernos; retíralos a un plato.",
+          "En la misma sartén con el resto del aceite, saltea las tiras de pavo salpimentadas con ajo picado a fuego fuerte durante 4 minutos hasta que se doren.",
+          "Reincorpora las verduras a la sartén con el pavo, añade tomillo y saltea 1 minuto todo junto.",
+          "Sirve el salteado de pavo y berenjena sobre una base caliente de arroz integral."
+        ],
+        "frase_lateral": "Plato súper equilibrado que aprovecha todo el poder antioxidante de la berenjena mediterránea 🌸",
+        "objetivo_titulo": "Definición y Digestión Ligera 💪",
+        "objetivo_descripcion": "La berenjena es rica en fibra soluble y agua, acompañando la proteína de pavo para saciar sin pesadez.",
+        "macros": {
+          "calorias": "450 kcal",
+          "proteinas": "39 g",
+          "carbohidratos": "39 g",
+          "grasas": "15 g",
+          "fibra": "6 g"
+        },
+        "variaciones": [
+          "🌱 Puedes sustituir las tiras de pavo por lomo de bacalao en tacos",
+          "🌱 Si prefieres menos carbohidratos, elimina el arroz y añade más cantidad de berenjena y calabacín"
+        ]
       }
     ]
   }
