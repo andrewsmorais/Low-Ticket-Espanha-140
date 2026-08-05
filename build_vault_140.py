@@ -22,7 +22,7 @@ p1_c1_titles = [
     ("Cazuela de Huevos al Horno con Tomate y Albahaca", "Shakshuka estilo fit cargada de licopeno antioxidante y proteína limpia ❤️", "310 kcal", "22 g", "12 g", "19 g", "3 g"),
     ("Tosta de Pan de Centeno con Huevo Escalfado y Espárragos", "Un desayuno elegante con carbohidratos de índice glucémico muy bajo ❤️", "345 kcal", "19 g", "34 g", "14 g", "6 g"),
     ("Porridge Salado de Avena con Espinacas y Huevo Mollet", "Descubre la avena salada como fuente de energía y saciedad matinal ❤️", "370 kcal", "23 g", "42 g", "12 g", "6 g"),
-    ("Bol de Queso Fresco Batido con Granada y Nueces", "Cremoso, fresco y con el contraste ácido de los granos rubí de granada ❤️", "295 kcal", "26 g", "24 g", "9 g", "4 g"),
+    ("Bol de Queso Quark Cremoso con Granada y Nueces", "Cremoso, fresco y con el contraste ácido de los granos rubí de granada ❤️", "295 kcal", "26 g", "24 g", "9 g", "4 g"),
     ("Waffles Integrales de Avena y Plátano al Horno", "Crujientes por fuera y esponjosos por dentro sin una sola gota de grasa frita ❤️", "365 kcal", "17 g", "54 g", "9 g", "6 g")
 ]
 
@@ -97,8 +97,8 @@ p1_c6_titles = [
     ("Bol de Queso Cottage con Nueces y Canela", "Caseína de liberación lenta para nutrir tus músculos durante toda la noche ❤️", "220 kcal", "22 g", "8 g", "11 g", "2 g"),
     ("Yogur Griego Natural con Semillas de Lino", "Flora intestinal sana y aminoácidos sostenidos mientras duermes profundamente ❤️", "190 kcal", "20 g", "7 g", "9 g", "3 g"),
     ("Revuelto Ligero de Claras y Queso Fresco", "Proteína pura y saciante sin carbohidratos para no interferir en el sueño ❤️", "180 kcal", "24 g", "2 g", "8 g", "0 g"),
-    ("Infusión de Manzanilla con Tosta de Queso Burgos y Pavo", "Calma el sistema nervioso y asegura el balance de nitrógeno positivo nocturno ❤️", "210 kcal", "21 g", "12 g", "8 g", "2 g"),
-    ("Crema Fresca de Queso Batido con Almendras Tostadas", "Textura de mousse nocturna sin azúcares y con grasas buenas de almendra ❤️", "200 kcal", "23 g", "6 g", "9 g", "2 g")
+    ("Tosta Crujiente de Queso de Burgos y Pechuga de Pavo", "Cena proteica saciante que asegura el balance de nitrógeno positivo nocturno ❤️", "210 kcal", "21 g", "12 g", "8 g", "2 g"),
+    ("Mousse Fresca de Queso Quark con Almendras Tostadas", "Textura de mousse nocturna sin azúcares y con grasas buenas de almendra ❤️", "200 kcal", "23 g", "6 g", "9 g", "2 g")
 ]
 
 # PART 2: PROTEIN BOOSTED (CON SUPLEMENTACIÓN) - 70 RECIPES (71 to 140)
@@ -116,7 +116,7 @@ p2_c1_titles = [
     ("Tortitas de Harina de Arroz y Proteína Vainilla", "Alternativa sin gluten súper ligera que se deshace en la boca ❤️", "355 kcal", "34 g", "43 g", "5 g", "3 g"),
     ("Bol de Queso Cottage con Whey Chocolate y Nueces", "Postre de desayuno con perfil de aminoácidos de altísimo valor biológico ❤️", "340 kcal", "39 g", "18 g", "12 g", "3 g"),
     ("Panqueque Gigante al Horno con Proteína y Arándanos", "Estilo dutch baby fit para un desayuno espectacular de fin de semana ❤️", "400 kcal", "38 g", "42 g", "9 g", "5 g"),
-    ("Crepas Proteicas Finas con Queso Fresco Batido", "Crepes franceses en versión fitness sin azúcar y rellenos de cremosidad ❤️", "370 kcal", "39 g", "32 g", "8 g", "4 g"),
+    ("Crepas Proteicas Finas con Queso Quark Cremoso", "Crepes franceses en versión fitness sin azúcar y rellenos de cremosidad ❤️", "370 kcal", "39 g", "32 g", "8 g", "4 g"),
     ("Galletas de Desayuno de Avena, Plátano y Whey", "Tres galletas tiernas de desayuno listas para mojar en tu café solo ❤️", "330 kcal", "29 g", "41 g", "6 g", "6 g"),
     ("Tosta Francesa Fit con Huevo, Leche y Whey Vainilla", "Pan integral empapado en proteína tostado hasta dorar a la perfección ❤️", "375 kcal", "33 g", "40 g", "9 g", "6 g")
 ]
@@ -191,9 +191,9 @@ p2_c5_titles = [
 p2_c6_titles = [
     ("Mousse Nocturna de Caseína Micelar Sabor Chocolate", "Libera aminoácidos lentamente durante 7 horas continuas mientras duermes ❤️", "210 kcal", "26 g", "8 g", "8 g", "3 g"),
     ("Bol de Queso Cottage Potenciado con Caseína Vainilla", "El dúo imbatible de proteína de liberación lenta para máxima recuperación ❤️", "230 kcal", "30 g", "9 g", "8 g", "2 g"),
-    ("Pudin Caliente de Caseína y Canela al Taza", "Una taza reconfortante antes de meterte en la cama en noches frías ❤️", "200 kcal", "25 g", "7 g", "7 g", "3 g"),
+    ("Pudin Sólido de Chía, Caseína y Canela", "Un postre espeso y saciante antes de meterte en la cama en noches frías ❤️", "200 kcal", "25 g", "7 g", "7 g", "3 g"),
     ("Helado Fit de Caseína y Yogur Griego (Sin Heladera)", "Textura cremosa congelada que no cristaliza gracias a la caseína micelar ❤️", "220 kcal", "28 g", "10 g", "7 g", "2 g"),
-    ("Crema de Queso Batido 0% con Caseína Chocolate y Nueces", "Postre nocturno espeso y delicioso que evita el catabolismo de la madrugada ❤️", "240 kcal", "31 g", "8 g", "9 g", "3 g")
+    ("Mousse de Queso Quark 0% con Caseína Chocolate y Nueces", "Postre nocturno espeso y delicioso que evita el catabolismo de la madrugada ❤️", "240 kcal", "31 g", "8 g", "9 g", "3 g")
 ]
 
 def make_recipe(id_num, chapter, title, frase, kcal, p, c, g, f, is_supplement=False):

@@ -19,7 +19,7 @@ Este documento contiene el índice y resumen nutricional de las **140 recetas** 
 | #11 | Desayunos y Meriendas Fit | **Cazuela de Huevos al Horno con Tomate y Albahaca** | 310 kcal | 22 g | 12 g | 19 g |
 | #12 | Desayunos y Meriendas Fit | **Tosta de Pan de Centeno con Huevo Escalfado y Espárragos** | 345 kcal | 19 g | 34 g | 14 g |
 | #13 | Desayunos y Meriendas Fit | **Porridge Salado de Avena con Espinacas y Huevo Mollet** | 370 kcal | 23 g | 42 g | 12 g |
-| #14 | Desayunos y Meriendas Fit | **Bol de Queso Fresco Batido con Granada y Nueces** | 295 kcal | 26 g | 24 g | 9 g |
+| #14 | Desayunos y Meriendas Fit | **Bol de Queso Quark Cremoso con Granada y Nueces** | 295 kcal | 26 g | 24 g | 9 g |
 | #15 | Desayunos y Meriendas Fit | **Waffles Integrales de Avena y Plátano al Horno** | 365 kcal | 17 g | 54 g | 9 g |
 | #16 | Almuerzos y Cenas Fit | **Merluza al Horno con Verduras y Gambas** | 462 kcal | 43 g | 35 g | 16 g |
 | #17 | Almuerzos y Cenas Fit | **Salmón a la Plancha con Espárragos y Quinoa** | 475 kcal | 32 g | 33 g | 22 g |
@@ -74,8 +74,8 @@ Este documento contiene el índice y resumen nutricional de las **140 recetas** 
 | #66 | Antes de Dormir / Cenas Ligeras | **Bol de Queso Cottage con Nueces y Canela** | 220 kcal | 22 g | 8 g | 11 g |
 | #67 | Antes de Dormir / Cenas Ligeras | **Yogur Griego Natural con Semillas de Lino** | 190 kcal | 20 g | 7 g | 9 g |
 | #68 | Antes de Dormir / Cenas Ligeras | **Revuelto Ligero de Claras y Queso Fresco** | 180 kcal | 24 g | 2 g | 8 g |
-| #69 | Antes de Dormir / Cenas Ligeras | **Infusión de Manzanilla con Tosta de Queso Burgos y Pavo** | 210 kcal | 21 g | 12 g | 8 g |
-| #70 | Antes de Dormir / Cenas Ligeras | **Crema Fresca de Queso Batido con Almendras Tostadas** | 200 kcal | 23 g | 6 g | 9 g |
+| #69 | Antes de Dormir / Cenas Ligeras | **Tosta Crujiente de Queso de Burgos y Pechuga de Pavo** | 210 kcal | 21 g | 12 g | 8 g |
+| #70 | Antes de Dormir / Cenas Ligeras | **Mousse Fresca de Queso Quark con Almendras Tostadas** | 200 kcal | 23 g | 6 g | 9 g |
 
 ## Parte 2: Protein Boosted (Con Suplementación: Whey, Creatina, Colágeno)
 
@@ -93,7 +93,7 @@ Este documento contiene el índice y resumen nutricional de las **140 recetas** 
 | #80 | Desayunos con Whey/Caseína | **Tortitas de Harina de Arroz y Proteína Vainilla** | 355 kcal | 34 g | 43 g | 5 g |
 | #81 | Desayunos con Whey/Caseína | **Bol de Queso Cottage con Whey Chocolate y Nueces** | 340 kcal | 39 g | 18 g | 12 g |
 | #82 | Desayunos con Whey/Caseína | **Panqueque Gigante al Horno con Proteína y Arándanos** | 400 kcal | 38 g | 42 g | 9 g |
-| #83 | Desayunos con Whey/Caseína | **Crepas Proteicas Finas con Queso Fresco Batido** | 370 kcal | 39 g | 32 g | 8 g |
+| #83 | Desayunos con Whey/Caseína | **Crepas Proteicas Finas con Queso Quark Cremoso** | 370 kcal | 39 g | 32 g | 8 g |
 | #84 | Desayunos con Whey/Caseína | **Galletas de Desayuno de Avena, Plátano y Whey** | 330 kcal | 29 g | 41 g | 6 g |
 | #85 | Desayunos con Whey/Caseína | **Tosta Francesa Fit con Huevo, Leche y Whey Vainilla** | 375 kcal | 33 g | 40 g | 9 g |
 | #86 | Almuerzos y Cenas con Proteína/Colágeno | **Hamburguesas Magras de Pollo con Aislado Proteico Neutro** | 450 kcal | 48 g | 36 g | 12 g |
@@ -148,6 +148,6 @@ Este documento contiene el índice y resumen nutricional de las **140 recetas** 
 | #135 | Lanches y Snacks Proteicos | **Crepes Fríos Rellenos de Crema de Whey y Fresas** | 210 kcal | 19 g | 18 g | 6 g |
 | #136 | Antes de Dormir con Caseína/Cottage | **Mousse Nocturna de Caseína Micelar Sabor Chocolate** | 210 kcal | 26 g | 8 g | 8 g |
 | #137 | Antes de Dormir con Caseína/Cottage | **Bol de Queso Cottage Potenciado con Caseína Vainilla** | 230 kcal | 30 g | 9 g | 8 g |
-| #138 | Antes de Dormir con Caseína/Cottage | **Pudin Caliente de Caseína y Canela al Taza** | 200 kcal | 25 g | 7 g | 7 g |
+| #138 | Antes de Dormir con Caseína/Cottage | **Pudin Sólido de Chía, Caseína y Canela** | 200 kcal | 25 g | 7 g | 7 g |
 | #139 | Antes de Dormir con Caseína/Cottage | **Helado Fit de Caseína y Yogur Griego (Sin Heladera)** | 220 kcal | 28 g | 10 g | 7 g |
-| #140 | Antes de Dormir con Caseína/Cottage | **Crema de Queso Batido 0% con Caseína Chocolate y Nueces** | 240 kcal | 31 g | 8 g | 9 g |
+| #140 | Antes de Dormir con Caseína/Cottage | **Mousse de Queso Quark 0% con Caseína Chocolate y Nueces** | 240 kcal | 31 g | 8 g | 9 g |

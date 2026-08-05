@@ -1,46 +1,67 @@
-// Helper para Fallback de imagens de gastronomia em alta definição (Unsplash HD)
+// Helper para Fallback de imagens de gastronomia em alta definição (Unsplash HD) com palavras-chave específicas do prato
 function getGastronomyImageFallback(title, id) {
     const t = (title || '').toLowerCase();
     const fallbacks = {
-        fish: [
+        salmon: [
             'https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=800&q=80',
-            'https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=800&q=80',
-            'https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=800&q=80',
-            'https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80'
+            'https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=800&q=80'
         ],
-        meat: [
+        hake_fish: [
+            'https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=800&q=80',
+            'https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80',
+            'https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=800&q=80'
+        ],
+        chicken: [
             'https://images.unsplash.com/photo-1604908554025-aaa87c152c7b?auto=format&fit=crop&w=800&q=80',
-            'https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&w=800&q=80',
             'https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=800&q=80'
         ],
-        breakfast: [
+        beef: [
+            'https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&w=800&q=80',
+            'https://images.unsplash.com/photo-1558030006-450675393462?auto=format&fit=crop&w=800&q=80'
+        ],
+        pancake: [
             'https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=800&q=80',
-            'https://images.unsplash.com/photo-1533089860892-a7c6f0a88666?auto=format&fit=crop&w=800&q=80',
+            'https://images.unsplash.com/photo-1506084868230-bb9d95c24759?auto=format&fit=crop&w=800&q=80',
+            'https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?auto=format&fit=crop&w=800&q=80'
+        ],
+        omelette: [
             'https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=800&q=80',
-            'https://images.unsplash.com/photo-1517673132405-a56a62b18caf?auto=format&fit=crop&w=800&q=80'
+            'https://images.unsplash.com/photo-1510693206972-df098062cb71?auto=format&fit=crop&w=800&q=80'
+        ],
+        porridge: [
+            'https://images.unsplash.com/photo-1517673132405-a56a62b18caf?auto=format&fit=crop&w=800&q=80',
+            'https://images.unsplash.com/photo-1533089860892-a7c6f0a88666?auto=format&fit=crop&w=800&q=80'
         ],
         salad: [
             'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80',
             'https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80',
             'https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=800&q=80'
         ],
-        protein: [
-            'https://images.unsplash.com/photo-1505252585461-04db1eb84625?auto=format&fit=crop&w=800&q=80',
+        dessert_protein: [
             'https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=800&q=80',
-            'https://images.unsplash.com/photo-1494597564530-871f2b93ac55?auto=format&fit=crop&w=800&q=80'
+            'https://images.unsplash.com/photo-1494597564530-871f2b93ac55?auto=format&fit=crop&w=800&q=80',
+            'https://images.unsplash.com/photo-1505252585461-04db1eb84625?auto=format&fit=crop&w=800&q=80'
         ]
     };
 
-    if (t.includes('salmón') || t.includes('salmon') || t.includes('atún') || t.includes('atun') || t.includes('lubina') || t.includes('merluza') || t.includes('pescado') || t.includes('marisco') || t.includes('sepia') || t.includes('gambas')) {
-        return fallbacks.fish[id % fallbacks.fish.length];
-    } else if (t.includes('pollo') || t.includes('ternera') || t.includes('pavo') || t.includes('carne') || t.includes('pechuga')) {
-        return fallbacks.meat[id % fallbacks.meat.length];
-    } else if (t.includes('tortita') || t.includes('avena') || t.includes('huevo') || t.includes('tortilla') || t.includes('plátano') || t.includes('porridge') || t.includes('gofre') || t.includes('panqueca')) {
-        return fallbacks.breakfast[id % fallbacks.breakfast.length];
-    } else if (t.includes('ensalada') || t.includes('quinoa') || t.includes('verdura') || t.includes('garbanzo') || t.includes('lenteja')) {
+    if (t.includes('salmón') || t.includes('salmon') || t.includes('atún') || t.includes('atun')) {
+        return fallbacks.salmon[id % fallbacks.salmon.length];
+    } else if (t.includes('merluza') || t.includes('lubina') || t.includes('dorada') || t.includes('pescado') || t.includes('marisco') || t.includes('sepia') || t.includes('gambas') || t.includes('pulpo') || t.includes('hake')) {
+        return fallbacks.hake_fish[id % fallbacks.hake_fish.length];
+    } else if (t.includes('pollo') || t.includes('pechuga') || t.includes('pavo') || t.includes('chicken')) {
+        return fallbacks.chicken[id % fallbacks.chicken.length];
+    } else if (t.includes('ternera') || t.includes('lomo') || t.includes('carne') || t.includes('beef') || t.includes('solomillo')) {
+        return fallbacks.beef[id % fallbacks.beef.length];
+    } else if (t.includes('tortita') || t.includes('panqueque') || t.includes('crepa') || t.includes('crepe') || t.includes('gofre') || t.includes('waffle') || t.includes('pancake')) {
+        return fallbacks.pancake[id % fallbacks.pancake.length];
+    } else if (t.includes('huevo') || t.includes('tortilla') || t.includes('revuelto') || t.includes('shakshuka') || t.includes('omelette')) {
+        return fallbacks.omelette[id % fallbacks.omelette.length];
+    } else if (t.includes('avena') || t.includes('porridge') || t.includes('gachas') || t.includes('cereal') || t.includes('bol')) {
+        return fallbacks.porridge[id % fallbacks.porridge.length];
+    } else if (t.includes('ensalada') || t.includes('quinoa') || t.includes('verdura') || t.includes('garbanzo') || t.includes('lenteja') || t.includes('boniato')) {
         return fallbacks.salad[id % fallbacks.salad.length];
     } else {
-        return fallbacks.protein[id % fallbacks.protein.length];
+        return fallbacks.dessert_protein[id % fallbacks.dessert_protein.length];
     }
 }
 

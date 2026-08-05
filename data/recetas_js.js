@@ -506,7 +506,7 @@ window.RECETAS_140_DATA = {
     {
       "id": 14,
       "capitulo": "Desayunos y Meriendas Fit",
-      "titulo": "Bol de Queso Fresco Batido con Granada y Nueces",
+      "titulo": "Bol de Queso Quark Cremoso con Granada y Nueces",
       "frase_efecto": "Cremoso, fresco y con el contraste ácido de los granos rubí de granada ❤️",
       "tiempo": "15 a 25 minutos",
       "rendimiento": "1 ración",
@@ -517,7 +517,7 @@ window.RECETAS_140_DATA = {
         "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto"
       ],
       "foto_arquivo": "receta_014_es.jpg",
-      "foto_prompt": "Professional editorial food photography of Bol de Queso Fresco Batido con Granada y Nueces, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+      "foto_prompt": "Professional editorial food photography of Bol de Queso Quark Cremoso con Granada y Nueces, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
       "modo_preparo": [
         "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
         "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
@@ -2628,8 +2628,8 @@ window.RECETAS_140_DATA = {
     {
       "id": 69,
       "capitulo": "Antes de Dormir / Cenas Ligeras",
-      "titulo": "Infusión de Manzanilla con Tosta de Queso Burgos y Pavo",
-      "frase_efecto": "Calma el sistema nervioso y asegura el balance de nitrógeno positivo nocturno ❤️",
+      "titulo": "Tosta Crujiente de Queso de Burgos y Pechuga de Pavo",
+      "frase_efecto": "Cena proteica saciante que asegura el balance de nitrógeno positivo nocturno ❤️",
       "tiempo": "15 a 25 minutos",
       "rendimiento": "1 ración",
       "ingredientes": [
@@ -2640,7 +2640,7 @@ window.RECETAS_140_DATA = {
         "🌿 Ajo picado, perejil fresco, tomillo seco, sal marina y pimienta"
       ],
       "foto_arquivo": "receta_069_es.jpg",
-      "foto_prompt": "Professional editorial food photography of Infusión de Manzanilla con Tosta de Queso Burgos y Pavo, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+      "foto_prompt": "Professional editorial food photography of Tosta Crujiente de Queso de Burgos y Pechuga de Pavo, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
       "modo_preparo": [
         "Prepara los vegetales al vapor, al horno o salteados con media cucharada de aceite durante 5 minutos.",
         "Salpimenta la carne magra con ajo molido, hierbas aromáticas, sal marina y pimienta negra.",
@@ -2668,7 +2668,7 @@ window.RECETAS_140_DATA = {
     {
       "id": 70,
       "capitulo": "Antes de Dormir / Cenas Ligeras",
-      "titulo": "Crema Fresca de Queso Batido con Almendras Tostadas",
+      "titulo": "Mousse Fresca de Queso Quark con Almendras Tostadas",
       "frase_efecto": "Textura de mousse nocturna sin azúcares y con grasas buenas de almendra ❤️",
       "tiempo": "15 a 25 minutos",
       "rendimiento": "1 ración",
@@ -2679,7 +2679,7 @@ window.RECETAS_140_DATA = {
         "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto"
       ],
       "foto_arquivo": "receta_070_es.jpg",
-      "foto_prompt": "Professional editorial food photography of Crema Fresca de Queso Batido con Almendras Tostadas, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+      "foto_prompt": "Professional editorial food photography of Mousse Fresca de Queso Quark con Almendras Tostadas, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
       "modo_preparo": [
         "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
         "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
@@ -3199,7 +3199,7 @@ window.RECETAS_140_DATA = {
     {
       "id": 83,
       "capitulo": "Desayunos con Whey/Caseína",
-      "titulo": "Crepas Proteicas Finas con Queso Fresco Batido",
+      "titulo": "Crepas Proteicas Finas con Queso Quark Cremoso",
       "frase_efecto": "Crepes franceses en versión fitness sin azúcar y rellenos de cremosidad ❤️",
       "tiempo": "15 a 25 minutos",
       "rendimiento": "1 ración",
@@ -3211,7 +3211,7 @@ window.RECETAS_140_DATA = {
         "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
       ],
       "foto_arquivo": "receta_083_es.jpg",
-      "foto_prompt": "Professional editorial food photography of Crepas Proteicas Finas con Queso Fresco Batido, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+      "foto_prompt": "Professional editorial food photography of Crepas Proteicas Finas con Queso Quark Cremoso, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
       "modo_preparo": [
         "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
         "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
@@ -5413,8 +5413,8 @@ window.RECETAS_140_DATA = {
     {
       "id": 138,
       "capitulo": "Antes de Dormir con Caseína/Cottage",
-      "titulo": "Pudin Caliente de Caseína y Canela al Taza",
-      "frase_efecto": "Una taza reconfortante antes de meterte en la cama en noches frías ❤️",
+      "titulo": "Pudin Sólido de Chía, Caseína y Canela",
+      "frase_efecto": "Un postre espeso y saciante antes de meterte en la cama en noches frías ❤️",
       "tiempo": "15 a 25 minutos",
       "rendimiento": "1 ración",
       "ingredientes": [
@@ -5425,7 +5425,7 @@ window.RECETAS_140_DATA = {
         "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
       ],
       "foto_arquivo": "receta_138_es.jpg",
-      "foto_prompt": "Professional editorial food photography of Pudin Caliente de Caseína y Canela al Taza, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+      "foto_prompt": "Professional editorial food photography of Pudin Sólido de Chía, Caseína y Canela, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
       "modo_preparo": [
         "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
         "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
@@ -5491,7 +5491,7 @@ window.RECETAS_140_DATA = {
     {
       "id": 140,
       "capitulo": "Antes de Dormir con Caseína/Cottage",
-      "titulo": "Crema de Queso Batido 0% con Caseína Chocolate y Nueces",
+      "titulo": "Mousse de Queso Quark 0% con Caseína Chocolate y Nueces",
       "frase_efecto": "Postre nocturno espeso y delicioso que evita el catabolismo de la madrugada ❤️",
       "tiempo": "15 a 25 minutos",
       "rendimiento": "1 ración",
@@ -5503,7 +5503,7 @@ window.RECETAS_140_DATA = {
         "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
       ],
       "foto_arquivo": "receta_140_es.jpg",
-      "foto_prompt": "Professional editorial food photography of Crema de Queso Batido 0% con Caseína Chocolate y Nueces, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+      "foto_prompt": "Professional editorial food photography of Mousse de Queso Quark 0% con Caseína Chocolate y Nueces, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
       "modo_preparo": [
         "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
         "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
