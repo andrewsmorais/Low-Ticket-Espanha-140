@@ -125,22 +125,28 @@ Substitua aveia por farinha de amêndoas</textarea>
             <button class="btn-download pdf" onclick="downloadPDF()">📄 Baixar como PDF</button>
         </div>
 
-        <!-- Recipe Preview -->
+        <!-- Recipe Preview (Estilo Editorial / Libro de Cocina Premium Pinterest) -->
         <div class="preview-container">
             <div class="recipe-card" id="recipe-card">
-                <div class="header">
-                    <h1 id="preview-title">Panquecas de<br>Banana e Aveia</h1>
-                    <div class="subtitle-ribbon">
-                        <span id="preview-subtitle">Simples, saudável e deliciosa! 💖</span>
-                    </div>
-                    <div class="recipe-meta">
-                        <span>⏱️ <strong id="preview-time">10 minutos</strong></span>
-                        <span class="meta-divider">•</span>
-                        <span>🍽️ <strong id="preview-yield">1 porção</strong></span>
+                <!-- Header Panorâmico Hero -->
+                <div class="hero-banner">
+                    <img id="preview-image" src="https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=1200&q=80" alt="Prato principal" crossorigin="anonymous">
+                    <div class="hero-gradient-overlay"></div>
+                    <div class="hero-content">
+                        <div class="subtitle-ribbon">
+                            <span id="preview-subtitle">Simples, saudável e deliciosa! 💖</span>
+                        </div>
+                        <h1 id="preview-title">Panquecas de<br>Banana e Aveia</h1>
+                        <div class="recipe-meta">
+                            <span>⏱️ <strong id="preview-time">10 minutos</strong></span>
+                            <span class="meta-divider">•</span>
+                            <span>🍽️ <strong id="preview-yield">1 porção</strong></span>
+                        </div>
                     </div>
                 </div>
 
-                <div class="main-content">
+                <!-- Grid Principal de 2 Colunas Editorial -->
+                <div class="main-content editorial-grid">
                     <div class="left-col">
                         <div class="box ingredients-box">
                             <div class="box-title">
@@ -150,20 +156,36 @@ Substitua aveia por farinha de amêndoas</textarea>
                                 <!-- Populated by JS -->
                             </ul>
                         </div>
-                    </div>
-                    
-                    <div class="right-col">
-                        <div class="plate-image-container">
-                            <img id="preview-image" src="https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=500&q=80" alt="Prato principal" crossorigin="anonymous">
+
+                        <div class="box target-box" style="margin-top: 22px;">
+                            <div class="box-title target-title">
+                                <span>OBJETIVO NUTRICIONAL 🎯</span>
+                            </div>
+                            <div class="target-content">
+                                <strong id="preview-target">Ganho de Massa Muscular 💪</strong>
+                                <p id="preview-target-comment">Ótima opção, pois fornece energia rápida da banana e proteínas do ovo para os músculos.</p>
+                            </div>
+                        </div>
+
+                        <div class="box nutrition-box" style="margin-top: 22px;">
+                            <div class="nutrition-header">
+                                INFORMACIÓN NUTRICIONAL<br>
+                                <span>(TOTAL DE LA RECETA)</span>
+                            </div>
+                            <div class="nutrition-table">
+                                <div class="nutri-row"><span>Calorías</span><span id="preview-cal">285 kcal</span></div>
+                                <div class="nutri-row"><span>Proteínas</span><span id="preview-prot">11 g</span></div>
+                                <div class="nutri-row"><span>Carboidratos</span><span id="preview-carb">44 g</span></div>
+                                <div class="nutri-row"><span>Grasas</span><span id="preview-fat">7 g</span></div>
+                                <div class="nutri-row"><span>Fibra</span><span id="preview-fib">6 g</span></div>
+                            </div>
                         </div>
                     </div>
-                </div>
 
-                <div class="bottom-content">
-                    <div class="prep-col">
+                    <div class="right-col">
                         <div class="box prep-box">
                             <div class="box-title">
-                                <span>MODO DE PREPARO 👩‍🍳</span>
+                                <span>MODO DE PREPARACIÓN 👩‍🍳</span>
                             </div>
                             <ol id="preview-instructions">
                                 <!-- Populated by JS -->
@@ -172,42 +194,16 @@ Substitua aveia por farinha de amêndoas</textarea>
 
                         <div class="box variations-box" style="margin-top: 25px;">
                             <div class="box-title variations-title">
-                                <span>VARIAÇÕES 💡</span>
+                                <span>✨ TIP GOURMET & VARIACIONES 💡</span>
                             </div>
                             <ul id="preview-variations">
                                 <!-- Populated by JS -->
                             </ul>
                         </div>
-                    </div>
 
-                    <div class="side-col">
-                        <div class="sticky-note">
+                        <div class="sticky-note" style="margin-top: 22px;">
                             <div class="tape"></div>
                             <p id="preview-note">Perfeita para o café da manhã ou lanche da tarde! 🌸</p>
-                        </div>
-
-                        <div class="box target-box">
-                            <div class="box-title target-title">
-                                <span>OBJETIVO 🎯</span>
-                            </div>
-                            <div class="target-content">
-                                <strong id="preview-target">Ganho de Massa Muscular 💪</strong>
-                                <p id="preview-target-comment">Ótima opção, pois fornece energia rápida da banana e proteínas do ovo para os músculos.</p>
-                            </div>
-                        </div>
-
-                        <div class="box nutrition-box">
-                            <div class="nutrition-header">
-                                INFORMAÇÃO NUTRICIONAL<br>
-                                <span>(TOTAL DA RECEITA)</span>
-                            </div>
-                            <div class="nutrition-table">
-                                <div class="nutri-row"><span>Calorias</span><span id="preview-cal">285 kcal</span></div>
-                                <div class="nutri-row"><span>Proteínas</span><span id="preview-prot">11 g</span></div>
-                                <div class="nutri-row"><span>Carboidratos</span><span id="preview-carb">44 g</span></div>
-                                <div class="nutri-row"><span>Gorduras</span><span id="preview-fat">7 g</span></div>
-                                <div class="nutri-row"><span>Fibras</span><span id="preview-fib">6 g</span></div>
-                            </div>
                         </div>
                     </div>
                 </div>

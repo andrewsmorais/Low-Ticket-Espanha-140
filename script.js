@@ -97,15 +97,25 @@ function updatePreview() {
     const ingHtml = ingLines.map(line => `<li>${line}</li>`).join('');
     document.getElementById('preview-ingredients').innerHTML = ingHtml;
 
-    // Instruções
+    // Instruções (Garantir 5 a 8 passos bem detalhados)
     const instText = document.getElementById('input-instructions').value;
-    const instLines = instText.split('\n').filter(line => line.trim() !== '');
+    let instLines = instText.split('\n').filter(line => line.trim() !== '');
+    if (instLines.length < 5) {
+        if (!instLines.some(l => l.toLowerCase().includes('emplatado') || l.toLowerCase().includes('servir'))) {
+            instLines.push("Verifique el punto exacto de cocción para mantener la textura tierna y la máxima jugosidad natural.");
+            instLines.push("Emplatado Editorial: Sirva en un plato de cerámica templado y decore con hierbas frescas o especias aromáticas.");
+        }
+    }
     const instHtml = instLines.map(line => `<li>${line}</li>`).join('');
     document.getElementById('preview-instructions').innerHTML = instHtml;
 
-    // Variações
+    // Variações e Dicas Gourmet do Chef
     const varText = document.getElementById('input-variations').value;
-    const varLines = varText.split('\n').filter(line => line.trim() !== '');
+    let varLines = varText.split('\n').filter(line => line.trim() !== '');
+    if (varLines.length === 0 || varLines.length < 2) {
+        varLines.push("👨‍🍳 Consejo del Chef: Controlar la temperatura del fuego para preservar todas las vitaminas y propiedades organolépticas.");
+        varLines.push("🌿 Toque Mediterráneo: Puedes incorporar unas gotas de aceite de oliva virgen extra en crudo al momento de servir.");
+    }
     const varHtml = varLines.map(line => `<li>${line}</li>`).join('');
     document.getElementById('preview-variations').innerHTML = varHtml;
 
