@@ -53,6 +53,50 @@ inputs.forEach(input => {
 // Atualizar logo que abre
 updatePreview();
 
+// Carregar as 140 receitas no dropdown
+window.addEventListener('DOMContentLoaded', () => {
+    const selector = document.getElementById('recipe-selector');
+    if (selector && window.RECETAS_140_DATA) {
+        const allRecipes = [
+            ...window.RECETAS_140_DATA.parte1,
+            ...window.RECETAS_140_DATA.parte2
+        ];
+        allRecipes.forEach(rec => {
+            const opt = document.createElement('option');
+            opt.value = rec.id;
+            opt.innerText = `#${rec.id} - ${rec.titulo} (${rec.capitulo})`;
+            selector.appendChild(opt);
+        });
+
+        selector.addEventListener('change', () => {
+            const selectedId = parseInt(selector.value);
+            if (!selectedId) return;
+            const rec = allRecipes.find(r => r.id === selectedId);
+            if (rec) {
+                document.getElementById('input-title').value = rec.titulo;
+                document.getElementById('input-subtitle').value = rec.frase_efecto;
+                document.getElementById('input-time').value = rec.tiempo;
+                document.getElementById('input-yield').value = rec.rendimiento;
+                document.getElementById('input-image').value = rec.foto_arquivo || '';
+                document.getElementById('input-ingredients').value = (rec.ingredientes || []).join('\n');
+                document.getElementById('input-instructions').value = (rec.modo_preparo || []).join('\n');
+                document.getElementById('input-variations').value = (rec.variaciones || []).join('\n');
+                document.getElementById('input-note').value = rec.frase_lateral || '';
+                document.getElementById('input-target').value = rec.objetivo_titulo || '';
+                document.getElementById('input-target-comment').value = rec.objetivo_descripcion || '';
+                if (rec.macros) {
+                    document.getElementById('input-cal').value = rec.macros.calorias || '';
+                    document.getElementById('input-prot').value = rec.macros.proteinas || '';
+                    document.getElementById('input-carb').value = rec.macros.carbohidratos || '';
+                    document.getElementById('input-fat').value = rec.macros.grasas || '';
+                    document.getElementById('input-fib').value = rec.macros.fibra || '';
+                }
+                updatePreview();
+            }
+        });
+    }
+});
+
 // Função para baixar como Imagem PNG
 function downloadImage() {
     const recipeCard = document.getElementById('recipe-card');

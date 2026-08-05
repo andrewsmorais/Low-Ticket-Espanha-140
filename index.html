@@ -8,13 +8,21 @@
     <link rel="stylesheet" href="style.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="data/recetas_js.js"></script>
 </head>
 <body>
     <div class="app-container">
         <!-- Editor Sidebar -->
         <div class="editor-sidebar">
-            <h2>📝 Editar Receita</h2>
+            <h2>📝 Editar Receita / Ebook 140</h2>
             
+            <div class="form-group" style="background: #fff3cd; padding: 10px; border-radius: 8px; border: 1px solid #ffeeba;">
+                <label style="color: #856404; font-weight: bold;">⚡ Cargar de las 140 Recetas (Español):</label>
+                <select id="recipe-selector" style="width: 100%; padding: 8px; border-radius: 6px; border: 1px solid #ccc; background: #fff; font-weight: bold; margin-top: 5px;">
+                    <option value="">-- Selecciona una receta (1 a 140) --</option>
+                </select>
+            </div>
+
             <div class="form-group">
                 <label>Título da Receita</label>
                 <input type="text" id="input-title" value="Panquecas de Banana e Aveia">
