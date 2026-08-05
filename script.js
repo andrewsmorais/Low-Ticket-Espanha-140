@@ -96,8 +96,9 @@ function updatePreview() {
     const ingText = document.getElementById('input-ingredients').value;
     const ingLines = ingText.split('\n').filter(line => line.trim() !== '');
     const ingHtml = ingLines.map(line => {
-        const isOpt = line.toLowerCase().includes('opcional') || line.toLowerCase().includes('a gusto');
-        return `<li class="${isOpt ? 'optional-item' : ''}">${line}</li>`;
+        const cleanLine = line.replace(/^[^\w\sÁÉÍÓÚáéíóúÑñ0-9(]+/u, '').trim() || line.trim();
+        const isOpt = cleanLine.toLowerCase().includes('opcional') || cleanLine.toLowerCase().includes('a gusto');
+        return `<li class="${isOpt ? 'optional-item' : ''}">${cleanLine}</li>`;
     }).join('');
     document.getElementById('preview-ingredients').innerHTML = ingHtml;
 
