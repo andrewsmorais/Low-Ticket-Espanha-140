@@ -96,9 +96,10 @@ function updatePreview() {
     const ingText = document.getElementById('input-ingredients').value;
     const ingLines = ingText.split('\n').filter(line => line.trim() !== '');
     const ingHtml = ingLines.map(line => {
-        const cleanLine = line.replace(/^[^\w\sÁÉÍÓÚáéíóúÑñ0-9(]+/u, '').trim() || line.trim();
-        const isOpt = cleanLine.toLowerCase().includes('opcional') || cleanLine.toLowerCase().includes('a gusto');
-        return `<li class="${isOpt ? 'optional-item' : ''}">${cleanLine}</li>`;
+        let text = line.replace(/\$(\d+\/\d+)\$/g, '$1'); // Remove $1/2$
+        text = text.replace(/^[^\w\sÁÉÍÓÚáéíóúÑñ0-9(]+/u, '').trim() || text.trim(); // Remove leading emojis
+        const isOpt = text.toLowerCase().includes('opcional') || text.toLowerCase().includes('a gusto');
+        return `<li class="${isOpt ? 'optional-item' : ''}">${text}</li>`;
     }).join('');
     document.getElementById('preview-ingredients').innerHTML = ingHtml;
 
@@ -111,7 +112,11 @@ function updatePreview() {
             instLines.push("Emplatado Editorial: Sirva en un plato de cerámica templado y decore con hierbas frescas o especias aromáticas.");
         }
     }
-    const instHtml = instLines.map(line => `<li>${line}</li>`).join('');
+    const instHtml = instLines.map(line => {
+        let text = line.replace(/\$(\d+\/\d+)\$/g, '$1'); // Remove $1/2$
+        text = text.replace(/^[0-9]+[\.\-\)]\s*/, '').trim(); // Remove hardcoded numbers like "1. " so CSS counter can take over
+        return `<li>${text}</li>`;
+    }).join('');
     document.getElementById('preview-instructions').innerHTML = instHtml;
 
     // Variações e Dicas Gourmet do Chef
