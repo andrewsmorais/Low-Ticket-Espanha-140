@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gerador de Receitas Premium</title>
-    <link href="https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Kalam:wght@400;700&family=Patrick+Hand&family=Nunito:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Kalam:wght@400;700&family=Patrick+Hand&family=Playfair+Display:ital,wght@0,600;0,700;1,400&family=Nunito:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css?v=140">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
@@ -125,86 +125,72 @@ Substitua aveia por farinha de amêndoas</textarea>
             <button class="btn-download pdf" onclick="downloadPDF()">📄 Baixar como PDF</button>
         </div>
 
-        <!-- Recipe Preview (Estilo Editorial / Libro de Cocina Premium Pinterest) -->
+        <!-- Recipe Preview (Estilo Exacto da Imagem Referência Pinterest) -->
         <div class="preview-container">
             <div class="recipe-card" id="recipe-card">
-                <!-- Header Panorâmico Hero -->
+                <!-- 1. Foto Hero Panorâmica no Topo com Ribbon -->
                 <div class="hero-banner">
                     <img id="preview-image" src="https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=1200&q=80" alt="Prato principal" crossorigin="anonymous">
-                    <div class="hero-gradient-overlay"></div>
-                    <div class="hero-content">
-                        <div class="subtitle-ribbon">
-                            <span id="preview-subtitle">Simples, saudável e deliciosa! 💖</span>
-                        </div>
-                        <h1 id="preview-title">Panquecas de<br>Banana e Aveia</h1>
-                        <div class="recipe-meta">
-                            <span>⏱️ <strong id="preview-time">10 minutos</strong></span>
-                            <span class="meta-divider">•</span>
-                            <span>🍽️ <strong id="preview-yield">1 porção</strong></span>
-                        </div>
+                    <div class="red-ribbon-tag">
+                        <span id="preview-subtitle">Simples, saudável e deliciosa! 💖</span>
                     </div>
                 </div>
 
-                <!-- Grid Principal de 2 Colunas Editorial -->
-                <div class="main-content editorial-grid">
+                <!-- 2. Barra de Título Central do Prato -->
+                <div class="recipe-title-bar">
+                    <h1 id="preview-title">Panqueca de Banana com Aveia — Receita Saudável</h1>
+                    <div class="recipe-meta">
+                        <span>⏱️ <strong id="preview-time">10 minutos</strong></span>
+                        <span class="meta-divider">•</span>
+                        <span>🍽️ <strong id="preview-yield">1 porção</strong></span>
+                    </div>
+                </div>
+
+                <!-- 3. Grade de Ingredientes (Esquerda) e Modo de Preparo (Direita) -->
+                <div class="recipe-body-grid">
                     <div class="left-col">
-                        <div class="box ingredients-box">
-                            <div class="box-title">
-                                <span>INGREDIENTES 🌿</span>
-                            </div>
-                            <ul id="preview-ingredients">
-                                <!-- Populated by JS -->
-                            </ul>
+                        <div class="wooden-banner-container">
+                            <div class="wooden-title">Ingredientes</div>
                         </div>
-
-                        <div class="box target-box" style="margin-top: 22px;">
-                            <div class="box-title target-title">
-                                <span>OBJETIVO NUTRICIONAL 🎯</span>
-                            </div>
-                            <div class="target-content">
-                                <strong id="preview-target">Ganho de Massa Muscular 💪</strong>
-                                <p id="preview-target-comment">Ótima opção, pois fornece energia rápida da banana e proteínas do ovo para os músculos.</p>
-                            </div>
-                        </div>
-
-                        <div class="box nutrition-box" style="margin-top: 22px;">
-                            <div class="nutrition-header">
-                                INFORMACIÓN NUTRICIONAL<br>
-                                <span>(TOTAL DE LA RECETA)</span>
-                            </div>
-                            <div class="nutrition-table">
-                                <div class="nutri-row"><span>Calorías</span><span id="preview-cal">285 kcal</span></div>
-                                <div class="nutri-row"><span>Proteínas</span><span id="preview-prot">11 g</span></div>
-                                <div class="nutri-row"><span>Carboidratos</span><span id="preview-carb">44 g</span></div>
-                                <div class="nutri-row"><span>Grasas</span><span id="preview-fat">7 g</span></div>
-                                <div class="nutri-row"><span>Fibra</span><span id="preview-fib">6 g</span></div>
-                            </div>
-                        </div>
+                        <ul id="preview-ingredients" class="ingredients-list">
+                            <!-- Populated by JS -->
+                        </ul>
                     </div>
 
                     <div class="right-col">
-                        <div class="box prep-box">
-                            <div class="box-title">
-                                <span>MODO DE PREPARACIÓN 👩‍🍳</span>
-                            </div>
-                            <ol id="preview-instructions">
-                                <!-- Populated by JS -->
-                            </ol>
+                        <div class="wooden-banner-container">
+                            <div class="wooden-title">Modo de Preparo</div>
                         </div>
+                        <ol id="preview-instructions" class="instructions-list">
+                            <!-- Populated by JS -->
+                        </ol>
+                    </div>
+                </div>
 
-                        <div class="box variations-box" style="margin-top: 25px;">
-                            <div class="box-title variations-title">
-                                <span>✨ TIP GOURMET & VARIACIONES 💡</span>
-                            </div>
-                            <ul id="preview-variations">
-                                <!-- Populated by JS -->
-                            </ul>
+                <!-- 4. Rodapé Integrado (Informação Nutricional + Objetivo + Dica Gourmet) -->
+                <div class="footer-meta-row">
+                    <div class="footer-card nutrition-label">
+                        <div class="footer-card-title">Información Nutricional 📊</div>
+                        <div class="nutri-pills">
+                            <span>🔥 <strong id="preview-cal">285 kcal</strong></span>
+                            <span>💪 <strong id="preview-prot">11 g</strong> Prot</span>
+                            <span>🌾 <strong id="preview-carb">44 g</strong> Carb</span>
+                            <span>🥑 <strong id="preview-fat">7 g</strong> Grasa</span>
+                            <span>🥦 <strong id="preview-fib">6 g</strong> Fibra</span>
                         </div>
+                    </div>
 
-                        <div class="sticky-note" style="margin-top: 22px;">
-                            <div class="tape"></div>
-                            <p id="preview-note">Perfeita para o café da manhã ou lanche da tarde! 🌸</p>
-                        </div>
+                    <div class="footer-card target-label">
+                        <div class="footer-card-title">Objetivo 🎯: <strong id="preview-target">Ganho de Massa Muscular 💪</strong></div>
+                        <p id="preview-target-comment">Ótima opção, pois fornece energia rápida da banana e proteínas do ovo para os músculos.</p>
+                    </div>
+
+                    <div class="footer-card tip-label">
+                        <div class="footer-card-title">✨ Tip Gourmet & Variaciones 💡</div>
+                        <ul id="preview-variations" class="footer-variations-list">
+                            <!-- Populated by JS -->
+                        </ul>
+                        <p id="preview-note" class="chef-note">Perfeita para o café da manhã ou lanche da tarde! 🌸</p>
                     </div>
                 </div>
             </div>

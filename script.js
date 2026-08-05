@@ -92,9 +92,13 @@ function updatePreview() {
     };
     
     // Ingredientes
+    // Ingredientes (Com detecção automática de itens opcionais para ícone de seta laranja)
     const ingText = document.getElementById('input-ingredients').value;
     const ingLines = ingText.split('\n').filter(line => line.trim() !== '');
-    const ingHtml = ingLines.map(line => `<li>${line}</li>`).join('');
+    const ingHtml = ingLines.map(line => {
+        const isOpt = line.toLowerCase().includes('opcional') || line.toLowerCase().includes('a gusto');
+        return `<li class="${isOpt ? 'optional-item' : ''}">${line}</li>`;
+    }).join('');
     document.getElementById('preview-ingredients').innerHTML = ingHtml;
 
     // Instruções (Garantir 5 a 8 passos bem detalhados)
