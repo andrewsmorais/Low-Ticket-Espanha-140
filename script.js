@@ -214,26 +214,28 @@ setTimeout(initRecipeSelector, 500);
 // Função para baixar como Imagem PNG
 function downloadImage() {
     const recipeCard = document.getElementById('recipe-card');
-    
-    // Mostra um aviso pro usuário
     const btn = document.querySelector('.btn-download');
     const originalText = btn.innerText;
     btn.innerText = '⏳ Gerando imagem...';
     
     html2canvas(recipeCard, {
-        scale: 2, // Maior resolução
+        scale: 2,
         useCORS: true,
-        backgroundColor: '#faf5eb'
+        width: 794,
+        height: 1123,
+        windowWidth: 794,
+        windowHeight: 1123
     }).then(canvas => {
         const link = document.createElement('a');
-        link.download = 'minha-receita.png';
+        const title = document.getElementById('input-title')?.value || 'receita';
+        link.download = `${title}.png`;
         link.href = canvas.toDataURL('image/png');
         link.click();
         
         btn.innerText = originalText;
     }).catch(err => {
         console.error(err);
-        alert("Ocorreu um erro ao gerar a imagem. Se usou imagem da web, tente salvar a imagem na pasta do projeto e usar o nome dela (ex: foto.jpg).");
+        alert("Ocorreu um erro ao gerar a imagem.");
         btn.innerText = originalText;
     });
 }
@@ -248,19 +250,17 @@ function downloadPDF() {
     html2canvas(recipeCard, {
         scale: 2,
         useCORS: true,
-        backgroundColor: '#faf5eb'
+        width: 794,
+        height: 1123,
+        windowWidth: 794,
+        windowHeight: 1123
     }).then(canvas => {
         const imgData = canvas.toDataURL('image/png');
-        
-        // Inicializa o jsPDF (A4 portrait)
         const { jsPDF } = window.jspdf;
         const pdf = new jsPDF('p', 'mm', 'a4');
-        
-        const pdfWidth = pdf.internal.pageSize.getWidth();
-        const pdfHeight = (canvas.height * pdfWidth) / canvas.width;
-        
-        pdf.addImage(imgData, 'PNG', 0, 0, pdfWidth, pdfHeight);
-        pdf.save('minha-receita.pdf');
+        pdf.addImage(imgData, 'PNG', 0, 0, 210, 297);
+        const title = document.getElementById('input-title')?.value || 'receita';
+        pdf.save(`${title}.pdf`);
         
         btn.innerText = originalText;
     }).catch(err => {

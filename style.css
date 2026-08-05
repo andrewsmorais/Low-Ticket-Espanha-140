@@ -126,8 +126,9 @@ input:focus, textarea:focus {
         radial-gradient(#d6c6b0 1px, transparent 1px),
         radial-gradient(#d6c6b0 1px, #e9dfcf 1px);
     background-size: 24px 24px;
-    width: 210mm;
-    min-height: 297mm;
+    width: 794px;
+    height: 1123px;
+    max-height: 1123px;
     padding: 0;
     border-radius: 12px;
     box-shadow: 0 15px 35px rgba(60, 40, 20, 0.25);
@@ -181,7 +182,7 @@ input:focus, textarea:focus {
     display: flex;
     padding: 24px 30px 14px 30px;
     gap: 28px;
-    flex: 1 1 auto;
+    height: 600px;
     overflow: hidden;
 }
 
