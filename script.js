@@ -121,21 +121,30 @@ function updatePreview() {
         varLines.push("🌿 Toque Mediterráneo: Puedes incorporar unas gotas de aceite de oliva virgen extra en crudo al momento de servir.");
     }
     const varHtml = varLines.map(line => `<li>${line}</li>`).join('');
-    document.getElementById('preview-variations').innerHTML = varHtml;
+    const varEl = document.getElementById('preview-variations');
+    if (varEl) varEl.innerHTML = varHtml;
 
     // Nota / Dica
-    document.getElementById('preview-note').innerText = document.getElementById('input-note').value;
+    const noteEl = document.getElementById('preview-note');
+    if (noteEl) noteEl.innerText = document.getElementById('input-note').value;
 
     // Objetivo / Foco
-    document.getElementById('preview-target').innerText = document.getElementById('input-target').value;
-    document.getElementById('preview-target-comment').innerText = document.getElementById('input-target-comment').value;
+    const targetEl = document.getElementById('preview-target');
+    if (targetEl) targetEl.innerText = document.getElementById('input-target').value;
+    const targetCommentEl = document.getElementById('preview-target-comment');
+    if (targetCommentEl) targetCommentEl.innerText = document.getElementById('input-target-comment').value;
 
     // Tabela Nutricional
-    document.getElementById('preview-cal').innerText = document.getElementById('input-cal').value;
-    document.getElementById('preview-prot').innerText = document.getElementById('input-prot').value;
-    document.getElementById('preview-carb').innerText = document.getElementById('input-carb').value;
-    document.getElementById('preview-fat').innerText = document.getElementById('input-fat').value;
-    document.getElementById('preview-fib').innerText = document.getElementById('input-fib').value;
+    const calEl = document.getElementById('preview-cal');
+    if (calEl) calEl.innerText = document.getElementById('input-cal').value;
+    const protEl = document.getElementById('preview-prot');
+    if (protEl) protEl.innerText = document.getElementById('input-prot').value;
+    const carbEl = document.getElementById('preview-carb');
+    if (carbEl) carbEl.innerText = document.getElementById('input-carb').value;
+    const fatEl = document.getElementById('preview-fat');
+    if (fatEl) fatEl.innerText = document.getElementById('input-fat').value;
+    const fibEl = document.getElementById('preview-fib');
+    if (fibEl) fibEl.innerText = document.getElementById('input-fib').value;
 }
 
 // Adicionar eventos para atualizar ao digitar
