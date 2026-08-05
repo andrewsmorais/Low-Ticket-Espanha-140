@@ -1,0 +1,2832 @@
+{
+  "ebook": "The Ultimate Fitness Recipe Vault - Edición España",
+  "idioma": "es-ES",
+  "parte2": {
+    "titulo": "Protein Boosted (Con Suplementación)",
+    "recetas": [
+      {
+        "id": 71,
+        "capitulo": "Desayunos con Whey/Caseína",
+        "titulo": "Tortitas Proteicas de Avena, Plátano y Whey Vainilla",
+        "frase_efecto": "Esponjosas y con 35 gramos de proteína de absorción rápida para empezar el día ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍌 1 plátano maduro aplastado (100 g)",
+          "🥚 2 huevos grandes enteros o 4 claras líquidas",
+          "🥣 1/2 taza de avena en copos (40 g)",
+          "🧂 1 cucharadita de canela en polvo",
+          "🫒 1 cucharadita de aceite de oliva virgen extra para dorar (5 ml)",
+          "💪 1 scoop de proteína Whey o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_071_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Tortitas Proteicas de Avena, Plátano y Whey Vainilla, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un bol profundo, aplasta el plátano con un tenedor hasta convertirlo en puré suave.",
+          "Añade los huevos (y la proteína si aplica) y bate enérgicamente con unas varillas.",
+          "Incorpora los copos de avena y la canela en polvo hasta obtener una masa sin grumos.",
+          "Calienta una sartén antiadherente o gofrera a fuego medio con unas gotas de aceite de oliva.",
+          "Vierte pequeñas porciones de masa y cocina 2 o 3 minutos hasta ver burbujas en la superficie.",
+          "Dale la vuelta y dora 1 o 2 minutos más por el otro lado.",
+          "Sirve en un plato caliente decorando con fruta fresca al gusto."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 35 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "390 kcal",
+          "proteinas": "35 g",
+          "carbohidratos": "44 g",
+          "grasas": "8 g",
+          "fibra": "6 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 72,
+        "capitulo": "Desayunos con Whey/Caseína",
+        "titulo": "Porridge Anabólico de Avena con Whey Chocolate",
+        "frase_efecto": "El clásico porridge matinal potenciado con proteína de suero cremoso ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 1/2 taza de avena en copos o crema de arroz (40 g)",
+          "🥛 1 taza de leche desnatada o vegetal sin azúcar (240 ml)",
+          "🫐 1/2 taza de arándanos, fresas o rodajas de manzana (75 g)",
+          "🥜 1/2 oz de almendras, nueces o semillas de chía (14 g)",
+          "🧂 1 pizca de canela en polvo y aroma natural de vainilla",
+          "💪 1 scoop de proteína Whey, Aislado o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_072_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Porridge Anabólico de Avena con Whey Chocolate, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un cazo pequeño, mezcla el cereal con la leche desnatada y la canela en polvo.",
+          "Lleva a fuego medio removiendo sin cesar durante unos 4 minutos hasta que espese y adquiera cremosidad.",
+          "Retira el cazo del fuego y deja templar 1 minuto (importante para añadir proteína sin cuajarla).",
+          "Si lleva proteína en polvo, intégrala ahora removiendo suavemente hasta disolverla por completo.",
+          "Vierte el contenido en un bol ancho y profundo.",
+          "Decora la superficie con las frutas frescas elegidas y los frutos secos para un toque crujiente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 38 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "410 kcal",
+          "proteinas": "38 g",
+          "carbohidratos": "46 g",
+          "grasas": "8 g",
+          "fibra": "7 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 73,
+        "capitulo": "Desayunos con Whey/Caseína",
+        "titulo": "Waffles Proteicos Crujientes de Avena y Whey",
+        "frase_efecto": "Desayuno de domingo estilo fitness con valor proteico de restaurante fit ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍌 1 plátano maduro aplastado (100 g)",
+          "🥚 2 huevos grandes enteros o 4 claras líquidas",
+          "🥣 1/2 taza de avena en copos (40 g)",
+          "🧂 1 cucharadita de canela en polvo",
+          "🫒 1 cucharadita de aceite de oliva virgen extra para dorar (5 ml)",
+          "💪 1 scoop de proteína Whey o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_073_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Waffles Proteicos Crujientes de Avena y Whey, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un bol profundo, aplasta el plátano con un tenedor hasta convertirlo en puré suave.",
+          "Añade los huevos (y la proteína si aplica) y bate enérgicamente con unas varillas.",
+          "Incorpora los copos de avena y la canela en polvo hasta obtener una masa sin grumos.",
+          "Calienta una sartén antiadherente o gofrera a fuego medio con unas gotas de aceite de oliva.",
+          "Vierte pequeñas porciones de masa y cocina 2 o 3 minutos hasta ver burbujas en la superficie.",
+          "Dale la vuelta y dora 1 o 2 minutos más por el otro lado.",
+          "Sirve en un plato caliente decorando con fruta fresca al gusto."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 34 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "385 kcal",
+          "proteinas": "34 g",
+          "carbohidratos": "42 g",
+          "grasas": "9 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 74,
+        "capitulo": "Desayunos con Whey/Caseína",
+        "titulo": "Crema de Arroz con Proteína Aislada y Fresas",
+        "frase_efecto": "Textura de natillas fit con cero molestias digestivas y máxima pureza ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 1/2 taza de avena en copos o crema de arroz (40 g)",
+          "🥛 1 taza de leche desnatada o vegetal sin azúcar (240 ml)",
+          "🫐 1/2 taza de arándanos, fresas o rodajas de manzana (75 g)",
+          "🥜 1/2 oz de almendras, nueces o semillas de chía (14 g)",
+          "🧂 1 pizca de canela en polvo y aroma natural de vainilla",
+          "💪 1 scoop de proteína Whey, Aislado o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_074_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Crema de Arroz con Proteína Aislada y Fresas, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un cazo pequeño, mezcla el cereal con la leche desnatada y la canela en polvo.",
+          "Lleva a fuego medio removiendo sin cesar durante unos 4 minutos hasta que espese y adquiera cremosidad.",
+          "Retira el cazo del fuego y deja templar 1 minuto (importante para añadir proteína sin cuajarla).",
+          "Si lleva proteína en polvo, intégrala ahora removiendo suavemente hasta disolverla por completo.",
+          "Vierte el contenido en un bol ancho y profundo.",
+          "Decora la superficie con las frutas frescas elegidas y los frutos secos para un toque crujiente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 36 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "350 kcal",
+          "proteinas": "36 g",
+          "carbohidratos": "45 g",
+          "grasas": "3 g",
+          "fibra": "3 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 75,
+        "capitulo": "Desayunos con Whey/Caseína",
+        "titulo": "Bizcocho Taza (Mug Cake) de Avena y Whey al Microondas",
+        "frase_efecto": "Un bizcocho recién hecho en sólo 90 segundos para mañanas con prisa ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 1/2 taza de avena en copos o crema de arroz (40 g)",
+          "🥛 1 taza de leche desnatada o vegetal sin azúcar (240 ml)",
+          "🫐 1/2 taza de arándanos, fresas o rodajas de manzana (75 g)",
+          "🥜 1/2 oz de almendras, nueces o semillas de chía (14 g)",
+          "🧂 1 pizca de canela en polvo y aroma natural de vainilla",
+          "💪 1 scoop de proteína Whey, Aislado o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_075_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Bizcocho Taza (Mug Cake) de Avena y Whey al Microondas, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un cazo pequeño, mezcla el cereal con la leche desnatada y la canela en polvo.",
+          "Lleva a fuego medio removiendo sin cesar durante unos 4 minutos hasta que espese y adquiera cremosidad.",
+          "Retira el cazo del fuego y deja templar 1 minuto (importante para añadir proteína sin cuajarla).",
+          "Si lleva proteína en polvo, intégrala ahora removiendo suavemente hasta disolverla por completo.",
+          "Vierte el contenido en un bol ancho y profundo.",
+          "Decora la superficie con las frutas frescas elegidas y los frutos secos para un toque crujiente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 33 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "340 kcal",
+          "proteinas": "33 g",
+          "carbohidratos": "36 g",
+          "grasas": "7 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 76,
+        "capitulo": "Desayunos con Whey/Caseína",
+        "titulo": "Bol de Yogur Griego Potenciado con Whey y Arándanos",
+        "frase_efecto": "La combinación de caseína natural del yogur y whey para liberación mixta ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_076_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Bol de Yogur Griego Potenciado con Whey y Arándanos, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 40 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "330 kcal",
+          "proteinas": "40 g",
+          "carbohidratos": "25 g",
+          "grasas": "7 g",
+          "fibra": "4 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 77,
+        "capitulo": "Desayunos con Whey/Caseína",
+        "titulo": "Tortilla Dulce de Claras, Avena y Proteína Chocolate",
+        "frase_efecto": "Crepe esponjoso alto en proteína para rellenar con rodajas de plátano ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 1/2 taza de avena en copos o crema de arroz (40 g)",
+          "🥛 1 taza de leche desnatada o vegetal sin azúcar (240 ml)",
+          "🫐 1/2 taza de arándanos, fresas o rodajas de manzana (75 g)",
+          "🥜 1/2 oz de almendras, nueces o semillas de chía (14 g)",
+          "🧂 1 pizca de canela en polvo y aroma natural de vainilla",
+          "💪 1 scoop de proteína Whey, Aislado o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_077_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Tortilla Dulce de Claras, Avena y Proteína Chocolate, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un cazo pequeño, mezcla el cereal con la leche desnatada y la canela en polvo.",
+          "Lleva a fuego medio removiendo sin cesar durante unos 4 minutos hasta que espese y adquiera cremosidad.",
+          "Retira el cazo del fuego y deja templar 1 minuto (importante para añadir proteína sin cuajarla).",
+          "Si lleva proteína en polvo, intégrala ahora removiendo suavemente hasta disolverla por completo.",
+          "Vierte el contenido en un bol ancho y profundo.",
+          "Decora la superficie con las frutas frescas elegidas y los frutos secos para un toque crujiente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 37 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "360 kcal",
+          "proteinas": "37 g",
+          "carbohidratos": "38 g",
+          "grasas": "6 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 78,
+        "capitulo": "Desayunos con Whey/Caseína",
+        "titulo": "Muffins Proteicos de Avena, Manzana y Whey Vainilla",
+        "frase_efecto": "Hornea media docena el domingo y desayuna como un campeón toda la semana ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 1/2 taza de avena en copos o crema de arroz (40 g)",
+          "🥛 1 taza de leche desnatada o vegetal sin azúcar (240 ml)",
+          "🫐 1/2 taza de arándanos, fresas o rodajas de manzana (75 g)",
+          "🥜 1/2 oz de almendras, nueces o semillas de chía (14 g)",
+          "🧂 1 pizca de canela en polvo y aroma natural de vainilla",
+          "💪 1 scoop de proteína Whey, Aislado o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_078_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Muffins Proteicos de Avena, Manzana y Whey Vainilla, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un cazo pequeño, mezcla el cereal con la leche desnatada y la canela en polvo.",
+          "Lleva a fuego medio removiendo sin cesar durante unos 4 minutos hasta que espese y adquiera cremosidad.",
+          "Retira el cazo del fuego y deja templar 1 minuto (importante para añadir proteína sin cuajarla).",
+          "Si lleva proteína en polvo, intégrala ahora removiendo suavemente hasta disolverla por completo.",
+          "Vierte el contenido en un bol ancho y profundo.",
+          "Decora la superficie con las frutas frescas elegidas y los frutos secos para un toque crujiente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 28 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "310 kcal",
+          "proteinas": "28 g",
+          "carbohidratos": "35 g",
+          "grasas": "6 g",
+          "fibra": "4 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 79,
+        "capitulo": "Desayunos con Whey/Caseína",
+        "titulo": "Avena Trasnochada Proteica con Chía y Whey Fresa",
+        "frase_efecto": "El desayuno nocturno potenciado para quienes buscan crecimiento muscular ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 1/2 taza de avena en copos o crema de arroz (40 g)",
+          "🥛 1 taza de leche desnatada o vegetal sin azúcar (240 ml)",
+          "🫐 1/2 taza de arándanos, fresas o rodajas de manzana (75 g)",
+          "🥜 1/2 oz de almendras, nueces o semillas de chía (14 g)",
+          "🧂 1 pizca de canela en polvo y aroma natural de vainilla",
+          "💪 1 scoop de proteína Whey, Aislado o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_079_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Avena Trasnochada Proteica con Chía y Whey Fresa, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un cazo pequeño, mezcla el cereal con la leche desnatada y la canela en polvo.",
+          "Lleva a fuego medio removiendo sin cesar durante unos 4 minutos hasta que espese y adquiera cremosidad.",
+          "Retira el cazo del fuego y deja templar 1 minuto (importante para añadir proteína sin cuajarla).",
+          "Si lleva proteína en polvo, intégrala ahora removiendo suavemente hasta disolverla por completo.",
+          "Vierte el contenido en un bol ancho y profundo.",
+          "Decora la superficie con las frutas frescas elegidas y los frutos secos para un toque crujiente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 36 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "380 kcal",
+          "proteinas": "36 g",
+          "carbohidratos": "42 g",
+          "grasas": "8 g",
+          "fibra": "7 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 80,
+        "capitulo": "Desayunos con Whey/Caseína",
+        "titulo": "Tortitas de Harina de Arroz y Proteína Vainilla",
+        "frase_efecto": "Alternativa sin gluten súper ligera que se deshace en la boca ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍌 1 plátano maduro aplastado (100 g)",
+          "🥚 2 huevos grandes enteros o 4 claras líquidas",
+          "🥣 1/2 taza de avena en copos (40 g)",
+          "🧂 1 cucharadita de canela en polvo",
+          "🫒 1 cucharadita de aceite de oliva virgen extra para dorar (5 ml)",
+          "💪 1 scoop de proteína Whey o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_080_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Tortitas de Harina de Arroz y Proteína Vainilla, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un bol profundo, aplasta el plátano con un tenedor hasta convertirlo en puré suave.",
+          "Añade los huevos (y la proteína si aplica) y bate enérgicamente con unas varillas.",
+          "Incorpora los copos de avena y la canela en polvo hasta obtener una masa sin grumos.",
+          "Calienta una sartén antiadherente o gofrera a fuego medio con unas gotas de aceite de oliva.",
+          "Vierte pequeñas porciones de masa y cocina 2 o 3 minutos hasta ver burbujas en la superficie.",
+          "Dale la vuelta y dora 1 o 2 minutos más por el otro lado.",
+          "Sirve en un plato caliente decorando con fruta fresca al gusto."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 34 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "355 kcal",
+          "proteinas": "34 g",
+          "carbohidratos": "43 g",
+          "grasas": "5 g",
+          "fibra": "3 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 81,
+        "capitulo": "Desayunos con Whey/Caseína",
+        "titulo": "Bol de Queso Cottage con Whey Chocolate y Nueces",
+        "frase_efecto": "Postre de desayuno con perfil de aminoácidos de altísimo valor biológico ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_081_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Bol de Queso Cottage con Whey Chocolate y Nueces, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 39 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "340 kcal",
+          "proteinas": "39 g",
+          "carbohidratos": "18 g",
+          "grasas": "12 g",
+          "fibra": "3 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 82,
+        "capitulo": "Desayunos con Whey/Caseína",
+        "titulo": "Panqueque Gigante al Horno con Proteína y Arándanos",
+        "frase_efecto": "Estilo dutch baby fit para un desayuno espectacular de fin de semana ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍌 1 plátano maduro aplastado (100 g)",
+          "🥚 2 huevos grandes enteros o 4 claras líquidas",
+          "🥣 1/2 taza de avena en copos (40 g)",
+          "🧂 1 cucharadita de canela en polvo",
+          "🫒 1 cucharadita de aceite de oliva virgen extra para dorar (5 ml)",
+          "💪 1 scoop de proteína Whey o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_082_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Panqueque Gigante al Horno con Proteína y Arándanos, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un bol profundo, aplasta el plátano con un tenedor hasta convertirlo en puré suave.",
+          "Añade los huevos (y la proteína si aplica) y bate enérgicamente con unas varillas.",
+          "Incorpora los copos de avena y la canela en polvo hasta obtener una masa sin grumos.",
+          "Calienta una sartén antiadherente o gofrera a fuego medio con unas gotas de aceite de oliva.",
+          "Vierte pequeñas porciones de masa y cocina 2 o 3 minutos hasta ver burbujas en la superficie.",
+          "Dale la vuelta y dora 1 o 2 minutos más por el otro lado.",
+          "Sirve en un plato caliente decorando con fruta fresca al gusto."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 38 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "400 kcal",
+          "proteinas": "38 g",
+          "carbohidratos": "42 g",
+          "grasas": "9 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 83,
+        "capitulo": "Desayunos con Whey/Caseína",
+        "titulo": "Crepas Proteicas Finas con Queso Fresco Batido",
+        "frase_efecto": "Crepes franceses en versión fitness sin azúcar y rellenos de cremosidad ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_083_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Crepas Proteicas Finas con Queso Fresco Batido, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 39 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "370 kcal",
+          "proteinas": "39 g",
+          "carbohidratos": "32 g",
+          "grasas": "8 g",
+          "fibra": "4 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 84,
+        "capitulo": "Desayunos con Whey/Caseína",
+        "titulo": "Galletas de Desayuno de Avena, Plátano y Whey",
+        "frase_efecto": "Tres galletas tiernas de desayuno listas para mojar en tu café solo ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 1/2 taza de avena en copos o crema de arroz (40 g)",
+          "🥛 1 taza de leche desnatada o vegetal sin azúcar (240 ml)",
+          "🫐 1/2 taza de arándanos, fresas o rodajas de manzana (75 g)",
+          "🥜 1/2 oz de almendras, nueces o semillas de chía (14 g)",
+          "🧂 1 pizca de canela en polvo y aroma natural de vainilla",
+          "💪 1 scoop de proteína Whey, Aislado o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_084_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Galletas de Desayuno de Avena, Plátano y Whey, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un cazo pequeño, mezcla el cereal con la leche desnatada y la canela en polvo.",
+          "Lleva a fuego medio removiendo sin cesar durante unos 4 minutos hasta que espese y adquiera cremosidad.",
+          "Retira el cazo del fuego y deja templar 1 minuto (importante para añadir proteína sin cuajarla).",
+          "Si lleva proteína en polvo, intégrala ahora removiendo suavemente hasta disolverla por completo.",
+          "Vierte el contenido en un bol ancho y profundo.",
+          "Decora la superficie con las frutas frescas elegidas y los frutos secos para un toque crujiente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 29 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "330 kcal",
+          "proteinas": "29 g",
+          "carbohidratos": "41 g",
+          "grasas": "6 g",
+          "fibra": "6 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 85,
+        "capitulo": "Desayunos con Whey/Caseína",
+        "titulo": "Tosta Francesa Fit con Huevo, Leche y Whey Vainilla",
+        "frase_efecto": "Pan integral empapado en proteína tostado hasta dorar a la perfección ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_085_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Tosta Francesa Fit con Huevo, Leche y Whey Vainilla, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 33 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "375 kcal",
+          "proteinas": "33 g",
+          "carbohidratos": "40 g",
+          "grasas": "9 g",
+          "fibra": "6 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 86,
+        "capitulo": "Almuerzos y Cenas con Proteína/Colágeno",
+        "titulo": "Hamburguesas Magras de Pollo con Aislado Proteico Neutro",
+        "frase_efecto": "Aumenta la densidad proteica de tu hamburguesa sin sumar un solo gramo de grasa ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍗 5 oz de pechuga de pollo, pavo, ternera magra o cerdo magro (140 g)",
+          "🍚 3/4 taza de arroz integral, quinoa o boniato asado como guarnición (150 g)",
+          "🥦 1 taza de brócoli, espárragos, pimientos o calabacín fresco (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🌿 Ajo picado, perejil fresco, tomillo seco, sal marina y pimienta",
+          "💪 1 scoop de proteína neutra o colágeno hidrolizado para enriquecer la salsa"
+        ],
+        "foto_arquivo": "receta_086_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Hamburguesas Magras de Pollo con Aislado Proteico Neutro, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los vegetales al vapor, al horno o salteados con media cucharada de aceite durante 5 minutos.",
+          "Salpimenta la carne magra con ajo molido, hierbas aromáticas, sal marina y pimienta negra.",
+          "Calienta una sartén o plancha antiadherente a fuego medio-alto con el resto del aceite de oliva.",
+          "Cocina la carne durante 4 a 6 minutos por lado según el grosor hasta que esté jugosa y bien hecha.",
+          "Si la receta incluye salsa enriquecida, mezcla el caldo con la proteína neutra y viértelo en el último minuto.",
+          "Emplata la porción de hidratos complejos (arroz, quinoa o boniato) como base.",
+          "Coloca la carne recién cocinada sobre la guarnición y sirve caliente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 48 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "450 kcal",
+          "proteinas": "48 g",
+          "carbohidratos": "36 g",
+          "grasas": "12 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 87,
+        "capitulo": "Almuerzos y Cenas con Proteína/Colágeno",
+        "titulo": "Albóndigas de Pavo con Proteína de Guisante Neutra",
+        "frase_efecto": "Albóndigas tiernas enriquecidas en aminoácidos con salsa de tomate casera ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍗 5 oz de pechuga de pollo, pavo, ternera magra o cerdo magro (140 g)",
+          "🍚 3/4 taza de arroz integral, quinoa o boniato asado como guarnición (150 g)",
+          "🥦 1 taza de brócoli, espárragos, pimientos o calabacín fresco (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🌿 Ajo picado, perejil fresco, tomillo seco, sal marina y pimienta",
+          "💪 1 scoop de proteína neutra o colágeno hidrolizado para enriquecer la salsa"
+        ],
+        "foto_arquivo": "receta_087_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Albóndigas de Pavo con Proteína de Guisante Neutra, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los vegetales al vapor, al horno o salteados con media cucharada de aceite durante 5 minutos.",
+          "Salpimenta la carne magra con ajo molido, hierbas aromáticas, sal marina y pimienta negra.",
+          "Calienta una sartén o plancha antiadherente a fuego medio-alto con el resto del aceite de oliva.",
+          "Cocina la carne durante 4 a 6 minutos por lado según el grosor hasta que esté jugosa y bien hecha.",
+          "Si la receta incluye salsa enriquecida, mezcla el caldo con la proteína neutra y viértelo en el último minuto.",
+          "Emplata la porción de hidratos complejos (arroz, quinoa o boniato) como base.",
+          "Coloca la carne recién cocinada sobre la guarnición y sirve caliente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 47 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "465 kcal",
+          "proteinas": "47 g",
+          "carbohidratos": "38 g",
+          "grasas": "13 g",
+          "fibra": "6 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 88,
+        "capitulo": "Almuerzos y Cenas con Proteína/Colágeno",
+        "titulo": "Pastel de Carne Magra al Horno con Colágeno Hidrolizado",
+        "frase_efecto": "Protege tus articulaciones mientras construyes masa muscular magra ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_088_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Pastel de Carne Magra al Horno con Colágeno Hidrolizado, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 46 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "480 kcal",
+          "proteinas": "46 g",
+          "carbohidratos": "40 g",
+          "grasas": "14 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 89,
+        "capitulo": "Almuerzos y Cenas con Proteína/Colágeno",
+        "titulo": "Crema de Calabaza y Zanahoria con Proteína Vegetal Neutra",
+        "frase_efecto": "Cuchareo suave de invierno que sorprende por su altísimo aporte proteico ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_089_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Crema de Calabaza y Zanahoria con Proteína Vegetal Neutra, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 34 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "390 kcal",
+          "proteinas": "34 g",
+          "carbohidratos": "42 g",
+          "grasas": "9 g",
+          "fibra": "7 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 90,
+        "capitulo": "Almuerzos y Cenas con Proteína/Colágeno",
+        "titulo": "Croquetas Fit al Horno de Pollo y Whey Neutro",
+        "frase_efecto": "El aperitivo español amado por todos en su versión proteica sin freír ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍗 5 oz de pechuga de pollo, pavo, ternera magra o cerdo magro (140 g)",
+          "🍚 3/4 taza de arroz integral, quinoa o boniato asado como guarnición (150 g)",
+          "🥦 1 taza de brócoli, espárragos, pimientos o calabacín fresco (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🌿 Ajo picado, perejil fresco, tomillo seco, sal marina y pimienta",
+          "💪 1 scoop de proteína neutra o colágeno hidrolizado para enriquecer la salsa"
+        ],
+        "foto_arquivo": "receta_090_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Croquetas Fit al Horno de Pollo y Whey Neutro, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los vegetales al vapor, al horno o salteados con media cucharada de aceite durante 5 minutos.",
+          "Salpimenta la carne magra con ajo molido, hierbas aromáticas, sal marina y pimienta negra.",
+          "Calienta una sartén o plancha antiadherente a fuego medio-alto con el resto del aceite de oliva.",
+          "Cocina la carne durante 4 a 6 minutos por lado según el grosor hasta que esté jugosa y bien hecha.",
+          "Si la receta incluye salsa enriquecida, mezcla el caldo con la proteína neutra y viértelo en el último minuto.",
+          "Emplata la porción de hidratos complejos (arroz, quinoa o boniato) como base.",
+          "Coloca la carne recién cocinada sobre la guarnición y sirve caliente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 41 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "420 kcal",
+          "proteinas": "41 g",
+          "carbohidratos": "35 g",
+          "grasas": "12 g",
+          "fibra": "4 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 91,
+        "capitulo": "Almuerzos y Cenas con Proteína/Colágeno",
+        "titulo": "Quiche Fit de Espinacas, Pollo y Proteína de Huevo",
+        "frase_efecto": "Tarta salada sin masa pesada ideal para cenas altas en nitrógeno positivo ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍗 5 oz de pechuga de pollo, pavo, ternera magra o cerdo magro (140 g)",
+          "🍚 3/4 taza de arroz integral, quinoa o boniato asado como guarnición (150 g)",
+          "🥦 1 taza de brócoli, espárragos, pimientos o calabacín fresco (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🌿 Ajo picado, perejil fresco, tomillo seco, sal marina y pimienta",
+          "💪 1 scoop de proteína neutra o colágeno hidrolizado para enriquecer la salsa"
+        ],
+        "foto_arquivo": "receta_091_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Quiche Fit de Espinacas, Pollo y Proteína de Huevo, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los vegetales al vapor, al horno o salteados con media cucharada de aceite durante 5 minutos.",
+          "Salpimenta la carne magra con ajo molido, hierbas aromáticas, sal marina y pimienta negra.",
+          "Calienta una sartén o plancha antiadherente a fuego medio-alto con el resto del aceite de oliva.",
+          "Cocina la carne durante 4 a 6 minutos por lado según el grosor hasta que esté jugosa y bien hecha.",
+          "Si la receta incluye salsa enriquecida, mezcla el caldo con la proteína neutra y viértelo en el último minuto.",
+          "Emplata la porción de hidratos complejos (arroz, quinoa o boniato) como base.",
+          "Coloca la carne recién cocinada sobre la guarnición y sirve caliente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 44 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "430 kcal",
+          "proteinas": "44 g",
+          "carbohidratos": "22 g",
+          "grasas": "18 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 92,
+        "capitulo": "Almuerzos y Cenas con Proteína/Colágeno",
+        "titulo": "Lasaña de Berenjena, Pavo y Proteína Neutra en la Salsa",
+        "frase_efecto": "Sabor italiano tradicional con carbohidratos controlados y proteína extra ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍗 5 oz de pechuga de pollo, pavo, ternera magra o cerdo magro (140 g)",
+          "🍚 3/4 taza de arroz integral, quinoa o boniato asado como guarnición (150 g)",
+          "🥦 1 taza de brócoli, espárragos, pimientos o calabacín fresco (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🌿 Ajo picado, perejil fresco, tomillo seco, sal marina y pimienta",
+          "💪 1 scoop de proteína neutra o colágeno hidrolizado para enriquecer la salsa"
+        ],
+        "foto_arquivo": "receta_092_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Lasaña de Berenjena, Pavo y Proteína Neutra en la Salsa, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los vegetales al vapor, al horno o salteados con media cucharada de aceite durante 5 minutos.",
+          "Salpimenta la carne magra con ajo molido, hierbas aromáticas, sal marina y pimienta negra.",
+          "Calienta una sartén o plancha antiadherente a fuego medio-alto con el resto del aceite de oliva.",
+          "Cocina la carne durante 4 a 6 minutos por lado según el grosor hasta que esté jugosa y bien hecha.",
+          "Si la receta incluye salsa enriquecida, mezcla el caldo con la proteína neutra y viértelo en el último minuto.",
+          "Emplata la porción de hidratos complejos (arroz, quinoa o boniato) como base.",
+          "Coloca la carne recién cocinada sobre la guarnición y sirve caliente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 45 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "455 kcal",
+          "proteinas": "45 g",
+          "carbohidratos": "32 g",
+          "grasas": "15 g",
+          "fibra": "8 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 93,
+        "capitulo": "Almuerzos y Cenas con Proteína/Colágeno",
+        "titulo": "Arroz Caldoso con Pollo, Verduras y Colágeno",
+        "frase_efecto": "Protección articular y muscular en un arroz caldoso de tradición española ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍗 5 oz de pechuga de pollo, pavo, ternera magra o cerdo magro (140 g)",
+          "🍚 3/4 taza de arroz integral, quinoa o boniato asado como guarnición (150 g)",
+          "🥦 1 taza de brócoli, espárragos, pimientos o calabacín fresco (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🌿 Ajo picado, perejil fresco, tomillo seco, sal marina y pimienta",
+          "💪 1 scoop de proteína neutra o colágeno hidrolizado para enriquecer la salsa"
+        ],
+        "foto_arquivo": "receta_093_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Arroz Caldoso con Pollo, Verduras y Colágeno, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los vegetales al vapor, al horno o salteados con media cucharada de aceite durante 5 minutos.",
+          "Salpimenta la carne magra con ajo molido, hierbas aromáticas, sal marina y pimienta negra.",
+          "Calienta una sartén o plancha antiadherente a fuego medio-alto con el resto del aceite de oliva.",
+          "Cocina la carne durante 4 a 6 minutos por lado según el grosor hasta que esté jugosa y bien hecha.",
+          "Si la receta incluye salsa enriquecida, mezcla el caldo con la proteína neutra y viértelo en el último minuto.",
+          "Emplata la porción de hidratos complejos (arroz, quinoa o boniato) como base.",
+          "Coloca la carne recién cocinada sobre la guarnición y sirve caliente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 43 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "470 kcal",
+          "proteinas": "43 g",
+          "carbohidratos": "46 g",
+          "grasas": "11 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 94,
+        "capitulo": "Almuerzos y Cenas con Proteína/Colágeno",
+        "titulo": "Estofado de Ternera Magra con Salsa Enriquecida",
+        "frase_efecto": "Salsa espesada con proteína neutra sin usar harina blanca ni maicena ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍗 5 oz de pechuga de pollo, pavo, ternera magra o cerdo magro (140 g)",
+          "🍚 3/4 taza de arroz integral, quinoa o boniato asado como guarnición (150 g)",
+          "🥦 1 taza de brócoli, espárragos, pimientos o calabacín fresco (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🌿 Ajo picado, perejil fresco, tomillo seco, sal marina y pimienta",
+          "💪 1 scoop de proteína neutra o colágeno hidrolizado para enriquecer la salsa"
+        ],
+        "foto_arquivo": "receta_094_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Estofado de Ternera Magra con Salsa Enriquecida, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los vegetales al vapor, al horno o salteados con media cucharada de aceite durante 5 minutos.",
+          "Salpimenta la carne magra con ajo molido, hierbas aromáticas, sal marina y pimienta negra.",
+          "Calienta una sartén o plancha antiadherente a fuego medio-alto con el resto del aceite de oliva.",
+          "Cocina la carne durante 4 a 6 minutos por lado según el grosor hasta que esté jugosa y bien hecha.",
+          "Si la receta incluye salsa enriquecida, mezcla el caldo con la proteína neutra y viértelo en el último minuto.",
+          "Emplata la porción de hidratos complejos (arroz, quinoa o boniato) como base.",
+          "Coloca la carne recién cocinada sobre la guarnición y sirve caliente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 48 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "490 kcal",
+          "proteinas": "48 g",
+          "carbohidratos": "41 g",
+          "grasas": "14 g",
+          "fibra": "6 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 95,
+        "capitulo": "Almuerzos y Cenas con Proteína/Colágeno",
+        "titulo": "Canelones de Calabacín Rellenos de Atún y Proteína Neutra",
+        "frase_efecto": "Roller fit de verduras marinas con valor proteico reforzado ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🐟 5 oz de filete de pescado fresco, gambas o marisco magro (140 g)",
+          "🥔 1 patata cocida, boniato o 3/4 taza de arroz integral (150 g)",
+          "🥒 1 taza de espárragos, calabacín, brócoli o pimientos (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🍋 Zumo de limón fresco, ajo picado, sal marina y perejil picado",
+          "💪 1 ración de colágeno hidrolizado o proteína neutra para el caldo marinero"
+        ],
+        "foto_arquivo": "receta_095_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Canelones de Calabacín Rellenos de Atún y Proteína Neutra, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Lava y seca el pescado o marisco, aderezando con sal marina, ajo picado y unas gotas de limón.",
+          "Calienta una sartén antiadherente o plancha a fuego fuerte con media cucharada de aceite de oliva.",
+          "Cocina el pescado o marisco 3 a 5 minutos por lado (el pescado blanco está listo cuando se desmigue fácil).",
+          "En otra sartén o al horno, asa la guarnición de verduras y patatas con el resto del aceite.",
+          "Sirve el pescado recién marcado sobre la cama de verduras calientes.",
+          "Rocía con abundante zumo de limón fresco y perejil recién picado."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 42 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "410 kcal",
+          "proteinas": "42 g",
+          "carbohidratos": "24 g",
+          "grasas": "15 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 96,
+        "capitulo": "Almuerzos y Cenas con Proteína/Colágeno",
+        "titulo": "Pizza con Base de Pollo y Aislado de Suero Neutro",
+        "frase_efecto": "La famosa pizza fit cuya base es 100% carne y proteína magra ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍗 5 oz de pechuga de pollo, pavo, ternera magra o cerdo magro (140 g)",
+          "🍚 3/4 taza de arroz integral, quinoa o boniato asado como guarnición (150 g)",
+          "🥦 1 taza de brócoli, espárragos, pimientos o calabacín fresco (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🌿 Ajo picado, perejil fresco, tomillo seco, sal marina y pimienta",
+          "💪 1 scoop de proteína neutra o colágeno hidrolizado para enriquecer la salsa"
+        ],
+        "foto_arquivo": "receta_096_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Pizza con Base de Pollo y Aislado de Suero Neutro, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los vegetales al vapor, al horno o salteados con media cucharada de aceite durante 5 minutos.",
+          "Salpimenta la carne magra con ajo molido, hierbas aromáticas, sal marina y pimienta negra.",
+          "Calienta una sartén o plancha antiadherente a fuego medio-alto con el resto del aceite de oliva.",
+          "Cocina la carne durante 4 a 6 minutos por lado según el grosor hasta que esté jugosa y bien hecha.",
+          "Si la receta incluye salsa enriquecida, mezcla el caldo con la proteína neutra y viértelo en el último minuto.",
+          "Emplata la porción de hidratos complejos (arroz, quinoa o boniato) como base.",
+          "Coloca la carne recién cocinada sobre la guarnición y sirve caliente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 52 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "485 kcal",
+          "proteinas": "52 g",
+          "carbohidratos": "18 g",
+          "grasas": "21 g",
+          "fibra": "4 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 97,
+        "capitulo": "Almuerzos y Cenas con Proteína/Colágeno",
+        "titulo": "Tortitas Saladas de Pavo y Proteína de Guisante",
+        "frase_efecto": "Panqueques salados perfectos para comer con ensalada fresca al mediodía ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍌 1 plátano maduro aplastado (100 g)",
+          "🥚 2 huevos grandes enteros o 4 claras líquidas",
+          "🥣 1/2 taza de avena en copos (40 g)",
+          "🧂 1 cucharadita de canela en polvo",
+          "🫒 1 cucharadita de aceite de oliva virgen extra para dorar (5 ml)",
+          "💪 1 scoop de proteína Whey o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_097_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Tortitas Saladas de Pavo y Proteína de Guisante, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un bol profundo, aplasta el plátano con un tenedor hasta convertirlo en puré suave.",
+          "Añade los huevos (y la proteína si aplica) y bate enérgicamente con unas varillas.",
+          "Incorpora los copos de avena y la canela en polvo hasta obtener una masa sin grumos.",
+          "Calienta una sartén antiadherente o gofrera a fuego medio con unas gotas de aceite de oliva.",
+          "Vierte pequeñas porciones de masa y cocina 2 o 3 minutos hasta ver burbujas en la superficie.",
+          "Dale la vuelta y dora 1 o 2 minutos más por el otro lado.",
+          "Sirve en un plato caliente decorando con fruta fresca al gusto."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 44 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "430 kcal",
+          "proteinas": "44 g",
+          "carbohidratos": "34 g",
+          "grasas": "12 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 98,
+        "capitulo": "Almuerzos y Cenas con Proteína/Colágeno",
+        "titulo": "Risotto Fit de Arroz Integral, Pollo y Whey Neutro",
+        "frase_efecto": "Cremoso sin usar mantequilla excesiva gracias a la textura de la proteína ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍗 5 oz de pechuga de pollo, pavo, ternera magra o cerdo magro (140 g)",
+          "🍚 3/4 taza de arroz integral, quinoa o boniato asado como guarnición (150 g)",
+          "🥦 1 taza de brócoli, espárragos, pimientos o calabacín fresco (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🌿 Ajo picado, perejil fresco, tomillo seco, sal marina y pimienta",
+          "💪 1 scoop de proteína neutra o colágeno hidrolizado para enriquecer la salsa"
+        ],
+        "foto_arquivo": "receta_098_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Risotto Fit de Arroz Integral, Pollo y Whey Neutro, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los vegetales al vapor, al horno o salteados con media cucharada de aceite durante 5 minutos.",
+          "Salpimenta la carne magra con ajo molido, hierbas aromáticas, sal marina y pimienta negra.",
+          "Calienta una sartén o plancha antiadherente a fuego medio-alto con el resto del aceite de oliva.",
+          "Cocina la carne durante 4 a 6 minutos por lado según el grosor hasta que esté jugosa y bien hecha.",
+          "Si la receta incluye salsa enriquecida, mezcla el caldo con la proteína neutra y viértelo en el último minuto.",
+          "Emplata la porción de hidratos complejos (arroz, quinoa o boniato) como base.",
+          "Coloca la carne recién cocinada sobre la guarnición y sirve caliente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 45 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "475 kcal",
+          "proteinas": "45 g",
+          "carbohidratos": "48 g",
+          "grasas": "11 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 99,
+        "capitulo": "Almuerzos y Cenas con Proteína/Colágeno",
+        "titulo": "Guiso de Lentejas Potenciado con Proteína y Pavo",
+        "frase_efecto": "Legumbre tradicional llevada al nivel atleta de élite con macros impecables ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍗 5 oz de pechuga de pollo, pavo, ternera magra o cerdo magro (140 g)",
+          "🍚 3/4 taza de arroz integral, quinoa o boniato asado como guarnición (150 g)",
+          "🥦 1 taza de brócoli, espárragos, pimientos o calabacín fresco (100 g)",
+          "🫒 1 cucharada de aceite de oliva virgen extra (13 g)",
+          "🌿 Ajo picado, perejil fresco, tomillo seco, sal marina y pimienta",
+          "💪 1 scoop de proteína neutra o colágeno hidrolizado para enriquecer la salsa"
+        ],
+        "foto_arquivo": "receta_099_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Guiso de Lentejas Potenciado con Proteína y Pavo, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los vegetales al vapor, al horno o salteados con media cucharada de aceite durante 5 minutos.",
+          "Salpimenta la carne magra con ajo molido, hierbas aromáticas, sal marina y pimienta negra.",
+          "Calienta una sartén o plancha antiadherente a fuego medio-alto con el resto del aceite de oliva.",
+          "Cocina la carne durante 4 a 6 minutos por lado según el grosor hasta que esté jugosa y bien hecha.",
+          "Si la receta incluye salsa enriquecida, mezcla el caldo con la proteína neutra y viértelo en el último minuto.",
+          "Emplata la porción de hidratos complejos (arroz, quinoa o boniato) como base.",
+          "Coloca la carne recién cocinada sobre la guarnición y sirve caliente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 49 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "510 kcal",
+          "proteinas": "49 g",
+          "carbohidratos": "49 g",
+          "grasas": "12 g",
+          "fibra": "15 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 100,
+        "capitulo": "Almuerzos y Cenas con Proteína/Colágeno",
+        "titulo": "Pimientos Rellenos de Carne Magra y Proteína Neutra",
+        "frase_efecto": "Verdura al horno rellena de jugosidad proteica gratinada ligera ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_100_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Pimientos Rellenos de Carne Magra y Proteína Neutra, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 43 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "440 kcal",
+          "proteinas": "43 g",
+          "carbohidratos": "33 g",
+          "grasas": "14 g",
+          "fibra": "6 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 101,
+        "capitulo": "Pré-Treino con Creatina/Carbos Rápidos",
+        "titulo": "Porridge de Avena y Plátano con Creatina Monohidrato",
+        "frase_efecto": "Carga máxima de ATP y glucógeno 45 minutos antes de tu entrenamiento de fuerza ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 1/2 taza de avena en copos o crema de arroz (40 g)",
+          "🥛 1 taza de leche desnatada o vegetal sin azúcar (240 ml)",
+          "🫐 1/2 taza de arándanos, fresas o rodajas de manzana (75 g)",
+          "🥜 1/2 oz de almendras, nueces o semillas de chía (14 g)",
+          "🧂 1 pizca de canela en polvo y aroma natural de vainilla",
+          "💪 1 scoop de proteína Whey, Aislado o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_101_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Porridge de Avena y Plátano con Creatina Monohidrato, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un cazo pequeño, mezcla el cereal con la leche desnatada y la canela en polvo.",
+          "Lleva a fuego medio removiendo sin cesar durante unos 4 minutos hasta que espese y adquiera cremosidad.",
+          "Retira el cazo del fuego y deja templar 1 minuto (importante para añadir proteína sin cuajarla).",
+          "Si lleva proteína en polvo, intégrala ahora removiendo suavemente hasta disolverla por completo.",
+          "Vierte el contenido en un bol ancho y profundo.",
+          "Decora la superficie con las frutas frescas elegidas y los frutos secos para un toque crujiente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 15 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "310 kcal",
+          "proteinas": "15 g",
+          "carbohidratos": "56 g",
+          "grasas": "3 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 102,
+        "capitulo": "Pré-Treino con Creatina/Carbos Rápidos",
+        "titulo": "Bol de Crema de Arroz con Miel y Creatina",
+        "frase_efecto": "Absorción en tiempo récord para sesiones de máxima intensidad y volumen ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 1/2 taza de avena en copos o crema de arroz (40 g)",
+          "🥛 1 taza de leche desnatada o vegetal sin azúcar (240 ml)",
+          "🫐 1/2 taza de arándanos, fresas o rodajas de manzana (75 g)",
+          "🥜 1/2 oz de almendras, nueces o semillas de chía (14 g)",
+          "🧂 1 pizca de canela en polvo y aroma natural de vainilla",
+          "💪 1 scoop de proteína Whey, Aislado o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_102_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Bol de Crema de Arroz con Miel y Creatina, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un cazo pequeño, mezcla el cereal con la leche desnatada y la canela en polvo.",
+          "Lleva a fuego medio removiendo sin cesar durante unos 4 minutos hasta que espese y adquiera cremosidad.",
+          "Retira el cazo del fuego y deja templar 1 minuto (importante para añadir proteína sin cuajarla).",
+          "Si lleva proteína en polvo, intégrala ahora removiendo suavemente hasta disolverla por completo.",
+          "Vierte el contenido en un bol ancho y profundo.",
+          "Decora la superficie con las frutas frescas elegidas y los frutos secos para un toque crujiente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 12 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "270 kcal",
+          "proteinas": "12 g",
+          "carbohidratos": "53 g",
+          "grasas": "1 g",
+          "fibra": "2 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 103,
+        "capitulo": "Pré-Treino con Creatina/Carbos Rápidos",
+        "titulo": "Tortitas de Avena, Plátano y Creatina",
+        "frase_efecto": "El bocado perfecto para potenciar tu fuerza explosiva y rendimiento ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍌 1 plátano maduro aplastado (100 g)",
+          "🥚 2 huevos grandes enteros o 4 claras líquidas",
+          "🥣 1/2 taza de avena en copos (40 g)",
+          "🧂 1 cucharadita de canela en polvo",
+          "🫒 1 cucharadita de aceite de oliva virgen extra para dorar (5 ml)",
+          "💪 1 scoop de proteína Whey o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_103_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Tortitas de Avena, Plátano y Creatina, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un bol profundo, aplasta el plátano con un tenedor hasta convertirlo en puré suave.",
+          "Añade los huevos (y la proteína si aplica) y bate enérgicamente con unas varillas.",
+          "Incorpora los copos de avena y la canela en polvo hasta obtener una masa sin grumos.",
+          "Calienta una sartén antiadherente o gofrera a fuego medio con unas gotas de aceite de oliva.",
+          "Vierte pequeñas porciones de masa y cocina 2 o 3 minutos hasta ver burbujas en la superficie.",
+          "Dale la vuelta y dora 1 o 2 minutos más por el otro lado.",
+          "Sirve en un plato caliente decorando con fruta fresca al gusto."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 16 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "320 kcal",
+          "proteinas": "16 g",
+          "carbohidratos": "54 g",
+          "grasas": "4 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 104,
+        "capitulo": "Pré-Treino con Creatina/Carbos Rápidos",
+        "titulo": "Gominolas de Gelatina Fit con Carbos Rápidos y Creatina",
+        "frase_efecto": "Bocados dulces caseros para consumir justo antes de levantar pesas ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_104_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Gominolas de Gelatina Fit con Carbos Rápidos y Creatina, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 12 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "210 kcal",
+          "proteinas": "12 g",
+          "carbohidratos": "40 g",
+          "grasas": "0 g",
+          "fibra": "1 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 105,
+        "capitulo": "Pré-Treino con Creatina/Carbos Rápidos",
+        "titulo": "Tosta de Miel, Plátano y Creatina en Polvo",
+        "frase_efecto": "Pan tostado con carbohidratos simples que impulsan la creatina a tu músculo ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_105_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Tosta de Miel, Plátano y Creatina en Polvo, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 10 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "280 kcal",
+          "proteinas": "10 g",
+          "carbohidratos": "55 g",
+          "grasas": "2 g",
+          "fibra": "4 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 106,
+        "capitulo": "Pré-Treino con Creatina/Carbos Rápidos",
+        "titulo": "Arroz con Leche Desnatada, Canela y Creatina",
+        "frase_efecto": "Postre tradicional transformado en el combustible pre-entreno más efectivo ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_106_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Arroz con Leche Desnatada, Canela y Creatina, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 14 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "295 kcal",
+          "proteinas": "14 g",
+          "carbohidratos": "56 g",
+          "grasas": "2 g",
+          "fibra": "3 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 107,
+        "capitulo": "Pré-Treino con Creatina/Carbos Rápidos",
+        "titulo": "Barritas Caseras de Avena, Miel, Plátano y Creatina",
+        "frase_efecto": "Prepara tu bandeja y ten listo tu pre-entreno para toda la semana ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 1/2 taza de avena en copos o crema de arroz (40 g)",
+          "🥛 1 taza de leche desnatada o vegetal sin azúcar (240 ml)",
+          "🫐 1/2 taza de arándanos, fresas o rodajas de manzana (75 g)",
+          "🥜 1/2 oz de almendras, nueces o semillas de chía (14 g)",
+          "🧂 1 pizca de canela en polvo y aroma natural de vainilla",
+          "💪 1 scoop de proteína Whey, Aislado o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_107_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Barritas Caseras de Avena, Miel, Plátano y Creatina, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un cazo pequeño, mezcla el cereal con la leche desnatada y la canela en polvo.",
+          "Lleva a fuego medio removiendo sin cesar durante unos 4 minutos hasta que espese y adquiera cremosidad.",
+          "Retira el cazo del fuego y deja templar 1 minuto (importante para añadir proteína sin cuajarla).",
+          "Si lleva proteína en polvo, intégrala ahora removiendo suavemente hasta disolverla por completo.",
+          "Vierte el contenido en un bol ancho y profundo.",
+          "Decora la superficie con las frutas frescas elegidas y los frutos secos para un toque crujiente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 11 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "305 kcal",
+          "proteinas": "11 g",
+          "carbohidratos": "58 g",
+          "grasas": "4 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 108,
+        "capitulo": "Pré-Treino con Creatina/Carbos Rápidos",
+        "titulo": "Puré de Boniato Dulce con Miel y Creatina",
+        "frase_efecto": "Almidón de excelente digestión que llena tus músculos de energía sostenida ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_108_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Puré de Boniato Dulce con Miel y Creatina, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 8 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "260 kcal",
+          "proteinas": "8 g",
+          "carbohidratos": "55 g",
+          "grasas": "1 g",
+          "fibra": "4 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 109,
+        "capitulo": "Pré-Treino con Creatina/Carbos Rápidos",
+        "titulo": "Copos de Maíz con Leche y Creatina Monohidrato",
+        "frase_efecto": "Ligereza digestiva extrema para entrenar pesado sin molestias de estómago ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_109_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Copos de Maíz con Leche y Creatina Monohidrato, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 13 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "285 kcal",
+          "proteinas": "13 g",
+          "carbohidratos": "54 g",
+          "grasas": "2 g",
+          "fibra": "2 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 110,
+        "capitulo": "Pré-Treino con Creatina/Carbos Rápidos",
+        "titulo": "Pudin de Tapioca y Plátano con Creatina",
+        "frase_efecto": "Carbohidrato blanco de rápida absorción con fuerza celular añadida ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_110_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Pudin de Tapioca y Plátano con Creatina, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 9 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "275 kcal",
+          "proteinas": "9 g",
+          "carbohidratos": "57 g",
+          "grasas": "1 g",
+          "fibra": "2 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 111,
+        "capitulo": "Pós-Treino Anabólico con Whey/Aislado",
+        "titulo": "Bol Anabólico de Crema de Arroz con Whey Chocolate",
+        "frase_efecto": "La comida post-entreno número 1 de los culturistas y atletas de élite ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 1/2 taza de avena en copos o crema de arroz (40 g)",
+          "🥛 1 taza de leche desnatada o vegetal sin azúcar (240 ml)",
+          "🫐 1/2 taza de arándanos, fresas o rodajas de manzana (75 g)",
+          "🥜 1/2 oz de almendras, nueces o semillas de chía (14 g)",
+          "🧂 1 pizca de canela en polvo y aroma natural de vainilla",
+          "💪 1 scoop de proteína Whey, Aislado o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_111_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Bol Anabólico de Crema de Arroz con Whey Chocolate, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un cazo pequeño, mezcla el cereal con la leche desnatada y la canela en polvo.",
+          "Lleva a fuego medio removiendo sin cesar durante unos 4 minutos hasta que espese y adquiera cremosidad.",
+          "Retira el cazo del fuego y deja templar 1 minuto (importante para añadir proteína sin cuajarla).",
+          "Si lleva proteína en polvo, intégrala ahora removiendo suavemente hasta disolverla por completo.",
+          "Vierte el contenido en un bol ancho y profundo.",
+          "Decora la superficie con las frutas frescas elegidas y los frutos secos para un toque crujiente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 44 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "420 kcal",
+          "proteinas": "44 g",
+          "carbohidratos": "52 g",
+          "grasas": "4 g",
+          "fibra": "3 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 112,
+        "capitulo": "Pós-Treino Anabólico con Whey/Aislado",
+        "titulo": "Tortitas Gigantes de Avena, Plátano y Aislado de Suero",
+        "frase_efecto": "Reabastece glucógeno y repara fibras con una comida deliciosa y saciante ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍌 1 plátano maduro aplastado (100 g)",
+          "🥚 2 huevos grandes enteros o 4 claras líquidas",
+          "🥣 1/2 taza de avena en copos (40 g)",
+          "🧂 1 cucharadita de canela en polvo",
+          "🫒 1 cucharadita de aceite de oliva virgen extra para dorar (5 ml)",
+          "💪 1 scoop de proteína Whey o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_112_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Tortitas Gigantes de Avena, Plátano y Aislado de Suero, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un bol profundo, aplasta el plátano con un tenedor hasta convertirlo en puré suave.",
+          "Añade los huevos (y la proteína si aplica) y bate enérgicamente con unas varillas.",
+          "Incorpora los copos de avena y la canela en polvo hasta obtener una masa sin grumos.",
+          "Calienta una sartén antiadherente o gofrera a fuego medio con unas gotas de aceite de oliva.",
+          "Vierte pequeñas porciones de masa y cocina 2 o 3 minutos hasta ver burbujas en la superficie.",
+          "Dale la vuelta y dora 1 o 2 minutos más por el otro lado.",
+          "Sirve en un plato caliente decorando con fruta fresca al gusto."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 42 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "440 kcal",
+          "proteinas": "42 g",
+          "carbohidratos": "55 g",
+          "grasas": "6 g",
+          "fibra": "6 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 113,
+        "capitulo": "Pós-Treino Anabólico con Whey/Aislado",
+        "titulo": "Waffles Post-Entreno de Harina de Arroz y Whey Vainilla",
+        "frase_efecto": "Crujientes por fuera y listos para absorberse en tu ventana de recuperación ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍌 1 plátano maduro aplastado (100 g)",
+          "🥚 2 huevos grandes enteros o 4 claras líquidas",
+          "🥣 1/2 taza de avena en copos (40 g)",
+          "🧂 1 cucharadita de canela en polvo",
+          "🫒 1 cucharadita de aceite de oliva virgen extra para dorar (5 ml)",
+          "💪 1 scoop de proteína Whey o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_113_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Waffles Post-Entreno de Harina de Arroz y Whey Vainilla, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un bol profundo, aplasta el plátano con un tenedor hasta convertirlo en puré suave.",
+          "Añade los huevos (y la proteína si aplica) y bate enérgicamente con unas varillas.",
+          "Incorpora los copos de avena y la canela en polvo hasta obtener una masa sin grumos.",
+          "Calienta una sartén antiadherente o gofrera a fuego medio con unas gotas de aceite de oliva.",
+          "Vierte pequeñas porciones de masa y cocina 2 o 3 minutos hasta ver burbujas en la superficie.",
+          "Dale la vuelta y dora 1 o 2 minutos más por el otro lado.",
+          "Sirve en un plato caliente decorando con fruta fresca al gusto."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 40 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "410 kcal",
+          "proteinas": "40 g",
+          "carbohidratos": "50 g",
+          "grasas": "5 g",
+          "fibra": "4 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 114,
+        "capitulo": "Pós-Treino Anabólico con Whey/Aislado",
+        "titulo": "Porridge de Avena, Plátano, Miel y Whey Fresa",
+        "frase_efecto": "Cremoso, dulce y cargado de leucina natural para la síntesis de proteína ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 1/2 taza de avena en copos o crema de arroz (40 g)",
+          "🥛 1 taza de leche desnatada o vegetal sin azúcar (240 ml)",
+          "🫐 1/2 taza de arándanos, fresas o rodajas de manzana (75 g)",
+          "🥜 1/2 oz de almendras, nueces o semillas de chía (14 g)",
+          "🧂 1 pizca de canela en polvo y aroma natural de vainilla",
+          "💪 1 scoop de proteína Whey, Aislado o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_114_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Porridge de Avena, Plátano, Miel y Whey Fresa, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un cazo pequeño, mezcla el cereal con la leche desnatada y la canela en polvo.",
+          "Lleva a fuego medio removiendo sin cesar durante unos 4 minutos hasta que espese y adquiera cremosidad.",
+          "Retira el cazo del fuego y deja templar 1 minuto (importante para añadir proteína sin cuajarla).",
+          "Si lleva proteína en polvo, intégrala ahora removiendo suavemente hasta disolverla por completo.",
+          "Vierte el contenido en un bol ancho y profundo.",
+          "Decora la superficie con las frutas frescas elegidas y los frutos secos para un toque crujiente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 41 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "430 kcal",
+          "proteinas": "41 g",
+          "carbohidratos": "56 g",
+          "grasas": "5 g",
+          "fibra": "6 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 115,
+        "capitulo": "Pós-Treino Anabólico con Whey/Aislado",
+        "titulo": "Mug Cake Doble Chocolate con Whey y Copos de Avena",
+        "frase_efecto": "Bizcocho caliente post-entreno en microondas que sabe a premio merecido ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 1/2 taza de avena en copos o crema de arroz (40 g)",
+          "🥛 1 taza de leche desnatada o vegetal sin azúcar (240 ml)",
+          "🫐 1/2 taza de arándanos, fresas o rodajas de manzana (75 g)",
+          "🥜 1/2 oz de almendras, nueces o semillas de chía (14 g)",
+          "🧂 1 pizca de canela en polvo y aroma natural de vainilla",
+          "💪 1 scoop de proteína Whey, Aislado o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_115_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Mug Cake Doble Chocolate con Whey y Copos de Avena, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un cazo pequeño, mezcla el cereal con la leche desnatada y la canela en polvo.",
+          "Lleva a fuego medio removiendo sin cesar durante unos 4 minutos hasta que espese y adquiera cremosidad.",
+          "Retira el cazo del fuego y deja templar 1 minuto (importante para añadir proteína sin cuajarla).",
+          "Si lleva proteína en polvo, intégrala ahora removiendo suavemente hasta disolverla por completo.",
+          "Vierte el contenido en un bol ancho y profundo.",
+          "Decora la superficie con las frutas frescas elegidas y los frutos secos para un toque crujiente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 39 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "380 kcal",
+          "proteinas": "39 g",
+          "carbohidratos": "42 g",
+          "grasas": "6 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 116,
+        "capitulo": "Pós-Treino Anabólico con Whey/Aislado",
+        "titulo": "Bol de Gnocchis Dulces de Patata con Salsa de Whey",
+        "frase_efecto": "Innovación fit: gnocchis hervidos con crema dulce de proteína de suero ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_116_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Bol de Gnocchis Dulces de Patata con Salsa de Whey, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 38 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "450 kcal",
+          "proteinas": "38 g",
+          "carbohidratos": "62 g",
+          "grasas": "5 g",
+          "fibra": "4 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 117,
+        "capitulo": "Pós-Treino Anabólico con Whey/Aislado",
+        "titulo": "Arroz con Leche Proteico de Post-Entrenamiento",
+        "frase_efecto": "El arroz con leche de toda la vida con 40 gramos de proteína pura ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_117_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Arroz con Leche Proteico de Post-Entrenamiento, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 40 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "425 kcal",
+          "proteinas": "40 g",
+          "carbohidratos": "54 g",
+          "grasas": "4 g",
+          "fibra": "3 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 118,
+        "capitulo": "Pós-Treino Anabólico con Whey/Aislado",
+        "titulo": "Tosta Dulce de Pan Integral con Crema de Whey y Plátano",
+        "frase_efecto": "Unta tu tostada crujiente con un glaseado proteico casero increíble ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_118_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Tosta Dulce de Pan Integral con Crema de Whey y Plátano, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 37 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "405 kcal",
+          "proteinas": "37 g",
+          "carbohidratos": "51 g",
+          "grasas": "6 g",
+          "fibra": "6 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 119,
+        "capitulo": "Pós-Treino Anabólico con Whey/Aislado",
+        "titulo": "Flan Proteico Exprés de Claras y Whey Vainilla",
+        "frase_efecto": "Postre fresco de alta proteína que se cuaja en el microondas en 3 minutos ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_119_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Flan Proteico Exprés de Claras y Whey Vainilla, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 42 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "350 kcal",
+          "proteinas": "42 g",
+          "carbohidratos": "35 g",
+          "grasas": "3 g",
+          "fibra": "2 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 120,
+        "capitulo": "Pós-Treino Anabólico con Whey/Aislado",
+        "titulo": "Bizcocho Horneado de Boniato y Proteína Chocolate",
+        "frase_efecto": "Dulce natural de tubérculo con proteína de suero para una recuperación 10 ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_120_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Bizcocho Horneado de Boniato y Proteína Chocolate, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 39 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "435 kcal",
+          "proteinas": "39 g",
+          "carbohidratos": "53 g",
+          "grasas": "7 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 121,
+        "capitulo": "Pós-Treino Anabólico con Whey/Aislado",
+        "titulo": "Crema de Trigo Sarraceno con Whey Vainilla y Manzana",
+        "frase_efecto": "Sin gluten, digestiva y perfecta para rellenar tus depósitos musculares ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 1/2 taza de avena en copos o crema de arroz (40 g)",
+          "🥛 1 taza de leche desnatada o vegetal sin azúcar (240 ml)",
+          "🫐 1/2 taza de arándanos, fresas o rodajas de manzana (75 g)",
+          "🥜 1/2 oz de almendras, nueces o semillas de chía (14 g)",
+          "🧂 1 pizca de canela en polvo y aroma natural de vainilla",
+          "💪 1 scoop de proteína Whey, Aislado o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_121_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Crema de Trigo Sarraceno con Whey Vainilla y Manzana, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un cazo pequeño, mezcla el cereal con la leche desnatada y la canela en polvo.",
+          "Lleva a fuego medio removiendo sin cesar durante unos 4 minutos hasta que espese y adquiera cremosidad.",
+          "Retira el cazo del fuego y deja templar 1 minuto (importante para añadir proteína sin cuajarla).",
+          "Si lleva proteína en polvo, intégrala ahora removiendo suavemente hasta disolverla por completo.",
+          "Vierte el contenido en un bol ancho y profundo.",
+          "Decora la superficie con las frutas frescas elegidas y los frutos secos para un toque crujiente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 38 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "415 kcal",
+          "proteinas": "38 g",
+          "carbohidratos": "52 g",
+          "grasas": "6 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 122,
+        "capitulo": "Pós-Treino Anabólico con Whey/Aislado",
+        "titulo": "Panqueque Soufflé de Claras, Arroz y Whey",
+        "frase_efecto": "Esponjosidad estilo japonesa con macros calculados al milímetro ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🍌 1 plátano maduro aplastado (100 g)",
+          "🥚 2 huevos grandes enteros o 4 claras líquidas",
+          "🥣 1/2 taza de avena en copos (40 g)",
+          "🧂 1 cucharadita de canela en polvo",
+          "🫒 1 cucharadita de aceite de oliva virgen extra para dorar (5 ml)",
+          "💪 1 scoop de proteína Whey o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_122_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Panqueque Soufflé de Claras, Arroz y Whey, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un bol profundo, aplasta el plátano con un tenedor hasta convertirlo en puré suave.",
+          "Añade los huevos (y la proteína si aplica) y bate enérgicamente con unas varillas.",
+          "Incorpora los copos de avena y la canela en polvo hasta obtener una masa sin grumos.",
+          "Calienta una sartén antiadherente o gofrera a fuego medio con unas gotas de aceite de oliva.",
+          "Vierte pequeñas porciones de masa y cocina 2 o 3 minutos hasta ver burbujas en la superficie.",
+          "Dale la vuelta y dora 1 o 2 minutos más por el otro lado.",
+          "Sirve en un plato caliente decorando con fruta fresca al gusto."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 41 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "390 kcal",
+          "proteinas": "41 g",
+          "carbohidratos": "45 g",
+          "grasas": "4 g",
+          "fibra": "3 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 123,
+        "capitulo": "Pós-Treino Anabólico con Whey/Aislado",
+        "titulo": "Cereales de Maíz Crujientes con Leche Proteica de Whey",
+        "frase_efecto": "El post-entreno más rápido de la historia sin cocinar y con macros perfectos ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_123_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Cereales de Maíz Crujientes con Leche Proteica de Whey, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 40 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "400 kcal",
+          "proteinas": "40 g",
+          "carbohidratos": "52 g",
+          "grasas": "4 g",
+          "fibra": "2 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 124,
+        "capitulo": "Pós-Treino Anabólico con Whey/Aislado",
+        "titulo": "Bol de Tapioca Cremosa con Whey Fresa y Plátano",
+        "frase_efecto": "Suavidad absoluta para calmar el apetito voraz después de un entreno duro ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_124_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Bol de Tapioca Cremosa con Whey Fresa y Plátano, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 38 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "420 kcal",
+          "proteinas": "38 g",
+          "carbohidratos": "56 g",
+          "grasas": "4 g",
+          "fibra": "3 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 125,
+        "capitulo": "Pós-Treino Anabólico con Whey/Aislado",
+        "titulo": "Bizcocho de Zanahoria Fit al Horno con Whey Vainilla",
+        "frase_efecto": "Carrot cake en versión post-entreno alta en leucina y carbohidrato sano ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_125_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Bizcocho de Zanahoria Fit al Horno con Whey Vainilla, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 39 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "430 kcal",
+          "proteinas": "39 g",
+          "carbohidratos": "48 g",
+          "grasas": "8 g",
+          "fibra": "5 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 126,
+        "capitulo": "Lanches y Snacks Proteicos",
+        "titulo": "Barritas Caseras de Avena, Crema de Cacahuete y Whey",
+        "frase_efecto": "Olvídate de las barritas industriales caras: haz 8 unidades por una fracción ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 1/2 taza de avena en copos o crema de arroz (40 g)",
+          "🥛 1 taza de leche desnatada o vegetal sin azúcar (240 ml)",
+          "🫐 1/2 taza de arándanos, fresas o rodajas de manzana (75 g)",
+          "🥜 1/2 oz de almendras, nueces o semillas de chía (14 g)",
+          "🧂 1 pizca de canela en polvo y aroma natural de vainilla",
+          "💪 1 scoop de proteína Whey, Aislado o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_126_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Barritas Caseras de Avena, Crema de Cacahuete y Whey, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un cazo pequeño, mezcla el cereal con la leche desnatada y la canela en polvo.",
+          "Lleva a fuego medio removiendo sin cesar durante unos 4 minutos hasta que espese y adquiera cremosidad.",
+          "Retira el cazo del fuego y deja templar 1 minuto (importante para añadir proteína sin cuajarla).",
+          "Si lleva proteína en polvo, intégrala ahora removiendo suavemente hasta disolverla por completo.",
+          "Vierte el contenido en un bol ancho y profundo.",
+          "Decora la superficie con las frutas frescas elegidas y los frutos secos para un toque crujiente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 18 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "230 kcal",
+          "proteinas": "18 g",
+          "carbohidratos": "22 g",
+          "grasas": "8 g",
+          "fibra": "4 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 127,
+        "capitulo": "Lanches y Snacks Proteicos",
+        "titulo": "Bolas de Energía (Energy Balls) de Chía y Proteína",
+        "frase_efecto": "Tres bolitas dulces para llevar en el bolsillo y picar cuando apriete el hambre ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_127_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Bolas de Energía (Energy Balls) de Chía y Proteína, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 16 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "210 kcal",
+          "proteinas": "16 g",
+          "carbohidratos": "19 g",
+          "grasas": "8 g",
+          "fibra": "4 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 128,
+        "capitulo": "Lanches y Snacks Proteicos",
+        "titulo": "Muffins de Chocolate Fit con Whey y Calabacín",
+        "frase_efecto": "El calabacín le da una jugosidad increíble sin sumar grasa ni carbohidratos ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_128_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Muffins de Chocolate Fit con Whey y Calabacín, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 17 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "190 kcal",
+          "proteinas": "17 g",
+          "carbohidratos": "16 g",
+          "grasas": "6 g",
+          "fibra": "3 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 129,
+        "capitulo": "Lanches y Snacks Proteicos",
+        "titulo": "Galletas Crujientes de Avena, Almendras y Whey",
+        "frase_efecto": "Galletas saludables para la merienda con café o té a media tarde ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 1/2 taza de avena en copos o crema de arroz (40 g)",
+          "🥛 1 taza de leche desnatada o vegetal sin azúcar (240 ml)",
+          "🫐 1/2 taza de arándanos, fresas o rodajas de manzana (75 g)",
+          "🥜 1/2 oz de almendras, nueces o semillas de chía (14 g)",
+          "🧂 1 pizca de canela en polvo y aroma natural de vainilla",
+          "💪 1 scoop de proteína Whey, Aislado o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_129_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Galletas Crujientes de Avena, Almendras y Whey, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un cazo pequeño, mezcla el cereal con la leche desnatada y la canela en polvo.",
+          "Lleva a fuego medio removiendo sin cesar durante unos 4 minutos hasta que espese y adquiera cremosidad.",
+          "Retira el cazo del fuego y deja templar 1 minuto (importante para añadir proteína sin cuajarla).",
+          "Si lleva proteína en polvo, intégrala ahora removiendo suavemente hasta disolverla por completo.",
+          "Vierte el contenido en un bol ancho y profundo.",
+          "Decora la superficie con las frutas frescas elegidas y los frutos secos para un toque crujiente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 16 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "205 kcal",
+          "proteinas": "16 g",
+          "carbohidratos": "20 g",
+          "grasas": "7 g",
+          "fibra": "3 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 130,
+        "capitulo": "Lanches y Snacks Proteicos",
+        "titulo": "Pudin de Chía con Capa de Whey Chocolate",
+        "frase_efecto": "Cremoso, lleno de Omega-3 y con una capa superior que sabe a postre ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_130_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Pudin de Chía con Capa de Whey Chocolate, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 18 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "215 kcal",
+          "proteinas": "18 g",
+          "carbohidratos": "15 g",
+          "grasas": "9 g",
+          "fibra": "6 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 131,
+        "capitulo": "Lanches y Snacks Proteicos",
+        "titulo": "Flan Individual de Queso Cottage y Whey Vainilla",
+        "frase_efecto": "Fresco, saciante y con una textura suave de tarta de queso fit ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_131_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Flan Individual de Queso Cottage y Whey Vainilla, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 21 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "195 kcal",
+          "proteinas": "21 g",
+          "carbohidratos": "12 g",
+          "grasas": "6 g",
+          "fibra": "1 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 132,
+        "capitulo": "Lanches y Snacks Proteicos",
+        "titulo": "Bizcochitos Limón y Semillas de Amapola con Whey",
+        "frase_efecto": "Aroma cítrico y textura tierna para una merienda elegante e hiperproteica ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_132_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Bizcochitos Limón y Semillas de Amapola con Whey, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 17 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "185 kcal",
+          "proteinas": "17 g",
+          "carbohidratos": "17 g",
+          "grasas": "5 g",
+          "fibra": "2 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 133,
+        "capitulo": "Lanches y Snacks Proteicos",
+        "titulo": "Trufas Fit de Cacahuete, Avena y Proteína Chocolate",
+        "frase_efecto": "Dos trufas de chocolate fit que calman cualquier antojo de dulce ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 1/2 taza de avena en copos o crema de arroz (40 g)",
+          "🥛 1 taza de leche desnatada o vegetal sin azúcar (240 ml)",
+          "🫐 1/2 taza de arándanos, fresas o rodajas de manzana (75 g)",
+          "🥜 1/2 oz de almendras, nueces o semillas de chía (14 g)",
+          "🧂 1 pizca de canela en polvo y aroma natural de vainilla",
+          "💪 1 scoop de proteína Whey, Aislado o Caseína (30 g)"
+        ],
+        "foto_arquivo": "receta_133_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Trufas Fit de Cacahuete, Avena y Proteína Chocolate, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "En un cazo pequeño, mezcla el cereal con la leche desnatada y la canela en polvo.",
+          "Lleva a fuego medio removiendo sin cesar durante unos 4 minutos hasta que espese y adquiera cremosidad.",
+          "Retira el cazo del fuego y deja templar 1 minuto (importante para añadir proteína sin cuajarla).",
+          "Si lleva proteína en polvo, intégrala ahora removiendo suavemente hasta disolverla por completo.",
+          "Vierte el contenido en un bol ancho y profundo.",
+          "Decora la superficie con las frutas frescas elegidas y los frutos secos para un toque crujiente."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 18 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "220 kcal",
+          "proteinas": "18 g",
+          "carbohidratos": "18 g",
+          "grasas": "9 g",
+          "fibra": "3 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 134,
+        "capitulo": "Lanches y Snacks Proteicos",
+        "titulo": "Tartaleta Frita en Airfryer de Manzana y Whey",
+        "frase_efecto": "Crujiente por fuera y con relleno tierno de manzana con proteína ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_134_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Tartaleta Frita en Airfryer de Manzana y Whey, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 16 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "200 kcal",
+          "proteinas": "16 g",
+          "carbohidratos": "24 g",
+          "grasas": "4 g",
+          "fibra": "3 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 135,
+        "capitulo": "Lanches y Snacks Proteicos",
+        "titulo": "Crepes Fríos Rellenos de Crema de Whey y Fresas",
+        "frase_efecto": "Prepara tus crepes por la mañana y consérvalos en la nevera como merienda ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_135_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Crepes Fríos Rellenos de Crema de Whey y Fresas, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 19 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "210 kcal",
+          "proteinas": "19 g",
+          "carbohidratos": "18 g",
+          "grasas": "6 g",
+          "fibra": "3 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 136,
+        "capitulo": "Antes de Dormir con Caseína/Cottage",
+        "titulo": "Mousse Nocturna de Caseína Micelar Sabor Chocolate",
+        "frase_efecto": "Libera aminoácidos lentamente durante 7 horas continuas mientras duermes ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_136_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Mousse Nocturna de Caseína Micelar Sabor Chocolate, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 26 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "210 kcal",
+          "proteinas": "26 g",
+          "carbohidratos": "8 g",
+          "grasas": "8 g",
+          "fibra": "3 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 137,
+        "capitulo": "Antes de Dormir con Caseína/Cottage",
+        "titulo": "Bol de Queso Cottage Potenciado con Caseína Vainilla",
+        "frase_efecto": "El dúo imbatible de proteína de liberación lenta para máxima recuperación ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_137_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Bol de Queso Cottage Potenciado con Caseína Vainilla, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 30 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "230 kcal",
+          "proteinas": "30 g",
+          "carbohidratos": "9 g",
+          "grasas": "8 g",
+          "fibra": "2 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 138,
+        "capitulo": "Antes de Dormir con Caseína/Cottage",
+        "titulo": "Pudin Caliente de Caseína y Canela al Taza",
+        "frase_efecto": "Una taza reconfortante antes de meterte en la cama en noches frías ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_138_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Pudin Caliente de Caseína y Canela al Taza, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 25 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "200 kcal",
+          "proteinas": "25 g",
+          "carbohidratos": "7 g",
+          "grasas": "7 g",
+          "fibra": "3 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 139,
+        "capitulo": "Antes de Dormir con Caseína/Cottage",
+        "titulo": "Helado Fit de Caseína y Yogur Griego (Sin Heladera)",
+        "frase_efecto": "Textura cremosa congelada que no cristaliza gracias a la caseína micelar ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_139_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Helado Fit de Caseína y Yogur Griego (Sin Heladera), delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 28 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "220 kcal",
+          "proteinas": "28 g",
+          "carbohidratos": "10 g",
+          "grasas": "7 g",
+          "fibra": "2 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      },
+      {
+        "id": 140,
+        "capitulo": "Antes de Dormir con Caseína/Cottage",
+        "titulo": "Crema de Queso Batido 0% con Caseína Chocolate y Nueces",
+        "frase_efecto": "Postre nocturno espeso y delicioso que evita el catabolismo de la madrugada ❤️",
+        "tiempo": "15 a 25 minutos",
+        "rendimiento": "1 ración",
+        "ingredientes": [
+          "🥣 Ingrediente principal proteico fit en porción equilibrada (150 g)",
+          "🌾 Guarnición de carbohidratos integrales o fibra vegetal (100 g)",
+          "🫒 1 cucharadita a 1 cucharada de aceite de oliva virgen extra",
+          "🌿 Ajo, especias naturales, sal marina y zumo de limón al gusto",
+          "💪 1 scoop de suplemento proteico (Whey, Caseína ou Aislado)"
+        ],
+        "foto_arquivo": "receta_140_es.jpg",
+        "foto_prompt": "Professional editorial food photography of Crema de Queso Batido 0% con Caseína Chocolate y Nueces, delicious healthy Spanish fitness recipe, served on a modern ceramic plate, soft natural window light, soft-focus sage green background, 45-degree angle, shallow depth of field, bright clean appetizing fitness cookbook style, ultra high resolution, square 1:1 centered composition, no text, no watermark",
+        "modo_preparo": [
+          "Prepara los ingredientes frescos lavándolos y cortándolos en porciones uniformes.",
+          "Cocina a la plancha, al horno o al vapor controlando la temperatura para no quemar las grasas saludables.",
+          "Combina la fuente proteica principal con la guarnición en un plato amplio.",
+          "Adereza con aceite de oliva virgen extra, sal marina y hierbas al gusto.",
+          "Sirve fresco o caliente según la temporada y tu preferencia."
+        ],
+        "frase_lateral": "Excelente receta fitness adaptada al estilo de vida activo con máxima saciedad 🌸",
+        "objetivo_titulo": "Definición y Masa Muscular 💪",
+        "objetivo_descripcion": "Esta receta aporta 31 g de proteína de alta biodisponibilidad y carbohidratos limpios para tu rendimiento.",
+        "macros": {
+          "calorias": "240 kcal",
+          "proteinas": "31 g",
+          "carbohidratos": "8 g",
+          "grasas": "9 g",
+          "fibra": "3 g"
+        },
+        "variaciones": [
+          "🌱 Puedes adaptar la guarnición cambiando arroz integral por quinoa o boniato según tus objetivos",
+          "🌱 Si estás en fase de corte calórico estricto, sustituye los almidones por doble ración de verduras verdes",
+          "🌱 Puedes elegir tu sabor favorito de proteína de suero (vainilla, chocolate, fresa o neutro)"
+        ]
+      }
+    ]
+  }
+}
